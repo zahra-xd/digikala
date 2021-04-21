@@ -1,5 +1,10 @@
 /* //رنگ پس زمینه بادی */
 
+body {
+    box-sizing: border-box;
+    font-family: '/font/vazir-font-v8.2.1';
+}
+
 .bg-kol {
     background: #fff
 }
