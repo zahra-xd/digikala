@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>صفحه  محصولات </title>
-         <script src="/js/indexx.js"></script>
+     
          <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
          <link rel="stylesheet" href="/css/style.css" >
          <link rel="stylesheet" href="/css/stylepage2.css" >
@@ -234,21 +234,7 @@
                                      </div>
 
                                  </div>
-                                 {{-- <div class="c-product__summary js-product-summary">
-                                     <div class="card__box">
-                                         <div class="c-product__seller-info js-seller-info">
-                                             <div class=" c-product__seller-box">
-                                                     <div class="c-product-header">
-                                                         <div>فروشنده</div>
-                                                         <a>4 فروشنده دیگر</a>
-                                                     </div>
-                                                     <div class="c-proc-row">
-
-                                                     </div>
-                                             </div>
-                                         </div>
-                                     </div>
-                                 </div> --}}
+                           
                                 </div>
                                 <div class="c-product__summary js-product-summary">
                                     <div class="card__box">
@@ -353,23 +339,25 @@
                             <div class="item-galery">
                            <ul class="networksocial">
 
-                               <li><i style='font-size:24px' class='far'>&#xf004;</i></li>
-                               <li><i style='font-size:24px' class='fas'>&#xf1e0;</i> </li>
-                               <li><i style='font-size:24px' class='far'>&#xf1f6;</i></li>
-                               <li><i style='font-size:24px' class='fas'>&#xf201;</i></li>
-                               <li><i style='font-size:24px' class='fas'>&#xf201;</i></li>
-                            </ul>
-                               <div class="card-galery-img">
-                                      <img src="/image/77.jpg">
+                               <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf004;</i>  <span class="tooltiptextt">افزودن به علاقه مندی</span></li>
+                               <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf1e0;</i> <span class="tooltiptextt">اشتراک گذاری</span> </li>
+                               <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf1f6;</i> <span class="tooltiptextt">اطلاع رسانی شگفت انگیز</span></li>
+                               <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">نمودار قیمت </span></li>
+                               <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">مقایسه</span></li>
+                            </ul >
+                               <div class="card-galery-img" >
+                                {{-- <div class="img-zoom-lens" style="left: 59.125px; top: 119.2px;"></div> --}}
+                                      <img class=""  id="myimage" src="/image/77.jpg" srcset="/image/77.jpg">
+                                     <span id="myhide" style="float: right; position: absolute; top: 0px;right: 450px;width: auto;height: 100%;z-index: 23424">
+                                        <div id="myresult" class="img-zoom-result" onmouseleave="hideme(this)" style="background-image: url(&quot;/image/77.jpg&quot;); background-size: 1320px 1375px; background-position: -628.5px -271.667px;"></div> 
+                                  </span> 
+                            
+                                      {{-- ** --}}
                                       <div class="c-gallery__main-img-badges-container"></div>
                                     </div>
                             </div>
                             <ul class="c-gallery__items">
-                                {{-- <li class="js-product-thumb-img" data-id="1">
-                                    <div class="thumb-wrapper">
-                                        <img src="/image/78.jpg">
-                                    </div>
-                                </li> --}}
+                             
                                  <li class="js-product-thumb-img" data-id="2">
                                     <div class="thumb-wrapper">
                                         <img src="/image/78.jpg">
@@ -392,12 +380,15 @@
 
                                     </div>
                                 </li> 
-                                <li class="js-product-thumb-img" data-id="6">
+                                <li class="js-product-thumb-img" id="mybtnn" onclick="oopemodel()"  data-id="6">
                                     <div class="thumb-wrapper">
                                         <img src="/image/82.jpg" style="-webkit-filter: blur(3px)">
                                         <div class="cir">...</div>
                                     </div>
                                 </li>
+                          
+                          
+                                {{-- ***model** --}}
                                  <li class="js-product-thumb-img" data-id="7">
                                     <div class="thumb-wrapper">
                                         <img src="/image/81.jpg">
@@ -410,96 +401,76 @@
                                        
                                     </div>
                                 </li> 
-                                {{-- <li class="js-product-thumb-img" data-id="9">
-                                    <div class="thumb-wrapper">
-                                        <img src="MAINIMG/1.jpg">
-                                        
-                                    </div>
-                                </li>
-                                <li class="js-product-thumb-img" data-id="10">
-                                    <div class="thumb-wrapper">
-                                        <img src="MAINIMG/1.jpg">
-                                       
-                                    </div>
-                                </li>
-                                <li class="js-product-thumb-img" data-id="11">
-                                    <div class="thumb-wrapper">
-                                        <img src="MAINIMG/1.jpg">
-                                        
-                                    </div>
-                                </li>
-                                <li class="js-product-thumb-img" data-id="12">
-                                    <div class="thumb-wrapper">
-                                        <img src="MAINIMG/1.jpg">
-                                       
-                                    </div>
-                                </li> --}}
+                             
                             </ul>
                             <div class="bazkhord-product "><a>بازخرد درباره یاین کالا</a></div>
-                            <div id="myModal" class="modal">
-                                <div class="modal-content">
-                                    <div class="modal-header">
+                           <div id="myModal" class="modal">
+                                <div class="modal-contentt">
+                                    <div class="">
                                         <div class="c-remodal-gallery__tabs js-top-bar-tabs">
                                             <div class="c-remodal-gallery__tab c-remodal-gallery__tab--selected js-gallery-tab" data-id="1">تصاویر رسمی
-                                            </div>
                                         </div>
-                                        <span class="close">&times;</span>
+                                        <div class="c-remodal-gallery__tab c-remodal-gallery__tab--selected js-gallery-tab" data-id="1">تصاویر خریداران
+                                        </div>
+                               
+                                        <span class="close" onclick="closeee()">&times;</span>
                                     </div>
                                     <div class="modal-body">
                                         <div class="c-remodal-gallery__content js-gallery-tab-content is-active">
                                             <div class="c-remodal-gallery__content_1">
-                                                <div class="gal"><img class="imggg" src="MAINIMG/1.jpg"></div>
-                                                <div class="gal"><img class="imggg" src="MAINIMG/2.jpg"></div>
-                                                <div class="gal"><img class="imggg" src="MAINIMG/3.jpg"></div>
-                                                <div class="gal"><img class="imggg" src="MAINIMG/4.jpg"></div>
-                                                <div class="gal"><img class="imggg" src="MAINIMG/5.jpg"></div>
-                                                <div class="gal"><img class="imggg" src="MAINIMG/6.jpg"></div>
+                                                <div class="gal mySlides content__main " ><img  class="imggg" src="/image/101.jpg"></div>
+                                                 <div class="gal mySlides"><img class="imggg" src="/image/102.jpg"></div>
+                                                <div class="gal mySlides"><img class="imggg" src="/image/92.jpg"></div>
+                                                <div class="gal mySlides"><img class="imggg" src="/image/93.jpg"></div>
+                                                <div class="gal"><img class="imggg" src="/image/94.jpg"></div>
+                                                <div class="gal"><img class="imggg" src="/image/95.jpg"></div> 
                                             </div>
                                             <div class="info_img">
+                                                <div class="c-remodal-gallery__title">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت</div>
                                                 <div class="infoImg">
-                                                    <div data-slide="1" class="gal-small"><img src="MAINIMG/1.jpg">
+                                                    <div data-slide="1" class="gal-small"><img src="/image/90.jpg" class="demo cursor " onclick="currentSlide(1)">
                                                     </div>
-                                                    <div data-slide="2" class="gal-small"><img src="MAINIMG/2.jpg">
+                                                    <div data-slide="2" class="gal-small"><img  src="/image/91.jpg" class="demo cursor "  onclick="currentSlide(2)" >
                                                     </div>
-                                                    <div data-slide="3" class="gal-small"><img src="MAINIMG/3.jpg">
+                                                    <div data-slide="3" class="gal-small"><img src="/image/92.jpg" class="demo cursor "  onclick="currentSlide(3)">
                                                     </div>
-                                                    <div data-slide="4" class="gal-small"><img src="MAINIMG/4.jpg">
+                                                    <div data-slide="4" class="gal-small"><img src="/image/93.jpg">
                                                     </div>
-                                                    <div data-slide="5" class="gal-small"><img src="MAINIMG/5.jpg">
+                                                    <div data-slide="5" class="gal-small"><img src="/image/94.jpg">
                                                     </div>
-                                                    <div data-slide="6" class="gal-small"><img src="MAINIMG/6.jpg">
+                                                    <div data-slide="6" class="gal-small"><img src="/image/95.jpg">
                                                     </div>
-                                                    <div data-slide="1" class="gal-small"><img src="MAINIMG/1.jpg">
+                                                    <div data-slide="1" class="gal-small"><img src="/image/96.jpg">
                                                     </div>
-                                                    <div data-slide="2" class="gal-small"><img src="MAINIMG/2.jpg">
+                                                    <div data-slide="2" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="3" class="gal-small"><img src="MAINIMG/3.jpg">
+                                                    <div data-slide="3" class="gal-small"><img src="/image/91.jpg">
                                                     </div>
-                                                    <div data-slide="4" class="gal-small"><img src="MAINIMG/4.jpg">
+                                                    <div data-slide="4" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="5" class="gal-small"><img src="MAINIMG/5.jpg">
+                                                    <div data-slide="5" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="6" class="gal-small"><img src="MAINIMG/6.jpg">
+                                                    <div data-slide="6" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="1" class="gal-small"><img src="MAINIMG/1.jpg">
+                                                    <div data-slide="1" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="2" class="gal-small"><img src="MAINIMG/2.jpg">
+                                                    <div data-slide="2" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="3" class="gal-small"><img src="MAINIMG/3.jpg">
+                                                    <div data-slide="3" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="4" class="gal-small"><img src="MAINIMG/4.jpg">
+                                                    <div data-slide="4" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="5" class="gal-small"><img src="MAINIMG/5.jpg">
+                                                    <div data-slide="5" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="6" class="gal-small"><img src="MAINIMG/6.jpg">
+                                                    <div data-slide="6" class="gal-small"><img src="/image/90.jpg">
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                        </div>
+                            </div> 
+                        </div> 
                     </section>
                 
                 </div>
@@ -1074,8 +1045,10 @@
                               </div>
                               <div class="c-product__seller-pricer">4,500,000<span>تومان </span> </div>
                                      <div class="">
-                                         <a class="btn-pr-mini"><button>افزودن به سبد خرید</button></a>
-                                     </div>
+                                    <a class="btn-pr-mini"><button>افزودن به سبد خرید</button></a>
+                                 
+                                    
+                                        </div>
            
                                
                             </div>
@@ -1213,12 +1186,12 @@
                 </div>
             </div>
         </div>
-          {{-- *** --}}
+          {{-- ***footer --}}
           @component('components.footer')
           
           @endcomponent
           </div>
-          
+
 <script>
     $(document).ready(function() {
                 $('.owl-product').owlCarousel({
@@ -1244,7 +1217,42 @@
                         }
                     }
                 })
-            })
+              })
+            var slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            var dots = document.getElementsByClassName("demo");
+            var captionText = document.getElementById("caption");
+            if (n > slides.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = slides.length
+            }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+            // captionText.innerHTML = dots[slideIndex - 1].alt;
+        }
+// ****
+
 </script>
+<script src="/js/indexx.js"></script>
     </body>
 </html>
