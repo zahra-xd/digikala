@@ -36,12 +36,13 @@
                 </div>
          </header>
 <!-- //start meno -->
-              <div>
+               <div>
                   <div class="meno" id="my-nav">
                       <div class="headerright">
-                          <ul class="meno-headerr">
-                           <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf0c9;</i>دسته بندی کالا</li></a>
-                           <li><div class="dropdown"><a>سوپرمارکت</a></div></li>
+                          <ul class="meno-headerr nav-level-1-ul">
+                            <div class="nav-hover"></div>
+                           <li class="nav-level-1-li"><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf0c9;</i>دسته بندی کالا</li></a>
+                           <li class="nav-level-1-li"><div class="dropdown"><a>سوپرمارکت</a></div></li>
                            <li>
                               <div class="dropdown">
                                 <a><i style="font-size:15px" class="fa ml-2 text-muted">&#xf295;</i>تخفیف ها و پیشنهاد ها</a>
@@ -148,8 +149,10 @@
                            </div>
                      </div>
                 </div>
-             </div>
-<!-- //slider -->
+             </div> 
+
+
+             <!-- //slider -->
            <div class="gt">
               <div class="bg-slider containert">
                   <div class="cont">
@@ -387,10 +390,19 @@
                                              </div>
                                           </div>
                                      </div>
-                                    <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
-                                     <div class="owl-dots disabled"></div>
-                                   <div class="owl-nav"><button type="button" role="presentation" class="owl-prev disabled"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
-                                </div>
+                              <div class="owl-nav">
+                                  <button type="button" role="presentation" class="owl-prev">
+                                            <span aria-label="Previous">‹</span>
+                                        </button> 
+                                      
+                                        </div>
+                                  <div class="owl-dots disabled"></div> 
+                                   <div class="owl-nav">
+                              
+                                    </div>
+                                    <div class="owl-dots disabled"></div></div> 
+                                </div> 
+                             
                            </div>
                         </div>
                     </div>  
@@ -615,27 +627,16 @@
             <div class="row">
                 <div class="o-page">
                     <div class="o-page__row o-grid o-page__row--main-page js-recommendation-home_1-row">
-                        <div class="col-3">
-                            <div class="pishnahad-lahzaei">
-                                <div class="c-promo-single__headline">
-                                    <span class="pp-h"> پیشنهادهای لحظه‌ای برای شما  </span>
-                               </div>
-                                   <div><img src="/image/18.jpg"> </div>
-                                     <div class="text-box-lahzeei">    <span> سرویس قابلمه 6 پارچه مدل S67001 </span> </div>
-                              <div class="c-new-price__value">
-                                      ۱۷۶,۰۰۰
-                                      <span class="c-new-price__currency">تومان</span></div>
-                              </div>
-                        </div>
+               
                         <div class="col-9">
                             <div class="box-prodout2">
                                  <div class="pp"> <div class="o-headline"><span> <p class="pt-2 pr-4" style="font-size: 16px;">کیبورد</p></span></div> </div>
-                                   <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
+                                   <div class="owl-carousel owl-pishnahad-lahzei owl-theme owl-rtl owl-loaded owl-drag">
                                     <div class="owl-stage-outer">
                                         <div class="owl-stage" style="transform: translate3d(456px, 0px, 0px); transition: all 0.25s ease 0s; width: 2280px;">
                                             <div class="owl-item" style="width: 228px;">
                                                 <div class="col-lg-2 col-sm-2 col-md-2 nj">
-                                                    <div class="item">
+                                                    <div class="item-lahzei">
                                                         <div><img src="/image/23.jpg"></div>
                                                           <div class="mt-2 to-sistem ">
                                                               <a>کیبورد </a>
@@ -646,7 +647,7 @@
                                             </div>
                                             <div class="owl-item" style="width: 228px;">
                                                  <div class="col-lg-2 nj">
-                                                      <div class="item">
+                                                      <div class="item-lahzei">
                                                          <div><img src="/image/23.jpg"> </div>
                                                         <div class="mt-2 to-sistem ">
                                                             <a>  کیبورد</a>
@@ -657,7 +658,7 @@
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
                                                 <div class="col-lg-2">
-                                                    <div class="item">
+                                                    <div class="item-lahzei">
                                                         <div><img src="/image/23.jpg"></div>
                                                         <div class="mt-2 to-sistem ">
                                                              <a> کیبورد</a>
@@ -668,7 +669,7 @@
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
                                                 <div class="col-lg-2">
-                                                    <div class="item">
+                                                    <div class="item-lahzei">
                                                         <div><img src="/image/23.jpg">   </div>
                                                         <div class="mt-2 to-sistem ">
                                                             <a> کیبورد</a>
@@ -679,7 +680,7 @@
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
                                                 <div class="col-lg-2">
-                                                    <div class="item">
+                                                    <div class="item-lahzei">
                                                         <div> <img src="/image/23.jpg"> </div>
                                                         <div class="mt-2 to-sistem ">
                                                             <a> کیبورد </a>
@@ -690,7 +691,7 @@
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
                                                 <div class="col-lg-2">
-                                                    <div class="item">
+                                                    <div class="item-lahzei">
                                                         <div><img src="/image/23.jpg"></div>
                                                         <div class="mt-2 to-sistem ">
                                                             <a>کیبورد </a>
@@ -701,7 +702,7 @@
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
                                                 <div class="col-lg-2">
-                                                    <div class="item">
+                                                    <div class="item-lahzei">
                                                         <div><img src="/image/23.jpg"> </div>
                                                         <div class="mt-2 to-sistem ">
                                                             <a>  کیبورد </a>
@@ -712,7 +713,7 @@
                                             </div>
                                             <div class="owl-item" style="width: 228px;">
                                                 <div class="col-lg-2">
-                                                    <div class="item">
+                                                    <div class="item-lahzei">
                                                         <div><img src="/image/23.jpg"></div>
                                                         <div class="mt-2 to-sistem ">
                                                             <a>   کیبورد </a>
@@ -727,6 +728,23 @@
                                     <div class="owl-dots disabled"></div>
                                 </div>
                             </div>
+                        </div>
+                        <div class="col-3">
+                            <div class="pishnahad-lahzaei">
+                               <div class="c-promo-single__headline js-promo-single-bar is-active">پیشنهادهای لحظه‌ای برای شما</div>
+                                   <div><img src="/image/18.jpg"> </div>
+                                     <div class="text-box-lahzeei">    <span> سرویس قابلمه 6 پارچه مدل S67001 </span> </div>
+                              <div class="c-new-price__value">
+                                     
+                                      <div class="box-of">
+                                        <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
+                                        <div class="c-new-price__value">    
+                                            <span  class="price-value ml-2">    ۳۸,۶۴۰  تومان</span></div>
+                                        <div>
+                                     </div>
+                                    </div>
+                                    </div>
+                              </div>
                         </div>
                     </div>
                 </div>
@@ -750,37 +768,37 @@
                                 <div class="c-promotion__category-quantity">+۱۱۵۰۰۰ کالا </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--fashion">
-                                <i style='font-size:24px' class='fas'>&#xf553;</i>
+                                <i style='font-size:34px' class='fas'>&#xf553;</i>
                                 <div class="c-promotion__category-name">مد و پوشاک</div>
                                 <div class="c-promotion__category-quantity">+۵۱۳۰۰۰ کالا </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--mother-and-child">
-                                <i style='font-size:24px' class='fas'>&#xf969;</i>
+                                <i style='font-size:34px' class='fas'>&#xf969;</i>
                                 <div class="c-promotion__category-name">اسباب بازی، کودک</div>
                                 <div class="c-promotion__category-quantity">+۵۵۰۰۰ کالا  </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--food-and-beverage">
-                                <i style='font-size:24px' class='fas'>&#xf291;</i>
+                                <i style='font-size:34px' class='fas'>&#xf291;</i>
                                 <div class="c-promotion__category-name">کالاهای سوپرمارکتی</div>
                                 <div class="c-promotion__category-quantity">+۴۷۰۰۰ کالا </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--personal-appliance">
-                            <i style='font-size:24px' class='far'>&#xf004;</i>
+                            <i style='font-size:34px' class='far'>&#xf004;</i>
                                 <div class="c-promotion__category-name">زیبایی و سلامت</div>
                                 <div class="c-promotion__category-quantity">+۸۲۰۰۰ کالا</div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--home-and-kitchen">
-                                 <i style='font-size:24px' class='fas'>&#xf6c0;</i>
+                                 <i style='font-size:34px' class='fas'>&#xf6c0;</i>
                                 <div class="c-promotion__category-name">خانه و آشپزخانه</div>
                                 <div class="c-promotion__category-quantity">+۳۵۹۰۰۰ کالا  </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--book-and-media">
-                            <i style='font-size:24px' class='fas'>&#xf5ae;</i>
+                            <i style='font-size:34px' class='fas'>&#xf5ae;</i>
                                 <div class="c-promotion__category-name">کتاب، لوازم تحریر و هنر</div>
                                 <div class="c-promotion__category-quantity">+۲۰۹۰۰۰ کالا  </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--sport-and-entertainment">
-                            <i style='font-size:24px' class='fas'>&#xf6bb;</i>
+                            <i style='font-size:34px' class='fas'>&#xf6bb;</i>
                                 <div class="c-promotion__category-name">ورزش و سفر</div>
                                 <div class="c-promotion__category-quantity">+۲۹۰۰۰ کالا  </div>
                             </a>
@@ -1219,7 +1237,10 @@
             <div class="containert">
                 <div class="row">
                     <div class="cadr-slaider-product">
-                        <div class="text-prodouct">  <p> محصولات پربازدید اخیر</p></div>
+                        <div class="text-prodouct"> 
+                             <p> محصولات پربازدید اخیر</p>
+                             <hr width="97%">
+                            </div>
                         <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
                             <div class="owl-stage-outer">
                                 <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
@@ -1427,47 +1448,43 @@
             <div class="containert">
                 <div class="row">
                     <div class="cadr-slaider-product">
-                        <div class="text-prodouct">  <p> منتخب محصولات تخفیف و حراج</p></div>
+                        <div class="text-prodouct"> 
+                     
+                             <div class="o-headlinee">
+                                <div class="o-headline__title-box">
+                                    <div class="o-headline__title-content">
+                                        <p> منتخب محصولات تخفیف و حراج</p>
+                                    </div>
+                                </div><a href="/landing-page/?promotion_types%5B0%5D=incredible_offer&amp;promotion_types%5B1%5D=promotion&amp;promotion_times%5B0%5D=active" class="c-swiper__show-more">مشاهده همه</a></div>
+                            </div>
                         <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
                             <div class="owl-stage-outer">
                                 <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
-                                                <div> <img src="/image/45.jpg"> </div>
+                                                <div> <img src="/image/66.jpg"> </div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price">400.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item">
-                                                <div> <img src="/image/46.jpg"></div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price">4.000.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item">
-                                                <div> <img src="/image/46.jpg"> </div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="box-of">
-                                                   <div class="add-tocard">
-                                                     <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                     <div class="bg-red">+</div>
-                                               </div>
-                                                        <div class="c-new-price__value">
-                                                            ۳۸,۶۴۰
-                                                            <span class="c-new-price__currency">تومان</span></div>
-                                                        <div>
+                                                    <a> هدست بی سیم </a>
+                                                    {{-- <div class="price">400.000 تومان</div> --}}
+                                                    <div class="c-product-box__price-row">
+                                                        <div class="c-product-box__fast-shopping">
+
+                                                            <div class="c-product__add-container js-add-to-cart-container 
+                                                        js-fast-shopping-confirm">
+                                                                <a class="btn-add-to-cart-mini js-add-to-cart js-product-add-to-card js-fast-shopping-confirm" href="/cart/add/4085721/1/" >+</a>
+
+                                                            </div>
+                                                        </div>
+                                                        <div class="c-product-box__price-item">
+                                                            <a class="js-product-url js-carousel-ga-product-box" href="/product/dkp-1481793/سس-ایتالیایی-بدون-چربی-بیژن-وزن-505-گرم">
+                                                                <div class="c-new-price">
+                                                                    <div class="c-new-price__old-value"><del>۱۰,۷۰۰ </del><span class="c-new-price__discount">۳۰٪</span></div>
+                                                                    <div class="c-new-price__value">
+                                                                        ۷,۵۰۰
+                                                                        <span class="c-new-price__currency">تومان</span></div>
+                                                                </div>
+                                                            </a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1477,10 +1494,10 @@
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
-                                                <div> <img src="/image/47.jpg"></div>
+                                                <div> <img src="/image/67.jpg"></div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price">420.000 تومان</div>
+                                                    <a> ضدعفونی کننده</a>
+                                                    <div class="price">4000 تومان</div>
                                                 </div>
                                             </div>
                                         </div>
@@ -1488,9 +1505,50 @@
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
-                                                <div> <img src="/image/47.jpg"></div>
+                                                <div> <img src="/image/68.jpg"> </div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <a>  سس جزیره</a>
+                                                    <div class="c-product-box__price-row">
+                                                        <div class="c-product-box__fast-shopping">
+
+                                                            <div class="c-product__add-container js-add-to-cart-container 
+                                                        js-fast-shopping-confirm">
+                                                                <a class="btn-add-to-cart-mini js-add-to-cart js-product-add-to-card js-fast-shopping-confirm" href="/cart/add/4085721/1/" >+</a>
+
+                                                            </div>
+                                                        </div>
+                                                        <div class="c-product-box__price-item">
+                                                            <a class="js-product-url js-carousel-ga-product-box" href="/product/dkp-1481793/سس-ایتالیایی-بدون-چربی-بیژن-وزن-505-گرم">
+                                                                <div class="c-new-price">
+                                                                    <div class="c-new-price__old-value"><del>۱۰,۷۰۰ </del><span class="c-new-price__discount">۳۰٪</span></div>
+                                                                    <div class="c-new-price__value">
+                                                                        ۷,۵۰۰
+                                                                        <span class="c-new-price__currency">تومان</span></div>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item">
+                                                <div> <img src="/image/69.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> صابون گلنار</a>
+                                                    <div class="price">12000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item">
+                                                <div> <img src="/image/67.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> ضد عفونی کننده</a>
                                                     <div class="price">800.000 تومان</div>
                                                 </div>
                                             </div>
@@ -1500,9 +1558,9 @@
                                         <div class="col-lg-2 nj">
                                             <div class="item">
                                                 <div>
-                                                    <img src="/image/48.jpg">  </div>
+                                                    <img src="/image/67.jpg">  </div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <a> ضدعفونی کننده</a>
                                                     <div class="price">440.000 تومان</div>
                                                 </div>
                                             </div>
@@ -1511,9 +1569,9 @@
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
-                                                <div> <img src="/image/45.jpg"> </div>
+                                                <div> <img src="/image/67.jpg"> </div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <a> ضدعفونی  کننده</a>
                                                     <div class="price">2.400.000 تومان</div>
                                                 </div>
                                             </div>
@@ -1522,9 +1580,9 @@
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
-                                                <div>  <img src="/image/45.jpg"></div>
+                                                <div>  <img src="/image/66.jpg"></div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <a> هدست بی سیم</a>
                                                     <div class="price">140.000 تومان</div>
                                                 </div>
                                             </div>
@@ -1533,9 +1591,9 @@
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
-                                                <div> <img src="/image/46.jpg"></div>
+                                                <div> <img src="/image/67.jpg"></div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <a> ضدعفونی کننده</a>
                                                     <div class="price">200.000 تومان</div>
                                                 </div>
                                             </div>
@@ -1544,9 +1602,9 @@
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
-                                                <div><img src="/image/48.jpg"></div>
+                                                <div><img src="/image/67.jpg"></div>
                                                 <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <a> ضدعفونی کنده</a>
                                                     <div class="price">600.000 تومان</div>
                                                 </div>
                                             </div>
@@ -1667,7 +1725,7 @@
                 </nav>
             </div>
             <div class="c-footer__more-info">
-                <div class="container">
+                <div class="containert">
                     <div class="c-footer__description-content">
                         <div class="c-footer__content">
                             <article class="c-footer__seo">
@@ -1722,13 +1780,28 @@
                     dots: false,
                     nav: true,
                     responsive: {
+                        // 0: {
+                        //     items: 4
+                        // },
+                        // 600: {
+                        //     items: 4
+                        // },
+                        // 1000: {
+                        //     items: 5
+                        // }
                         0: {
                             items: 4
+
                         },
                         600: {
                             items: 4
+
                         },
-                        1000: {
+                        1330: {
+                            items: 4
+
+                        },
+                        1350: {
                             items: 5
                         }
                     }
@@ -1741,7 +1814,7 @@
                     items: true,
                     responsive: {
                         0: {
-                            items: 1
+                            items: 3
 
                         },
                         600: {
@@ -1757,6 +1830,31 @@
                         }
                     }
                 })
+                $('.owl-pishnahad-lahzei').owlCarousel({
+                    loop: false,
+                    rtl: true,
+                    dots: false,
+                    nav: true,
+                    items: true,
+                    responsive: {
+                        0: {
+                            items: 4
+
+                        },
+                        600: {
+                            items: 4
+
+                        },
+                        1330: {
+                            items: 4
+
+                        },
+                        1350: {
+                            items: 5
+                        }
+                    }
+                })
+
 
             });
         </script>

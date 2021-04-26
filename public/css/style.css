@@ -106,6 +106,9 @@ header .headerr {
 
 .meno {
     margin-top: 6px;
+    -webkit-box-shadow: 0 2px 4px 0 hsl(0deg 0% 44% / 5%);
+    box-shadow: 0 2px 4px 0 hsl(0deg 0% 44% / 5%);
+    box-shadow: 0 7px 8px 0 rgb(0 0 0 / 4%);
 }
 
 .meno-headerr li {
@@ -649,6 +652,42 @@ header .headerr {
 
 /* //پیشنهاد های لحظه ای */
 
+.item-lahzei {
+    display: block;
+    width: 230px;
+    margin: 0px 5px;
+}
+
+.item-lahzei img {
+    width: 130px;
+}
+
+.owl-carousel .owl-item .item-lahzei img {
+    display: block;
+    width: 130px;
+    margin-right: 12px;
+}
+
+.nj .item-lahzei:hover {
+    border: 1px solid #f0f0f0;
+    width: 210px;
+    height: 290px;
+    border-radius: 10px;
+    box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
+    z-index: 11;
+}
+
+@media(max-width:1100px) {
+    .nj .item-lahzei:hover {
+        border: 1px solid #f0f0f0;
+        width: 170px;
+        height: 290px;
+        border-radius: 10px;
+        box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
+        z-index: 11;
+    }
+}
+
 .container--home {
     max-width: 1366px;
 }
@@ -678,17 +717,21 @@ header .headerr {
     }
 }
 
-@media (min-width: 993px) {
+
+/* @media (min-width: 993px) {
     .box-prodout2 {
         /* margin-right: -30px; */
-    }
-}
+
+
+/* }
+} */
 
 .pishnahad-lahzaei {
     width: 221px;
     height: 346.6px;
     border-radius: 7px;
     background: #fff;
+    float: left;
 }
 
 .pishnahad-lahzaei img {
@@ -753,9 +796,52 @@ header .headerr {
 
 .pishnahad-lahzaei {
     width: 221px;
-    height: 346.6px;
-    border-radius: 7px;
-    background: #fff;
+    text-align: center;
+    height: 100%;
+    margin-left: -30px;
+    -webkit-box-shadow: 1px 1px 4px 0 rgb(0 0 0 / 3%);
+    box-shadow: 1px 1px 4px 0 rgb(0 0 0 / 3%);
+    border: 1px solid rgba(0, 191, 214, .3);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.c-promo-single__headline {
+    height: 57px;
+    line-height: 56px;
+    font-weight: 500;
+    color: #6e6e6e;
+    margin: 0 13px;
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.c-promo-single__headline:before {
+    height: 1px;
+    background: #f5f5f5;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    content: "";
+}
+
+.c-promo-single__headline.is-active:after {
+    -webkit-animation: bar-fill 7s cubic-bezier(.17, .67, .71, .99) infinite;
+    animation: bar-fill 7s cubic-bezier(.17, .67, .71, .99) infinite;
+}
+
+.c-promo-single__headline:after {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 1px;
+    background: -webkit-gradient(linear, left top, right top, from(#ffd3db), to(#fb3449));
+    background: linear-gradient( 90deg, #ffd3db, #fb3449);
+    content: "";
 }
 
 .pishnahad-lahzaei img {
@@ -785,10 +871,16 @@ header .headerr {
     content: "";
 }
 
+.price-value {
+    float: left;
+    font-size: 15px;
+}
+
 .text-box-lahzeei {
     display: block;
     overflow: hidden;
     font-size: 12px;
+    color: #757575;
     font-size: .857rem;
     line-height: 30px;
     text-align: right;
@@ -802,6 +894,7 @@ header .headerr {
     font-size: 1.143rem;
     line-height: 30px;
     color: #232933;
+    position: relative;
     font-weight: 700;
     width: 100%;
     margin-top: 0!important;
@@ -823,26 +916,51 @@ header .headerr {
 }
 
 .box-prodout2 {
-    width: 1040px;
-    height: 346px;
+    width: 1093.33px;
+    height: 400px;
+    border-radius: 8px;
     background: #fff;
-    margin-left: -190px;
+    /* margin-left: -360px; */
 }
 
 @media(max-width:1100px) {
     .box-prodout2 {
-        width: 746px;
+        width: 725.5px;
+        margin-right: -20px;
     }
+}
+
+.owl-carousel .owl-item .item img {
+    display: block;
+    width: 170px;
+    margin-right: 12px;
 }
 
 @media (max-width: 1200px) {
     .pishnahad-lahzaei {
-        margin-right: -25%;
+        margin-left: -16px;
+    }
+}
+
+@media(max-width:993px) {
+    .item {
+        width: 168px;
+    }
+}
+
+@media(max-width:993px) {
+    .owl-carousel .owl-item .item img {
+        width: 130px;
     }
 }
 
 
 /* *************2000 تا کالا */
+
+.c-promotion__category i {
+    color: #00bfd6;
+    font-size: 34px;
+}
 
 .c-promotion__categories-title {
     margin-bottom: 24px;
@@ -993,32 +1111,42 @@ header .headerr {
 
 .item {
     display: block;
-    width: 170px;
+    width: 230px;
+    margin: 0px 5px;
 }
 
 .owl-next span {
     box-shadow: 1.5px 0 4px 0 rgb(0 0 0 / 15%);
     border-radius: 0 8px 8px 0;
-    padding-top: 22px;
-    padding-left: 19px;
-    padding-bottom: 49px;
+    padding-top: 7px;
+    padding-left: 9px;
+    padding-bottom: 19px;
+    font-size: 3rem;
+    text-align: center;
+    top: 0px;
+    position: relative;
     padding-right: 22px;
 }
 
 .owl-prev span {
+    right: 4px;
+    opacity: 0.4;
     box-shadow: 1.5px 0 4px 0 rgb(0 0 0 / 15%);
     border-radius: 0 8px 8px 0;
-    padding-top: 22px;
-    padding-left: 19px;
-    padding-bottom: 49px;
+    padding-top: 7px;
+    padding-left: 9px;
+    padding-bottom: 19px;
+    font-size: 3rem;
+    text-align: center;
+    top: 0px;
+    position: relative;
     padding-right: 22px;
-    opacity: 0.4;
 }
 
 .cadr-slaider-product {
     width: 100%;
     background: #fff;
-    height: 360px;
+    height: 370px;
     margin-top: 50px;
     border-radius: 6px;
 }
@@ -1066,7 +1194,7 @@ header .headerr {
 
 .price {
     text-align: left;
-    margin-left: 10px;
+    margin-left: 50px;
     font-weight: bold;
 }
 
@@ -1091,6 +1219,31 @@ header .headerr {
     width: 88%;
 }
 
+.o-headlinee:after {
+    position: absolute;
+    bottom: 0;
+    right: 4%px;
+    left: 0;
+    background-color: #dfdfdf;
+    height: 1px;
+    content: "";
+    z-index: 10;
+    width: 98%;
+}
+
+.c-swiper__show-more {
+    font-size: 18px;
+    font-size: 1.286rem;
+    line-height: 1.89;
+    font-weight: 700;
+    color: #a8a8a8;
+}
+
+.c-swiper__show-more:hover {
+    color: #1ca2bd;
+    text-decoration: none;
+}
+
 .o-headline>span:before {
     content: "";
     position: absolute;
@@ -1103,6 +1256,17 @@ header .headerr {
     z-index: 1;
 }
 
+.o-headlinee {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    min-height: 49px;
+    justify-content: space-between;
+    margin: 0 0 6px 33px;
+    position: relative;
+    padding-left: 5px;
+    display: flex;
+}
+
 .o-headline {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
@@ -1111,6 +1275,7 @@ header .headerr {
     margin: 0 0 6px 33px;
     position: relative;
     padding-left: 5px;
+    display: flex;
 }
 
 .owl-carousel .owl-nav button.owl-next,
@@ -1230,7 +1395,7 @@ header .headerr {
 .box-slide {
     width: 100%;
     background: #fff;
-    height: 238px;
+    height: 258px;
     margin-top: 50px;
     border-radius: 6px;
 }
@@ -1865,4 +2030,83 @@ header .headerr {
     background: #ef394e;
     width: 40px;
     color: white;
+}
+
+
+/* // price منتخب محصولات تخفیف و حراج*/
+
+.c-product-box__price-row {
+    width: 100%;
+}
+
+.c-product-box__fast-shopping {
+    display: inline-block;
+    float: right;
+    margin-top: 6px;
+}
+
+.c-product-box__add-to-cart-section {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    position: relative;
+    z-index: 3;
+}
+
+.btn-add-to-cart-mini {
+    font-size: 18px;
+    font-size: 1.286rem;
+    line-height: 1.222;
+    width: 60px;
+    height: 40px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #00bfd6;
+    color: #fff;
+    background-color: #ef394e;
+    border: none;
+}
+
+.btn-add-to-cart-mini:not(.disabled):not(.is-inactive):not([disabled]) {
+    overflow: hidden;
+}
+
+.c-product__add-substitute--item {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
+}
+
+.c-product-box__price-item {
+    display: inline-block;
+    float: left;
+}
+
+.btn-add-to-cart-mini:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.js-product-url:hover {
+    text-decoration: none;
+}
+
+text-decoration: none;
+
 }
