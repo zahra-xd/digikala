@@ -532,6 +532,7 @@
                 </div> --}}
 
               </div>
+              {{-- //محصولات مرتبط --}}
               <div>
                 <div class="containert">
                     <div class="row">
@@ -925,8 +926,299 @@
                    
                     <a href="#" class="c-params__collapse--link js-open-product-params">نمایش همه مشخصات کالا</a></article></div>
                       </div>
-                  </div>
+
+                      {{-- //دیدگاه کاربران --}}
+                      <div class="ff-box">
+                        <div class="o-box__header">
+                            <span class="o-box__title">امتیاز و دیدگاه کاربران</span><br>
+                            <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
+                            
+                        </div>
+                      </div>
+                      
+                          
+                           <div class="comments__container">
+                            <div class="comments__side-bar">
+                                <div class="comment-star">
+                                    <div class="c-comments__side-rating">
+                                        <div class="c-comment-main">4.1</div>
+                                            <div class="c-comments-desc ">از 5</div>
+                                    </div>
+                                    <div class="coment-star-rait">
+                                        <div class="c-stars">
+                                            <span class="c-stars__item"><i style="font-size:20px" class="fa">&#xf005;</i></span>
+                                            <span class="c-stars__item"><i style="font-size:20px" class="fa">&#xf005;</i></span>
+                                            <span class="c-stars__item"><i style="font-size:20px" class="fa">&#xf005;</i></span>
+                                            <span class="c-stars__item"><i style="font-size:20px" class="fa">&#xf005;</i></span>
+                                            <span class="c-stars__item"><i style="font-size:20px" class="fa">&#xf005;</i></span>
+                                        </div>
+                                        <div class="c-comments__side-rating-all">از مجموع423 امتیاز</div>
+                                </div>
+                                <ul class="c-content-expert__rating">
+                                    <li>
+                                <div class="c-content-expert__rating-title">کیفیت ساخت</div>
+                                <div class="c-content-expert__rating-value">
+                                    <div class="c-rating c-rating--general js-rating">
+                                        <div class="c-rating__rate js-rating-value" data-rate-value="84%" style="width: 84%;"></div>
+                                    </div>
+                                    <span class="c-rating__overall-word">۴.۲</span>
+                                </div>
+                            </li>
+                                    <li>
+                                <div class="c-content-expert__rating-title">ارزش خرید به نسبت قیمت</div>
+                                <div class="c-content-expert__rating-value">
+                                    <div class="c-rating c-rating--general js-rating">
+                                        <div class="c-rating__rate js-rating-value" data-rate-value="82%" style="width: 82%;"></div>
+                                    </div>
+                                    <span class="c-rating__overall-word">۴.۱</span>
+                                </div>
+                            </li>
+                                    <li>
+                                <div class="c-content-expert__rating-title">نوآوری</div>
+                                <div class="c-content-expert__rating-value">
+                                    <div class="c-rating c-rating--general js-rating">
+                                        <div class="c-rating__rate js-rating-value" data-rate-value="82%" style="width: 82%;"></div>
+                                    </div>
+                                    <span class="c-rating__overall-word">۴.۱</span>
+                                </div>
+                            </li>
+                                    <li>
+                                <div class="c-content-expert__rating-title">امکانات و قابلیت ها</div>
+                                <div class="c-content-expert__rating-value">
+                                    <div class="c-rating c-rating--general js-rating">
+                                        <div class="c-rating__rate js-rating-value" data-rate-value="82%" style="width: 82%;"></div>
+                                    </div>
+                                    <span class="c-rating__overall-word">۴.۱</span>
+                                </div>
+                            </li>
+                                    <li>
+                                <div class="c-content-expert__rating-title">سهولت استفاده</div>
+                                <div class="c-content-expert__rating-value">
+                                    <div class="c-rating c-rating--general js-rating">
+                                        <div class="c-rating__rate js-rating-value" data-rate-value="82%" style="width: 82%;"></div>
+                                    </div>
+                                    <span class="c-rating__overall-word">۴.۱</span>
+                                </div>
+                            </li>
+                                    <li>
+                                <div class="c-content-expert__rating-title">طراحی و ظاهر</div>
+                                <div class="c-content-expert__rating-value">
+                                    <div class="c-rating c-rating--general js-rating">
+                                        <div class="c-rating__rate js-rating-value" data-rate-value="82%" style="width: 82%;"></div>
+                                    </div>
+                                    <span class="c-rating__overall-word">۴.۱</span>
+                                </div>
+                            </li>
+                            </ul>
+                            <div class="c-comments__add-comment-desc">دیدگاه خود را درباره این کالا بیان کنید</div>
+                             <a class="add-com-btn"><button>افزودن دیدگاه</button></a>
+                             <div class="c-comments__dc-touch">
+                                <div class="c-comments__dc-touch-title">۵ امتیاز دیجی‌کلاب</div>
+                                <div class="c-comments__dc-touch-desc">با بیان دیدگاه برای این کالا دریافت کنید</div>
+                            </div>
+                        </div>
+                        </div>
+                        <div class="c-comments__empty">
+                            <div class="c-comments__empty-title">شما هم می‌توانید در مورد این کالا نظر دهید.</div>
+                            <div class="c-comments__empty-desc">اگر این محصول را قبلا از دیجی‌کالا خریده باشید، دیدگاه شما به عنوان خریدار ثبت خواهد شد. همچنین در صورت تمایل می‌توانید به صورت ناشناس دیدگاه خود را ثبت کنید.</div>
+                        </div> 
+                    
+                        </div>
+                        {{-- //پرسش و پاسخ --}}
+                        <div class="ff-box">
+                            <div class="o-box__header">
+                                <span class="o-box__title">پرسش و پاسخ</span><br>
+                                <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>    
+                            </div>
+                          </div> 
+                          <div class="js-content">
+                            <div class="c-question__container">
+                                    <div class="c-question__content">
+                                                <form class="c-question__empty-container js-add-question-form" novalidate="novalidate">
+                                        
+                                        <div class="c-question__empty-desc">
+                                            پرسش خود را در مورد کالا مطرح کنید
+                                        </div>
+                                            <label class="o-form__field-container">
+                                    <div class="o-form__field-frame">
+                                <textarea name="qa[body]" placeholder="" class="o-form__textarea js-input-textarea js-question-body js-ui-char-counter" maxlength="100">                
+                                </textarea>
+                            </div>
+                                                <div class="o-form__field-counter">
+                                    <span class="js-ui-counter-value">۰</span>
+                                    /۱۰۰
+                                </div>
+                                </label>
+                    
+                                        <div class="c-question__empty-bar">
+                                            <div class="c-question__terms">ثبت پرسش به معنی موافقت با <a href="#" class="o-link o-link--sm o-link--no-border">قوانین انتشار دیجی‌کالا</a> است.</div>
+                                            <button class="o-btn o-btn--contained-red-md js-add-question-submit disabled">ثبت پرسش</button>
+                                        </div>
+                                    </form>
+                             </div>
+                        </div>
+                    </div>
+                 </div>
+             {{-- //اسلاید بار سمت چپ --}}
+                <div class="c-mini-buy-box-fixed">
+                    <div class="c-mini-buy-box js-mini-buy-box">
+                  <div class="c-mini-buy-box__product-info">
+                      <img class="c-mini-buy-box__product-info--img" src="/image/89.jpg">  
+                    </div>
+                              <div class="buy-box-mini">
+                                  <ul>
+                                      <li> <i style='font-size:14px' class='far ml-2'>&#xf058;</i>کالاپلاس</li>
+                                      <li><i style='font-size:14px' class='far ml-2'>&#xf058;</i>گارانی 18 ماهه</li>
+                                      <li> <i style='font-size:14px' class='far ml-2'>&#xf058;</i>موجود در انبار</li>
+                                  </ul>
+                              </div>
+                              <div class="c-product__seller-pricer">4,500,000<span>تومان </span> </div>
+                                     <div class="">
+                                         <a class="btn-pr-mini"><button>افزودن به سبد خرید</button></a>
+                                     </div>
+           
+                               
+                            </div>
+                            
+                        </div>
+                  
+                 </div>
+         {{-- // محصولات پیشنهادی --}}
+         <div>
+            <div class="containert">
+                <div class="row">
+                    <div class="cadr-slaider-productt">
+                        <div class="text-prodouct"> 
+                             <p> محصولات مرتبط</p>
+                            
+                            </div>
+                        <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
+                            <div class="owl-stage-outer">
+                                <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div> <img src="/image/45.jpg"> </div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">400.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div> <img src="/image/46.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">4.000.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div> <img src="/image/46.jpg"> </div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">4.000.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div> <img src="/image/47.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">420.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div> <img src="/image/47.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">800.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item active" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div>
+                                                    <img src="/image/48.jpg">  </div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">440.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div> <img src="/image/45.jpg"> </div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">2.400.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div>  <img src="/image/45.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">140.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div> <img src="/image/46.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">200.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="owl-item" style="width: 190px;">
+                                        <div class="col-lg-2 nj">
+                                            <div class="item-page2 ">
+                                                <div><img src="/image/48.jpg"></div>
+                                                <div class="mt-2 to-sistem ">
+                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
+                                                    <div class="price-2">600.000 تومان</div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
+        </div>
+          {{-- *** --}}
+          @component('components.footer')
+          
+          @endcomponent
+          </div>
+          
 <script>
     $(document).ready(function() {
                 $('.owl-product').owlCarousel({
