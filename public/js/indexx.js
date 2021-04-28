@@ -124,7 +124,7 @@ window.onclick = function(event) {
 // }
 // imageZoom("myimage", "myresult");
 
-// **click zoom
+// **hover zoom
 
 function imageZoom(imgID, resultID) {
     var img, lens, result, cx, cy;
@@ -136,9 +136,9 @@ function imageZoom(imgID, resultID) {
     /*insert lens:*/
     img.parentElement.insertBefore(lens, img);
     /*calculate the ratio between result DIV and lens:*/
-    cx = 500 / lens.offsetWidth;
+    cx = 730 / lens.offsetWidth;
     console.log(cx)
-    cy = 550 / lens.offsetHeight;
+    cy = 750 / lens.offsetHeight;
     console.log(cy)
         /*set background properties for the result DIV:*/
     result.style.backgroundImage = "url('" + img.srcset + "')";
@@ -197,3 +197,52 @@ function showme(x) {
 
 }
 imageZoom("myimage", "myresult");
+////
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+    showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+    showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("demo");
+    if (n > slides.length) {
+        slideIndex = 1
+    }
+    if (n < 1) {
+        slideIndex = slides.length
+    }
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" c-remodal-gallery__thumb--selected", "");
+    }
+    slides[slideIndex - 1].style.display = "block";
+
+    dots[slideIndex - 1].className += " c-remodal-gallery__thumb--selected";
+
+}
+//read more
+function readmore() {
+  var dotss = document.getElementById("dotts");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("mostread");
+
+  if (dotss.style.display === "none") {
+    dotss.style.display = "inline";
+    btnText.innerHTML = "ادامه مطالب"; 
+    moreText.style.display = "none";
+  } else {
+    dotss.style.display = "none";
+    btnText.innerHTML = "مشاهده کمتر"; 
+    moreText.style.display = "inline";
+  }
+}

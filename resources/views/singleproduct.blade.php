@@ -150,6 +150,7 @@
                 </div>
              </div> 
 {{-- // منو محصولات  --}}
+<div class="conti">
               <div class="o-page js-product-page c-product-page">
                   <div class="contanert">
                      <div class="c-product__nav-container">
@@ -225,12 +226,12 @@
                                              <li>توضیحات سیم کارت:سایز نانو (8.8 × 12.3 میلی‌متر)</li>
                                              <li class="moust-carbord">+موارد بیشتر</li>
                                             </ul>
-                                            {{-- <div class="text-product-param">
+                                           <div class="text-product-param">
                                                 <div class="c-product__additional-item ">
-                                                    <span class="glyphicon">&#xe101;</span>
-                                                    هشدار سامانه همتا: حتما در زمان تحویل دستگاه، به کمک کد فعال‌سازی چاپ شده روی جعبه یا کارت گارانتی، دستگاه را از طریق #7777*، برای سیم‌کارت خود فعال‌سازی کنید. آموزش تصویری در آدرس اینترنتی hmti.ir/05
+                                                  
+                                            شدار سامانه همتا: حتما در زمان تحویل دستگاه، به کمک کد فعال‌سازی چاپ شده روی جعبه یا کارت گارانتی، دستگاه را از طریق #7777*، برای سیم‌کارت خود فعال‌سازی کنید. آموزش تصویری دری 
                                                 </div>
-                                            </div> --}}
+                                            </div> 
                                      </div>
 
                                  </div>
@@ -283,22 +284,14 @@
                                             </div>
                                            
                                         </div>
-                                        <div class="c-product-shipping-limitation">
-                                            <div class="c-product-shipping-limitation__title">
-                                                <i style='font-size:14px ;margin-right:-30px;color:orange' class='far'>&#xf017;</i>
-                                                <span class="mr-2">اين کالا را ارزان تر بخريد </span>
-                                                <i style='font-size:14px' class='fas rt'>&#xf104;</i>
-                                            </div>
-                                            <div class="c-product-shipping-limitation__dsc"><span>از 4و500و000 هزار تومان توسط فروشندگان ديگر</span></div>
-                                        </div>
+                                      
                                         <div class="c-product-shipping-limitationn">
                                             <div class="c-product-shipping-limitation__title">
                                                 <i style='font-size:14px ;margin-right:-30px' class='far'>&#xf017;</i>
-                                                <span class="mr-2">اين کالا را ارزان تر بخريد </span>
-                                                <i style='font-size:14px' class='fas rt'>&#xf104;</i>
+                                                <span class="mr-2">فرایند قیمت گذاری </span>
                                             </div>
                                         </div>
-                                        <div class="ml-5 text-muted">ايا قيمت مناسبي سراغ داريد؟</div>
+                                        <div class="ml-5 mb-2 text-muted price-monaseb">ايا قيمت مناسبي سراغ داريد؟</div>
                                        
                                     </div>
                                     
@@ -341,14 +334,14 @@
 
                                <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf004;</i>  <span class="tooltiptextt">افزودن به علاقه مندی</span></li>
                                <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf1e0;</i> <span class="tooltiptextt">اشتراک گذاری</span> </li>
-                               <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf1f6;</i> <span class="tooltiptextt">اطلاع رسانی شگفت انگیز</span></li>
+                               <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf0f3;</i> <span class="tooltiptextt">اطلاع رسانی شگفت انگیز</span></li>
                                <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">نمودار قیمت </span></li>
                                <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">مقایسه</span></li>
                             </ul >
                                <div class="card-galery-img" >
                                 {{-- <div class="img-zoom-lens" style="left: 59.125px; top: 119.2px;"></div> --}}
                                       <img class=""  id="myimage" src="/image/77.jpg" srcset="/image/77.jpg">
-                                     <span id="myhide" style="float: right; position: absolute; top: 0px;right: 450px;width: auto;height: 100%;z-index: 23424">
+                                     <span id="myhide" style="float: right; position: absolute; top: 0px;right: 450px;width: auto;height: 100%;z-index: 2424">
                                         <div id="myresult" class="img-zoom-result" onmouseleave="hideme(this)" style="background-image: url(&quot;/image/77.jpg&quot;); background-size: 1320px 1375px; background-position: -628.5px -271.667px;"></div> 
                                   </span> 
                             
@@ -404,65 +397,65 @@
                              
                             </ul>
                             <div class="bazkhord-product "><a>بازخرد درباره یاین کالا</a></div>
-                           <div id="myModal" class="modal">
+                           <div id="myModal" class="modall">
                                 <div class="modal-contentt">
                                     <div class="">
                                         <div class="c-remodal-gallery__tabs js-top-bar-tabs">
                                             <div class="c-remodal-gallery__tab c-remodal-gallery__tab--selected js-gallery-tab" data-id="1">تصاویر رسمی
                                         </div>
-                                        <div class="c-remodal-gallery__tab c-remodal-gallery__tab--selected js-gallery-tab" data-id="1">تصاویر خریداران
+                                        <div class="c-remodal-gallery__tab js-gallery-tab" data-id="1">تصاویر خریداران
                                         </div>
                                
                                         <span class="close" onclick="closeee()">&times;</span>
                                     </div>
-                                    <div class="modal-body">
+                                    <div class="modal-bodyy">
                                         <div class="c-remodal-gallery__content js-gallery-tab-content is-active">
                                             <div class="c-remodal-gallery__content_1">
                                                 <div class="gal mySlides content__main " ><img  class="imggg" src="/image/101.jpg"></div>
                                                  <div class="gal mySlides"><img class="imggg" src="/image/102.jpg"></div>
                                                 <div class="gal mySlides"><img class="imggg" src="/image/92.jpg"></div>
                                                 <div class="gal mySlides"><img class="imggg" src="/image/93.jpg"></div>
-                                                <div class="gal"><img class="imggg" src="/image/94.jpg"></div>
-                                                <div class="gal"><img class="imggg" src="/image/95.jpg"></div> 
+                                                <div class="gal mySlides"><img class="imggg" src="/image/94.jpg"></div>
+                                                <div class="gal mySlides"><img class="imggg" src="/image/95.jpg"></div> 
                                             </div>
                                             <div class="info_img">
                                                 <div class="c-remodal-gallery__title">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت</div>
                                                 <div class="infoImg">
-                                                    <div data-slide="1" class="gal-small"><img src="/image/90.jpg" class="demo cursor " onclick="currentSlide(1)">
+                                                    <div data-slide="1" class="gal-small" ><img src="/image/90.jpg" class="demo cursor " onclick="currentSlide(1)">
                                                     </div>
-                                                    <div data-slide="2" class="gal-small"><img  src="/image/91.jpg" class="demo cursor "  onclick="currentSlide(2)" >
+                                                    <div data-slide="2" class="gal-small "><img  src="/image/91.jpg" class="demo cursor "  onclick="currentSlide(2)" >
                                                     </div>
-                                                    <div data-slide="3" class="gal-small"><img src="/image/92.jpg" class="demo cursor "  onclick="currentSlide(3)">
+                                                    <div data-slide="3" class="gal-small "><img src="/image/92.jpg" class="demo cursor "  onclick="currentSlide(3)">
                                                     </div>
-                                                    <div data-slide="4" class="gal-small"><img src="/image/93.jpg">
+                                                    <div data-slide="4" class="gal-small "><img src="/image/93.jpg">
                                                     </div>
-                                                    <div data-slide="5" class="gal-small"><img src="/image/94.jpg">
+                                                    <div data-slide="5" class="gal-small "><img src="/image/94.jpg">
                                                     </div>
-                                                    <div data-slide="6" class="gal-small"><img src="/image/95.jpg">
+                                                    <div data-slide="6" class="gal-small "><img src="/image/95.jpg">
                                                     </div>
-                                                    <div data-slide="1" class="gal-small"><img src="/image/96.jpg">
+                                                    <div data-slide="1" class="gal-small "><img src="/image/96.jpg">
                                                     </div>
-                                                    <div data-slide="2" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="2" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="3" class="gal-small"><img src="/image/91.jpg">
+                                                    <div data-slide="3" class="gal-small "><img src="/image/91.jpg">
                                                     </div>
-                                                    <div data-slide="4" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="4" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="5" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="5" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="6" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="6" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="1" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="1" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="2" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="2" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="3" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="3" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="4" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="4" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="5" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="5" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
-                                                    <div data-slide="6" class="gal-small"><img src="/image/90.jpg">
+                                                    <div data-slide="6" class="gal-small "><img src="/image/90.jpg">
                                                     </div>
                                                 </div>
                                             </div>
@@ -504,139 +497,21 @@
 
               </div>
               {{-- //محصولات مرتبط --}}
-              <div>
-                <div class="containert">
-                    <div class="row">
-                        <div class="cadr-slaider-productt">
-                            <div class="text-prodouct"> 
-                                 <p> محصولات مرتبط</p>
-                                
-                                </div>
-                            <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
-                                <div class="owl-stage-outer">
-                                    <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
-                                        <div class="owl-item active" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div> <img src="/image/45.jpg"> </div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">400.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item active" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div> <img src="/image/46.jpg"></div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">4.000.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item active" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div> <img src="/image/46.jpg"> </div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">4.000.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item active" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div> <img src="/image/47.jpg"></div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">420.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item active" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div> <img src="/image/47.jpg"></div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">800.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item active" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div>
-                                                        <img src="/image/48.jpg">  </div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">440.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div> <img src="/image/45.jpg"> </div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">2.400.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div>  <img src="/image/45.jpg"></div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">140.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div> <img src="/image/46.jpg"></div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">200.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="owl-item" style="width: 190px;">
-                                            <div class="col-lg-2 nj">
-                                                <div class="item-page2 ">
-                                                    <div><img src="/image/48.jpg"></div>
-                                                    <div class="mt-2 to-sistem ">
-                                                        <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">600.000 تومان</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+             @component('components.sliderproduct')
+      @slot('titel')
+         محصولات مرتبط
+      @endslot
+      @slot('urlimage')
+          <img src="/image/45.jpg">
+      @endslot
+      @slot('price')
+          5,600,000
+      @endslot
+    @endcomponent
             {{-- //کامنت --}}
             <div class="c-product__bottom-section u-mt-12 has-mini-buybox">
                   <div id="tab" class="o-box o-box--no-border o-box--grow c-product__tabs-container">
-                      <ul class="tab-box">
+                      <ul class="tab-box o-box__tabs--sticky">
                           <li class=" o-box__tab  is-active">
                               <a href="">نقد بررسی</a>
                           </li>
@@ -664,141 +539,13 @@
                                          <div>
                                              <section class="c-content-expert__summary">
                                                  <div class="c-mask">
-                                                     <div class="c-mask__text c-mask__text--product-summary">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت از جمله اولین سری محصولات برند شیائومی است. این محصول دارای ساختاری متوازن و خوش‌ساخت بدون پشتیبانی از تکنولوژی 5G در تاریخ نوامبر 2020 روانه بازار شده است. این محصول از فریم پلاستیکی ساخته شده است که قاب جلو شیشه‌ای جلوه ویژه‌ای به این مدل بخشیده است. صفحه‌نمایش گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت در اندازه 6.53 منتشر شده است. این صفحه‌نمایش کاملاً تمام‌صفحه است و در بالا وسط اثری از بریدگی یا حفره دوربین سلفی وجود دیده می‌شود. دوربین سلفی این محصول دارای حسگر 8 مگاپیکسلی است .صحفه‌نمایش گوشی موبایل شیائومی مدل POCO M3 M2010J19CG با استفاده از فناوری Corning Gorilla Glass 3 در برابر خط‌وخش و صدمات احتمالی محافظت می‌شود. ویژگی دیگر Poco M3 مجهز شدن به حسگر اثرانگشت در زیر کنار گوشی که نشان از بالارده بودن محصول دارد. گفتنی است ۳ دوربین که سنسور اصلی آن 48 مگاپیکسلی است در قسمت پشتی این گوشی جا خوش کرده‌اند. این دوربین‌ها قادر هستند ویدئوی Full HD را ثبت و ضبط کنند. دوربین‌ سلفی این محصول هم به سنسوری 8 مگاپیکسلی مجهز شده است. بلوتوث نسخه 5.0، نسخه 10 سیستم عامل اندروید و باتری شگفت‌انگیز 6000 میلی‌آمپرساعتی از دیگر ویژگی‌‌های این گوشی جدید هستند. گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت دارای قابلیت reverse charging است. شارژ معکوس یا همون (reverse charging) ویژگی است که به شما این امکان را می‌دهد که از تلفن خود برای شارژ دستگاه‌های دیگر مانند تلفن‌های هوشمند، ساعت‌های هوشمند و باندهای هوشمندی که از شارژ بی‌سیم پشتیبانی می‌کنند، استفاده کنید. برای اینکه بتوانید آنها را به‌صورت بی‌سیم شارژ کنید، دستگاه شما باید از پروتکل شارژ بی‌سیم Qi پشتیبانی کند.</div>
-                                                     <a class="c-mask-link">ادامه مطلب</a>
+                                                     <div class="c-mask__text c-mask__text--product-summary"><p>گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت از جمله اولین سری محصولات برند شیائومی است. این محصول دارای ساختاری متوازن و خوش‌ساخت بدون پشتیبانی از تکنولوژی 5G در تاریخ نوامبر 2020 روانه بازار شده است. این محصول از فریم پلاستیکی ساخته شده است که قاب جلو شیشه‌ای جلوه ویژه‌ای به این مدل بخشیده است. صفحه‌نمایش گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت در اندازه 6.53 منتشر شده است. این صفحه‌نمایش کاملاً<span id="dotts">...</span><span id="more">است. شارژ معکوس یا همون (reverse charging) ویژگی است که به شما این امکان را می‌دهد که از تلفن خود برای شارژ دستگاه‌های دیگر مانند تلفن‌های هوشمند، ساعت‌های هوشمند و باندهای هوشمندی که از شارژ بی‌سیم پشتیبانی می‌کنند، استفاده کنید. برای اینکه بتوانید آنها را به‌صورت بی‌سیم شارژ کنید، دستگاه شما باید از پروتکل شارژ بی‌سیم Qi پشتیبانی کند.</span></p></div>
+                                                     <h6 class="c-mask-link" id="mostread" onclick="readmore()">ادامه مطلب</h6>
                                                     </div>
                                            
                                              </section>
                                       {{-- *** --}}
-                                      <div>
-                                        <div class="containert">
-                                            <div class="row">
-                                                <div class="cadr-slaider-productt">
-                                                    <div class="text-prodouct"> 
-                                                         <p> پیشنهاد فروشندگان</p>
-                                                        
-                                                        </div>
-                                                    <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
-                                                        <div class="owl-stage-outer">
-                                                            <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
-                                                                <div class="owl-item active" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div> <img src="/image/45.jpg"> </div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">400.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item active" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div> <img src="/image/46.jpg"></div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">4.000.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item active" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div> <img src="/image/46.jpg"> </div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">4.000.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item active" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div> <img src="/image/47.jpg"></div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">420.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item active" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div> <img src="/image/47.jpg"></div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">800.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item active" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div>
-                                                                                <img src="/image/48.jpg">  </div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">440.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div> <img src="/image/45.jpg"> </div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">2.400.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div>  <img src="/image/45.jpg"></div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">140.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div> <img src="/image/46.jpg"></div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">200.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="owl-item" style="width: 190px;">
-                                                                    <div class="col-lg-2 nj">
-                                                                        <div class="item-page2 ">
-                                                                            <div><img src="/image/48.jpg"></div>
-                                                                            <div class="mt-2 to-sistem ">
-                                                                                <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                                                <div class="price-2">600.000 تومان</div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                   
                                          </div>
                               </article>
                           </div>
@@ -1056,142 +803,24 @@
                         </div>
                   
                  </div>
-         {{-- // محصولات پیشنهادی --}}
-         <div>
-            <div class="containert">
-                <div class="row">
-                    <div class="cadr-slaider-productt">
-                        <div class="text-prodouct"> 
-                             <p> محصولات مرتبط</p>
-                            
-                            </div>
-                        <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
-                            <div class="owl-stage-outer">
-                                <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div> <img src="/image/45.jpg"> </div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">400.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div> <img src="/image/46.jpg"></div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">4.000.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div> <img src="/image/46.jpg"> </div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">4.000.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div> <img src="/image/47.jpg"></div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">420.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div> <img src="/image/47.jpg"></div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">800.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div>
-                                                    <img src="/image/48.jpg">  </div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">440.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div> <img src="/image/45.jpg"> </div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">2.400.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div>  <img src="/image/45.jpg"></div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">140.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div> <img src="/image/46.jpg"></div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">200.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="owl-item" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
-                                            <div class="item-page2 ">
-                                                <div><img src="/image/48.jpg"></div>
-                                                <div class="mt-2 to-sistem ">
-                                                    <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                    <div class="price-2">600.000 تومان</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+       {{-- //محصولات پیشنهادی --}}
+         @component('components.sliderproduct')
+      @slot('titel')
+         خریداران این محصول،محصولات زیر را هم خریداری کردند 
+      @endslot
+      @slot('urlimage')
+          <img src="/image/45.jpg">
+      @endslot
+      @slot('price')
+          5,600,000
+      @endslot
+    @endcomponent
           {{-- ***footer --}}
+        </div>
           @component('components.footer')
           
           @endcomponent
           </div>
-
 <script>
     $(document).ready(function() {
                 $('.owl-product').owlCarousel({
@@ -1218,39 +847,7 @@
                     }
                 })
               })
-            var slideIndex = 1;
-        showSlides(slideIndex);
-
-        function plusSlides(n) {
-            showSlides(slideIndex += n);
-        }
-
-        function currentSlide(n) {
-            showSlides(slideIndex = n);
-        }
-
-        function showSlides(n) {
-            var i;
-            var slides = document.getElementsByClassName("mySlides");
-            var dots = document.getElementsByClassName("demo");
-            var captionText = document.getElementById("caption");
-            if (n > slides.length) {
-                slideIndex = 1
-            }
-            if (n < 1) {
-                slideIndex = slides.length
-            }
-            for (i = 0; i < slides.length; i++) {
-                slides[i].style.display = "none";
-            }
-            for (i = 0; i < dots.length; i++) {
-                dots[i].className = dots[i].className.replace(" active", "");
-            }
-            slides[slideIndex - 1].style.display = "block";
-            dots[slideIndex - 1].className += " active";
-            // captionText.innerHTML = dots[slideIndex - 1].alt;
-        }
-// ****
+           
 
 </script>
 <script src="/js/indexx.js"></script>
