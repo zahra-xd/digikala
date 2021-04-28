@@ -19,7 +19,7 @@
          <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
     </head>
     <body>
-        <header class="headerr" id="meno-navbar">
+        {{-- <header class="headerr" id="meno-navbar">
             <div class="header-right">
                    <a class="logo"></a>
                    <i style="font-size:24px" class="fa icon-box-search">&#xf002;</i>
@@ -33,9 +33,9 @@
                            <i style="font-size:24px" class="fa icon-user-st">&#xf07a;</i>
                        </a>
                 </div>
-         </header>
+         </header> --}}
 <!-- //start meno -->
-               <div>
+               {{-- <div>
                   <div class="meno" id="my-nav">
                       <div class="headerright">
                           <ul class="meno-headerr nav-level-1-ul">
@@ -148,7 +148,12 @@
                            </div>
                      </div>
                 </div>
-             </div> 
+             </div>  --}}
+             @component('components.header')
+             @endcomponent
+   {{-- //menu --}}
+             @component('components.menuheader')
+             @endcomponent
 {{-- // منو محصولات  --}}
 <div class="conti">
               <div class="o-page js-product-page c-product-page">
@@ -172,7 +177,7 @@
                         <div class="titel-product">
                             <div>
                                 <div class="item-center">
-                                    <div class="brand-titel">
+                                    <div class="brand-titel" style="color: #0fabc6">
                                         <a>شیائومی</a>
                                         <span>/</span>
                                         <a>گوشی موبایل شیائومی</a>
@@ -248,7 +253,7 @@
                                                     <div class="c-proc-row">
                                                         <i style='font-size:24px' class='fas cproct-icon'>&#xf559;</i>
                                                         <div class="c-product__seller-first-line mr-2">
-                                                            <span class="c-product-name">داده پرداز مهر جاوید</span>
+                                                            <span class="c-product-name">داده پرداز مهر </span>
                                                             <i style='font-size:20px' class='fas text-muted mrr-5'>&#xf104;</i>
                                                         </div>
                                             </div>
@@ -850,6 +855,9 @@
            
 
 </script>
-<script src="/js/indexx.js"></script>
+{{-- <script src="/js/indexx.js"></script> --}}
+  <script src="/js/jspage2.js"></script>
+  <script src="/js/indexx.js"></script>
+  <script src="/js/megamenu.js"></script>
     </body>
 </html>

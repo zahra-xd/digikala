@@ -299,11 +299,12 @@ body {
 
 .networksocial li {
     margin-top: 20px;
-    display: block;    color: #424750;
+    display: block;
+    color: #424750;
     position: relative;
 }
-.brand-titel a 
-{
+
+.brand-titel a {
     color: #0fabc6;
     font-size: 12px;
 }
@@ -411,7 +412,6 @@ body {
 }
 
 .modall {
-    
     padding-top: 20px;
     /* width: 1200px; */
     height: 100%;
@@ -431,8 +431,6 @@ body {
 .modall.is-active {
     display: block !important;
 }
-
-
 
 
 /* Modal Content */
@@ -579,7 +577,7 @@ body {
     border-radius: 8px;
     background-color: #fff;
     border: 1px solid #cacaca;
-    color: #565656;    
+    color: #565656;
     color: #9b9b9b;
     position: relative;
     font-size: 25px !important;
@@ -802,21 +800,19 @@ body {
     text-align: center;
     transform: translateY(-50%);
 }
-@media(max-width:1100px)
-{
-    .c-product__seller-info
-    {
-        width:316px;
-        position:relative;
+
+@media(max-width:1100px) {
+    .c-product__seller-info {
+        width: 316px;
+        position: relative;
         /* left:-30%; */
     }
 }
-@media(max-width:1100px)
-{
-    .c-product-shipping-limitationn
-    {
-     /* left:-33%; */
-       width:300px;
+
+@media(max-width:1100px) {
+    .c-product-shipping-limitationn {
+        /* left:-33%; */
+        width: 300px;
     }
 }
 
@@ -1298,22 +1294,25 @@ body {
     display: flex;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    align-items: center;   
-     margin-left: 12%;
+    align-items: center;
+    margin-left: 12%;
     color: #686868;
     font-size: .8rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+
 .c-product__additional-item:before {
     content: "\E173\00FE0E";
 }
+
 @media screen and (min-width: 1366px) {
-   .c-product__summary
-    {
-    max-width:350px;
+    .c-product__summary {
+        max-width: 350px;
     }
 }
+
+
 /* .c-product__summary {
     -webkit-box-flex: 1;
     -ms-flex: 1;
@@ -1358,6 +1357,7 @@ body {
     position: relative;
     min-height: 206px;
 }
+
 
 /* .c-product__summary {
     max-width: 350px;
@@ -1582,7 +1582,7 @@ body {
 }
 
 .c-product-shipping-limitationn {
-  padding: 12px 52px 12px 12px;
+    padding: 12px 52px 12px 12px;
     z-index: 2000;
     border-radius: 8px;
     margin-top: 8px;
@@ -1592,21 +1592,23 @@ body {
     cursor: pointer;
     position: relative;
 }
-.cfeature-item:hover{
-    text-decoration:none;
-      color: #9b9b9b;
+
+.cfeature-item:hover {
+    text-decoration: none;
+    color: #9b9b9b;
 }
+
 .cadr-galery img {
     max-width: 85%;
     vertical-align: top;
 }
-@media(max-width:1100px)
-{
-    .card-galery-img img 
-    {
-        width:290px;
+
+@media(max-width:1100px) {
+    .card-galery-img img {
+        width: 290px;
     }
 }
+
 .c-product-shipping-limitation__title {
     color: #424750;
     font-size: 14px;
@@ -1616,13 +1618,13 @@ body {
     margin-bottom: 4px;
     position: relative;
 }
-@media(max-width:1100px)
-{
-    .price-monaseb
-    {
-        margin-left:20%;
+
+@media(max-width:1100px) {
+    .price-monaseb {
+        margin-left: 20%;
     }
 }
+
 .c-product-shipping-limitation__dsc {
     color: #81858b;
     float: right;
@@ -2659,35 +2661,34 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     color: white;
 }
 
-
-
 @media screen and (max-width: 1365px) {
-   .c-product__bottom-section.has-mini-buybox .c-product__tabs-container 
-    {
-    max-width:100%
+    .c-product__bottom-section.has-mini-buybox .c-product__tabs-container {
+        max-width: 100%
     }
 }
+
 @media screen and (max-width: 1365px) {
-   .c-mini-buy-box-fixed
-    {
-    display:none;
+    .c-mini-buy-box-fixed {
+        display: none;
     }
 }
+
 @media screen and (min-width: 1366px) {
-   .product-atribute
-    {
-    height:100%;
+    .product-atribute {
+        height: 100%;
     }
 }
-.conti 
-{
+
+.conti {
     min-width: 1009px;
     max-width: 1676px;
+    margin-top: 90px;
     margin-right: auto;
     padding-left: 15px;
     width: 100%;
     padding: 0 24px;
 }
+
 .o-box__tabs--sticky {
     position: -webkit-sticky;
     position: sticky;
@@ -2695,9 +2696,12 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     z-index: 2;
     top: 68px;
 }
-#more {display: none;}
-.c-mask-links:hover
-{
-    text-decoration:none;
-      color: #0fabc6;
+
+#more {
+    display: none;
+}
+
+.c-mask-links:hover {
+    text-decoration: none;
+    color: #0fabc6;
 }
