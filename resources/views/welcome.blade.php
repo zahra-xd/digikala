@@ -682,7 +682,7 @@
                                 <div class="c-promotion__category-quantity">+۵۱۳۰۰۰ کالا </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--mother-and-child">
-                                <i style='font-size:34px' class='fas'>&#xf969;</i>
+                              <i><img src="/public/image/baby-boy (2).svg" style="width:40px"></i>
                                 <div class="c-promotion__category-name">اسباب بازی، کودک</div>
                                 <div class="c-promotion__category-quantity">+۵۵۰۰۰ کالا  </div>
                             </a>
@@ -711,6 +711,7 @@
                                 <div class="c-promotion__category-name">ورزش و سفر</div>
                                 <div class="c-promotion__category-quantity">+۲۹۰۰۰ کالا  </div>
                             </a>
+                      
                         </div>
                     </div>
                 </div>
@@ -1389,7 +1390,7 @@
                                                             <a class="js-product-url js-carousel-ga-product-box" href="/product/dkp-1481793/سس-ایتالیایی-بدون-چربی-بیژن-وزن-505-گرم">
                                                                 <div class="c-new-price">
                                                                     <div class="c-new-price__old-value"><del>۱۰,۷۰۰ </del><span class="c-new-price__discount">۳۰٪</span></div>
-                                                                    <div class="c-new-price__value">
+                                                                    <div class="c-new-price__valuee">
                                                                         ۷,۵۰۰
                                                                         <span class="c-new-price__currency">تومان</span></div>
                                                                 </div>
@@ -1430,7 +1431,7 @@
                                                             <a class="js-product-url js-carousel-ga-product-box" href="/product/dkp-1481793/سس-ایتالیایی-بدون-چربی-بیژن-وزن-505-گرم">
                                                                 <div class="c-new-price">
                                                                     <div class="c-new-price__old-value"><del>۱۰,۷۰۰ </del><span class="c-new-price__discount">۳۰٪</span></div>
-                                                                    <div class="c-new-price__value">
+                                                                    <div class="c-new-price__valuee">
                                                                         ۷,۵۰۰
                                                                         <span class="c-new-price__currency">تومان</span></div>
                                                                 </div>
