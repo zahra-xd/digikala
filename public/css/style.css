@@ -975,6 +975,8 @@ ul {
     -webkit-box-pack: end;
     -ms-flex-pack: end;
     justify-content: flex-end;
+    position: relative;
+    left: -39px;
 }
 
 .text-box-lahzeei span {
@@ -1007,7 +1009,7 @@ ul {
 .owl-carousel .owl-item .item img {
     display: block;
     width: 170px;
-    margin-right: 12px;
+    margin-right: 32px;
 }
 
 @media (max-width: 1200px) {
@@ -1260,6 +1262,8 @@ ul {
     margin-top: 14px;
     min-height: 50px;
     width: 210px;
+    text-align: justify;
+    margin-right: 20px;
     font-size: 12px;
     font-size: .857rem;
     line-height: 25px;
@@ -1268,14 +1272,15 @@ ul {
 
 .price {
     text-align: left;
-    margin-left: 50px;
     font-weight: bold;
 }
 
 .nj .item:hover {
     border: 1px solid #f0f0f0;
-    width: 223px;
+    width: 253px;
     height: 290px;
+    position: relative;
+    left: 7px;
     border-radius: 10px;
     box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
     z-index: 11;
