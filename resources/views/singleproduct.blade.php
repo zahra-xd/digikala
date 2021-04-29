@@ -6,149 +6,24 @@
         <title>صفحه  محصولات </title>
      
          <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-         <link rel="stylesheet" href="/css/style.css" >
-         <link rel="stylesheet" href="/css/stylepage2.css" >
+         {{-- <link rel="stylesheet" href="/css/style.css" > --}}
+         <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+         {{-- <link rel="stylesheet" href="/css/stylepage2.css" > --}}
+         <link href="{{ asset('css/stylepage2.css') }}" rel="stylesheet">
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script> 
          <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.2/assets/owl.carousel.min.css" />
-         <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-         <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.2/owl.carousel.min.js"></script>
+         {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.2/assets/owl.carousel.min.css" /> --}}
+         {{-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> --}}
+         {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.2/owl.carousel.min.js"></script> --}}
          <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
-    </head>
+             <link href="{{ asset('owll-crousel/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css') }}" rel="stylesheet">
+             <script src="{{ asset('owll-crousel/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js')}}"></script>
+             <script src="{{ asset('/public/owll-crousel/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js')}}"></script>
+            </head>
     <body>
-        {{-- <header class="headerr" id="meno-navbar">
-            <div class="header-right">
-                   <a class="logo"></a>
-                   <i style="font-size:24px" class="fa icon-box-search">&#xf002;</i>
-                   <input type="search" class="search-box" placeholder="جستجو در دیجی‌کالا …">
-            </div>
-                 <div class="header-left">
-                        <div class="box-user">
-                              <a class="box-left-user text-muted"> <i style="font-size:24px" class="fa">&#xf2c0;</i>ورود به حساب کاربری</a>
-                         </div>
-                       <a class="text-muted line-user">
-                           <i style="font-size:24px" class="fa icon-user-st">&#xf07a;</i>
-                       </a>
-                </div>
-         </header> --}}
-<!-- //start meno -->
-               {{-- <div>
-                  <div class="meno" id="my-nav">
-                      <div class="headerright">
-                          <ul class="meno-headerr nav-level-1-ul">
-                            <div class="nav-hover"></div>
-                           <li class="nav-level-1-li"><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf0c9;</i>دسته بندی کالا</li></a>
-                           <li class="nav-level-1-li"><div class="dropdown"><a>سوپرمارکت</a></div></li>
-                           <li>
-                              <div class="dropdown">
-                                <a><i style="font-size:15px" class="fa ml-2 text-muted">&#xf295;</i>تخفیف ها و پیشنهاد ها</a>
-                                    <div class="sum-menmo">
-                                         <div class="drop-right">
-                                                <div>
-                                               <ul class="list-submeno">
-                                                    <li> <a>مشاهده همه تخفیف ها و پیشنهاد ها<i style="font-size:14px" class="fa text-muted mr-2">&#xf104;</i></a></li>
-                                                    <li> <a>کالاهای شگفت انگیز<i style="font-size:14px" class="fa text-muted mr-2">&#xf104;</i></a></li>
-                                                    <li><a>شگفت انگیز سوپر مارکتی<i style="font-size:14px" class="fa text-muted mr-2">&#xf104;</i></a></li>
-                                                    <li><a>فروش ویژه<i style="font-size:14px" class="fa text-muted mr-2">&#xf104;</i></a></li>
-                                                    <li class="text-muted"><a>کالا های دیجیتال</a></li>
-                                                    <li class="text-muted"> ابزار تجهیزات صنعتی خودرو </li>
-                                                    <li class="text-muted"><a>مد پوشاک</a></li>
-                                                    <li class="text-muted"><a>اسباب بازی، کودک و نوزاد</a></li>
-                                                    <li class="text-muted"><a>کالاهای سوپرمارکتی</a> </li>
-                                                    <li class="text-muted"><a>زیبایی و سلامت</a> </li>
-                                                    <li class="text-muted">  <a>خانه و آشپزخانه</a></li>
-                                                    <li class="text-muted"> <a>کتاب و لوازم  تحریر</a> </li>
-                                                   <li class="text-muted"> <a>ورزش و سفر</a> </li>
-                                               </ul>
-                                           </div>
-                                        </div>
-                                             <div class="droop-left">
-                                                   <ul class="list-drop-left">
-                                                         <li><a>چتر کم تر از 150 هزار تومان </a></li>
-                                                          <li><a>کتاب چاپی تا 70%تخفیف</a></li>
-                                                           <hr style="width: 90%;">
-                                                           <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf06b;</i>پر فروش ترین کالاها</a></li>
-                                                            <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf06b;</i>با هر خرید هدیه بگیرید!</a></li>
-                                                            <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf06b;</i>تخفیف پایان سال</a></li>
-                                                            <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf06b;</i>کارت هدیه خرید </a></li>
-                                                            <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf06b;</i>تازه های فروشنده جدید </a></li>
-                                                      </ul>
-                                                            <div class="img-off">
-                                                                 <a><img src="/image/1.png"></a>
-                                                             </div>
-                                                          </div>
-                                                     </div>
-                                                 </div>
-                                             </li>
-                                                 <li><a> دیجی کالای من</a></li>
-                                                  <li>
-                                                     <div class="dropdown">
-                                                         <a> <i style='font-size:15px ;color: purple;' class='fas ml-2 text-muted'>&#xf863;</i>دیجی پلاس</a>
-                                                          <div class="sum-meno">
-                                                          <div class="drop-right">
-                                                         <div>
-                                                         <div class="c-dp-header-submenu__head-title "> خدمات ویژه کاربران <img src="/image/2.svg" alt="Digiplus"> </div>
-                                                     <div class="c-dp-header-submenu__head-subtitle">   ارسال رایگان بدون محدودیت قیمت، هدیه نقدی و بازگشت کالا تا ۳۰ روز پس از تحویل</div>
-                                                       <div>
-                                                          <ul class="sub-plas">
-                                                           <li style="color: #0fabc6;"> <a> اطلاعات بیشتر و عضویت <i style="font-size:14px;color: #0fabc6;" class="fa  mr-2">&#xf104;</i></a></li>
-                                                           <hr style="width: 90%;">
-                                                           <li>کالاهای دیجی پلاس</li>
-                                                         </ul>
-                                                        </div>
-                                                       </div>
-                                                         <div class="drop-left">
-                                                                <div class="img-digiplas"><a><img src="/image/3.jpg"></a></div>
-                                                        </div>
-                                                    </div>
-                                                 </div>
-                                            </div>
-                                        </li>
-                                       <li>
-                                        <div class="dropdown">
-                                            <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a>
-                                            <div class="sum-meno">
-                                                <div class="drop-right">
-                                                <div>
-                                                <div class=" logo-sub"><img src="/image/4.svg"></div>
-                                                  <ul class="list-submeno">
-                                                      <li>  <a>صفحه اصلی دیجی کلاب <i style="font-size:14px" class="fa text-muted mr-2">&#xf104;</i></a>   </li>
-                                                      <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf06b;</i>جوایز دیجی کلاب</a></li>
-                                                      <li><a class="text-muted"> <i style="font-size:20px" class="fa ml-2">&#xf017;</i>تاریخچه امتیازات دیجی کلاب</a>  </li>
-                                                      <li><a><i style="font-size:20px" class="fa text-muted ml-2">&#xf0e7;</i>ماموریت های دیجی کلابی</a></li>
-                                                      <hr class="mt-2 mb-0" style="width: 90%;">
-                                                      <li>
-                                                        <div class="timer-ghorekeshi">
-                                                           <a><i style="font-size:20px" class="fa text-muted ml-2">&#xf06b;</i>قرعه کشی  </a>
-                                                              <div id="demo-sunmeno"></div>
-                                                         </div>
-                                                     </li>
-                                                   </ul>
-                                              </div>
-                                          </div>
-                                            <div class="drop-left"><div><a><img src="/image/5.jpg"></a></div> </div>
-                                     </div>
-                                  </div>
-                               </li>
-                                                       <li><a> سوالی دارد <i style='font-size:15px' class='fas text-muted ml-2'>&#xf128;</i></a></li>
-                                                       <li><a>فروشنده شوید</a></li>
-                                               </ul>
-                                        </div>
-                                   <div class="headerleft">
-                                      <ul class="place">
-                                         <li>
-                                             <span class="text-muted">  ارسال به خراسان شمالی، شیروان</span>
-                                             <span class="text-muted"><i style='font-size:24px' class='fas'>&#xf3c5;</i></span>
-                                         </li>
-                                      </ul>
-                               </div>
-                           </div>
-                     </div>
-                </div>
-             </div>  --}}
              @component('components.header')
              @endcomponent
    {{-- //menu --}}
