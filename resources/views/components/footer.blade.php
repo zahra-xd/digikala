@@ -74,10 +74,11 @@
                     <div class="c-footer__social"><span>دیجی‌کالا را در شبکه‌های اجتماعی دنبال کنید:</span>
                         <div class="c-footer__social-images">
                             <div class="c-footer__social-links">
-                                <a href="" class="c-footer__social-link c-footer__social-link--linkedin" target="_blank"><i style="font-size:32px" class="fa">&#xf08c;</i></a>
-                                <a href="" target="_blank"><i style="font-size:32px" class="fa c-footer__social-link ">&#xf16a;</i></a>
-                                <a href="" class="c-footer__social-link c-footer__social-link--twitter" target="_blank"><i style="font-size:32px" class="fa">&#xf099;</i></a>
-                                <a href="" class="c-footer__social-link c-footer__social-link--instagram" target="_blank"><i style="font-size:32px" class="fa">&#xf16d;</i></a>
+                                <a class="c-footer__social-link"><i style='font-size:32px' class='fab'>&#xf08c;</i></a>
+                                <a class="c-footer__social-link"> <img src="https://img.icons8.com/fluent-systems-filled/50/000000/aparat.png" style="width:32px"/></a>
+                                <a class="c-footer__social-link"><i style='font-size:32px' class='fab'>&#xf099;</i>  </a>
+                                <a class="c-footer__social-link"><i style='font-size:32px' class='fab'>&#xf16d;</i></a>
+             
                             </div>
                         </div>
                     </div>

@@ -1797,7 +1797,8 @@ ul {
 }
 
 .c-footer__social-links i:hover {
-    color: black;
+    color: #000103;
+    opacity: 1;
 }
 
 .c-footer__social-link {
