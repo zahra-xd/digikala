@@ -21,7 +21,7 @@
       
         </head>
  <body class="antialiased">
-     <h2>hhdh</h2>
+ 
       <div class="bg-kol">
 <!-- //start header -->
          @component('components.header')
