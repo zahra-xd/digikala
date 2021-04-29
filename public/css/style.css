@@ -1,3 +1,24 @@
+body {
+    font-family: 'Shabnam';
+    src: url('/font/shabnam-font-v1.1.0/Shabnam.ttf') format('ttf');
+    margin: 0;
+    font-family: shabnam;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+
+.antialiased {
+    font-family: 'Shabnam';
+}
+
+@font-face {
+    font-family: 'Shabnam';
+    src: url('/font/shabnam-font-v1.1.0/Shabnam.ttf') format('ttf'), url('/font/shabnam-font-v1.1.0/Shabnam.woff') format('woff'), url('/font/shabnam-font-v1.1.0/Shabnam.eot') format('eot');
+}
+
 .pishnahad-lahzaei .progress {
     position: absolute;
     top: 0;
@@ -60,11 +81,6 @@
 
 
 /* //رنگ پس زمینه بادی */
-
-body {
-    box-sizing: border-box;
-    font-family: '/font/vazir-font-v8.2.1';
-}
 
 .bg-kol {
     background: #fff
