@@ -1,0 +1,125 @@
+.bg {
+    background: #fff
+}
+
+header .headerr {
+    max-width: 1676px;
+    min-width: 1009px;
+    margin: 0 auto;
+}
+
+.headerr {
+    padding: 0px 14px;
+    max-width: 1676px;
+    display: -webkit-box;
+    min-width: 1009px;
+    margin: 0 auto;
+}
+
+.icon-user-st {
+    font-size: 24px;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+.headerr .headerright {
+    width: 50%;
+}
+
+.headerr .headerright .logo {
+    background-image: url('https://www.digikala.com/static/files/bc60cf05.svg');
+    display: block;
+    background-size: contain;
+    width: 120px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.headerr .headerright {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+    align-items: center;
+}
+
+.headerr .headerleft {
+    display: flex;
+    align-items: center;
+    width: 40%;
+    justify-content: flex-end;
+    margin-left: 3px;
+}
+
+.headerr .headerright .searchbox {
+    border: none;
+    border-radius: 8px;
+    background: #f0f0f1;
+    outline: none;
+    width: 70%;
+    padding: 14px 45px 14px 14px;
+    height: 44px;
+    margin-top: 10px;
+}
+
+
+/* ///////////// */
+
+.box-user {
+    width: 180px;
+    margin-left: 30px;
+    height: 46px;
+    padding-left: 6px;
+    padding-right: 6px;
+    text-align: center;
+    padding-top: 8px;
+    border-radius: 6px;
+    border: 1px solid gainsboro;
+}
+
+.box-left-user {
+    display: flex;
+    color: #535353;
+    justify-content: space-between;
+}
+
+.box-left-user:hover {
+    text-decoration: none;
+}
+
+.meno {
+    margin-top: 6px;
+}
+
+.meno ul li {
+    display: inline-block;
+    margin-right: 9px;
+    margin-left: 8px;
+}
+
+.meno ul {
+    display: flex;
+    list-style: none;
+    margin-top: 17px;
+    text-align: right
+}
+
+.searchbox::before {
+    content: "&#xe55b";
+    right: 4px;
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    z-index: 52;
+    color: #a1a3a8;
+    font-size: 24px;
+    width: 36px;
+    height: 36px;
+    justify-content: center;
+}
+
+.meno .place {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -30px;
+    margin-left: 15px;
+}
