@@ -86,12 +86,14 @@
                             <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0.25s ease 0s; width: 2200px;">
                                 <div class="owl-item active" style="width: 275px;">
                                     <div class="item2">
+                                        <div class="mg-shgf-green">
                                         <img style="width: 170px;margin-right: 40px;" src="/image/16.jpg">
-                                          <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                         <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                        </div>
+                                        <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
+                                         <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                               <div class="box-of">
                                                    <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                 <div class="c-new-price__value">
+                                                 <div class="c-new-price__valuee">
                                                       ۳۸,۶۴۰
                                                      <span class="c-new-price__currency">تومان</span></div>
                                                 <div>
@@ -111,12 +113,14 @@
                                 </div>
                                 <div class="owl-item active" style="width: 275px;">
                                     <div class="item2">
+                                        <div class="mg-shgf-green">
                                         <img style="width: 170px;margin-right: 40px;" src="/image/16.jpg">
+                                        </div>
                                         <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                        <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                        <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                         <div class="box-of">
                                             <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                <div class="c-new-price__value">
+                                                <div class="c-new-price__valuee">
                                                    ۳۸,۶۴۰
                                                      <span class="c-new-price__currency">تومان</span></div>
                                                  <div>
@@ -133,12 +137,14 @@
                                 </div>
                                 <div class="owl-item active" style="width: 275px;">
                                     <div class="item2">
+                                        <div class="mg-shgf-green">
                                         <img style="width: 170px;margin-right: 40px;" src="/image/16.jpg">
-                                            <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                             <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                        </div>
+                                        <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
+                                             <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                             <div class="box-of">
                                                  <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                   <div class="c-new-price__value">
+                                                   <div class="c-new-price__valuee">
                                                            ۳۸,۶۴۰
                                                           <span class="c-new-price__currency">تومان</span></div>
                                                     <div>
@@ -155,12 +161,14 @@
                                              </div>
                                                   <div class="owl-item active" style="width: 275px;">
                                                        <div class="item2">
+                                                        <div class="mg-shgf-green">
                                                         <img style="width: 170px;margin-right: 40px;" src="/image/16.jpg">
-                                                         <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                                          <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                                        </div>
+                                                        <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
+                                                          <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                                                  <div class="box-of">
                                                                      <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                                         <div class="c-new-price__value">
+                                                                         <div class="c-new-price__valuee">
                                                                                ۳۸,۶۴۰
                                                                                <span class="c-new-price__currency">تومان</span></div>
                                                                           <div>
@@ -177,12 +185,14 @@
                                                           </div>
                                                                <div class="owl-item" style="width: 275px;">
                                                                    <div class="item2">
+                                                                    <div class="mg-shgf-green">
                                                                             <img style="width: 170px;margin-right: 40px;" src="../imagedigikala/56.jpg">
-                                                                             <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                                                              <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                                                    </div>
+                                                                            <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
+                                                                              <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                                                                    <div class="box-of">
                                                                                       <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                                                           <div class="c-new-price__value">
+                                                                                           <div class="c-new-price__valuee">
                                                                                                   ۳۸,۶۴۰
                                                                                                    <span class="c-new-price__currency">تومان</span></div>
                                                                                                <div>
@@ -199,12 +209,14 @@
                                                                                         </div>
                                                                              <div class="owl-item" style="width: 275px;">
                                                                                   <div class="item2">
+                                                                                    <div class="mg-shgf-green">
                                                                                           <img style="width: 170px;margin-right: 40px;" src="/image/16.jpg">
-                                                                                           <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                                                                           <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                                                                    </div>
+                                                                                          <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
+                                                                                           <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                                                                       <div class="box-of">
                                                                                          <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                                                             <div class="c-new-price__value">
+                                                                                             <div class="c-new-price__valuee">
                                                                                                        ۳۸,۶۴۰
                                                                                                      <span class="c-new-price__currency">تومان</span></div>
                                                                                            <div>
@@ -221,12 +233,14 @@
                                                                          </div>
                         <div class="owl-item" style="width: 275px;">
                                           <div class="item2">
+                                            <div class="mg-shgf-green">
                                                     <img style="width: 170px;margin-right: 40px;" src="/image/16.jpg">
-                                                       <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                                       <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                            </div>
+                                                    <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
+                                                       <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                                          <div class="box-of">
                                                              <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                                <div class="c-new-price__value">
+                                                                <div class="c-new-price__valuee">
                                                                       ۳۸,۶۴۰
                                                                     <span class="c-new-price__currency">تومان</span></div>
                                                                <div>
@@ -243,12 +257,14 @@
                                                           </div>
                                 <div class="owl-item" style="width: 275px;">
                                     <div class="item2">
+                                        <div class="mg-shgf-green">
                                                <img style="width: 170px;margin-right: 40px;" src="/image/16.jpg">
-                                                 <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
-                                                 <p class="text-supermark">10.000 تومان هدیه نقدی</p>
+                                        </div>
+                                               <p class="text-supermark">Vanilla And Honey مقدار 400 گرم شامپو بدن کرمی اکتیو مدل</p>
+                                                 <p class="textsupermark">10.000 تومان هدیه نقدی</p>
                                                         <div class="box-of">
                                                                <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                                                 <div class="c-new-price__value">
+                                                                 <div class="c-new-price__valuee">
                                                                      ۳۸,۶۴۰
                                                                      <span class="c-new-price__currency">تومان</span></div>
                                                                             <div>
