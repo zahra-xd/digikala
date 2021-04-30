@@ -166,6 +166,7 @@ header .headerr {
     height: 46px;
     padding-left: 6px;
     padding-right: 6px;
+    margin-top: 10px;
     text-align: center;
     padding-top: 8px;
     border-radius: 6px;
@@ -175,8 +176,16 @@ header .headerr {
 .box-left-user {
     display: flex;
     color: #535353;
+    margin-left: 4px;
     justify-content: space-between;
 }
+
+
+/* .carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+} */
 
 .box-left-user:hover {
     text-decoration: none;
@@ -293,6 +302,16 @@ ul {
     border-radius: 16px;
 }
 
+
+/* @media(max-width:1100px) {
+    .image-banner img {
+        max-width: 100%;
+        max-height: 100%; */
+
+
+/* }
+} */
+
 .carousel-image {
     margin-top: 15px;
 }
@@ -301,9 +320,9 @@ ul {
     border-radius: 16px;
 }
 
-.circleslide li {
-    width: 30px;
-    height: 30px;
+.carousel-indicators.circleslide li {
+    width: 15px;
+    height: 15px;
     border-radius: 50%;
     margin-left: 3px;
     text-indent: -999px;
@@ -540,6 +559,7 @@ ul {
     .box-sh {
         overflow: hidden;
         margin-top: -46%;
+        margin-right: 15%;
     }
 }
 

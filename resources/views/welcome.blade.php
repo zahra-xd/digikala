@@ -105,7 +105,7 @@
                                                 <div><span class="precent-frosh">67%</span> فروش رفته</div>
                                                 <div>
                                                     <span class="demo">5:34:20</span>
-                                                    <span><i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                    <span><i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                 </div>
                                             </div>
                                         </div>
@@ -130,7 +130,7 @@
                                                     </div>
                                                   <div class="mm-l">
                                                          <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                           <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                           <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                   </div>
                                            </div>
                                        </div>
@@ -154,7 +154,7 @@
                                                    </div>
                                                       <div class="mm-l">
                                                                  <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                <div><span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span> </div>
+                                                                <div><span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span> </div>
                                                              </div>
                                                         </div>
                                                   </div>
@@ -178,7 +178,7 @@
                                                                 </div>
                                                                  <div class="mm-l">
                                                                      <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                          <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                          <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                      </div>
                                                                </div>
                                                           </div>
@@ -202,7 +202,7 @@
                                                                                   </div>
                                                                                             <div class="mm-l">
                                                                                                    <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                                                     <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                                                     <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                                                    </div>
                                                                                                 </div>
                                                                                               </div>
@@ -226,7 +226,7 @@
                                                                                 </div>
                                                                                    <div class="mm-l">
                                                                                      <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                                            <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                                            <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                                      </div>
                                                                                   </div>
                                                                               </div>
@@ -250,7 +250,7 @@
                                                                </div>
                                                                        <div class="mm-l">
                                                                                 <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                                <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                                <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                        </div>
                                                                    </div>
                                                                </div>
@@ -274,7 +274,9 @@
                                                            </div>
                                                                    <div class="mm-l">
                                                                  <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                  <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                  <span>02/32/40 
+                                                                    <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i>
+                                                                </span>
                                                               </div>
                                                        </div>
                                                    </div>
@@ -345,7 +347,7 @@
                                                 <div><span class="precent-frosh">67%</span> فروش رفته</div>
                                                 <div>
                                                     <span class="demo">5:34:20</span>
-                                                    <span><i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                    <span><i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                 </div>
                                             </div>
                                         </div>
@@ -370,7 +372,7 @@
                                                     </div>
                                                   <div class="mm-l">
                                                          <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                           <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                           <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                   </div>
                                            </div>
                                        </div>
@@ -394,7 +396,7 @@
                                                    </div>
                                                       <div class="mm-l">
                                                                  <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                <div><span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span> </div>
+                                                                <div><span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span> </div>
                                                              </div>
                                                         </div>
                                                   </div>
@@ -418,7 +420,7 @@
                                                                 </div>
                                                                  <div class="mm-l">
                                                                      <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                          <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                          <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                      </div>
                                                                </div>
                                                           </div>
@@ -442,7 +444,7 @@
                                                                                   </div>
                                                                                             <div class="mm-l">
                                                                                                    <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                                                     <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                                                     <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                                                    </div>
                                                                                                 </div>
                                                                                               </div>
@@ -466,7 +468,7 @@
                                                                                 </div>
                                                                                    <div class="mm-l">
                                                                                      <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                                            <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                                            <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                                      </div>
                                                                                   </div>
                                                                               </div>
@@ -490,7 +492,7 @@
                                                                </div>
                                                                        <div class="mm-l">
                                                                                 <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                                <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                                <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                                        </div>
                                                                    </div>
                                                                </div>
@@ -514,7 +516,7 @@
                                                            </div>
                                                                    <div class="mm-l">
                                                                  <div><span class="precent-frosh">67%</span> فروش رفته</div>
-                                                                  <span>02/32/40 <i style=" font-size:20px;color: #737373;" class="fa"></i></span>
+                                                                  <span>02/32/40 <i style=" font-size:20px;color: #737373;" class='far'>&#xf017;</i></span>
                                                               </div>
                                                        </div>
                                                    </div>

@@ -287,7 +287,7 @@
                         <!--                            </div>-->
                     </li>
                     <li class="nav-level-1-li hidemenuu2"><a >سوپر مارکت</a></li>
-                    <li class="nav-level-1-li has-sub"><a ><i style="font-size:15px" class="fa ml-2 text-muted">&#xf295;</i>تخفیف ها و پیشنهادها</a>
+                    <li class="nav-level-1-li has-sub"><a ><i class="ml-2"><img src="/image/discount.svg" style="width: 16px" ></i>تخفیف ها و پیشنهادها</a>
 
                         <div class="sub-menu-categoreis sub2">
                             <ul class="sub-menu-categoreis-ul">
@@ -318,7 +318,7 @@
                         </div>
                     </li>
                     <li class="nav-level-1-li  hidemenuu"><a >دیجی کالای من</a></li>
-                <li class="nav-level-1-li hidemenuu1"> <a> <i style='font-size:15px ;color: purple;' class='fas ml-2 text-muted'>&#xf863;</i>دیجی پلاس</a>
+                <li class="nav-level-1-li hidemenuu1"> <a><i class="ml-2"><img src="/image/7yc53fd0f.svg"></i>دیجی پلاس</a>
                 
                 
                     <div class="sub-menu-categoreis sub3">
@@ -342,7 +342,7 @@
 
 
                     <li class="nav-level-1-li hidemenuu2">  <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a></li>
-                    <li class="nav-level-1-li hidemenuu"><a> سوالی دارد <i style='font-size:15px' class='fas text-muted ml-2'>&#xf128;</i></a></li>
+                    <li class="nav-level-1-li hidemenuu"><a> سوالی دارد <i class="ml-2"><img src="/image/question-mark (1).svg" style="width: 13px"></i></a></li>
                     <li class="nav-level-1-li hidemenuu"><a>فروشنده شوید</a></li>
                 </ul>
             </div>
@@ -350,7 +350,7 @@
                 <ul class="place">
                     <li>
                         <span class="text-muted ">  ارسال به خراسان شمالی، شیروان</span>
-                        <span class="text-muted ml-4"><i style='font-size:24px' class='fas'>&#xf3c5;</i></span>
+                        <span class="text-muted ml-4"><i><img src="/image/placeholder.svg" style="width: 16px"></i></span>
                     </li>
                  </ul>
             </div>
