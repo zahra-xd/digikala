@@ -526,8 +526,14 @@ ul {
 .box-sh {
     width: 1100px;
     float: left;
-    margin-right: 17%;
+    margin-right: 19%;
     margin-top: -33%;
+}
+
+@media(max-width:1100px) {
+    .owl-prev span {
+        margin-right: 90px;
+    }
 }
 
 @media(max-width:1150px) {
