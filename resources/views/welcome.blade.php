@@ -505,95 +505,97 @@
                
                         <div class="col-9">
                             <div class="box-prodout2">
-                                 <div class="pp"> <div class="o-headline"><span> <p class="pt-2 pr-4" style="font-size: 16px;">کیبورد</p></span></div> </div>
+                                 <div class="pp"> <div class="o-headline"><span> <p class="pt-2 pr-4" style="font-size: 16px;">گوشی موبایل</p></span></div> </div>
                                    <div class="owl-carousel owl-pishnahad-lahzei owl-theme owl-rtl owl-loaded owl-drag">
                                     <div class="owl-stage-outer">
                                         <div class="owl-stage" style="transform: translate3d(456px, 0px, 0px); transition: all 0.25s ease 0s; width: 2280px;">
                                             <div class="owl-item" style="width: 228px;">
                                                 <div class="col-lg-2 col-sm-2 col-md-2 nj">
                                                     <div class="item-lahzei">
-                                                        <div><img src="/image/23.jpg"></div>
-                                                          <div class="mt-2 to-sistem ">
-                                                              <a>کیبورد </a>
-                                                              <div class="price">400.000 تومان</div>
-                                                         </div>
+                                                        <div class="img-lahz-slide"> <img src="/image/46.jpg"> </div>
+                                                        <div class=" to-sistem  mttt">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20C دو </a>
+                                                            <div class="price price2">400.000 تومان</div>
+                                                        </div>
                                                      </div>
                                                 </div>
                                             </div>
                                             <div class="owl-item" style="width: 228px;">
                                                  <div class="col-lg-2 nj">
                                                       <div class="item-lahzei">
-                                                         <div><img src="/image/23.jpg"> </div>
-                                                        <div class="mt-2 to-sistem ">
-                                                            <a>  کیبورد</a>
-                                                            <div class="price">470.000 تومان</div>
+                                                        <div class="img-lahz-slide"> <img src="/image/45.jpg"> </div>
+                                                        <div class=" to-sistem mttt">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20CG دو</a>
+                                                            <div class="price price2" >400.000 تومان</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
-                                                <div class="col-lg-2">
+                                                <div class="col-lg-2 nj">
                                                     <div class="item-lahzei">
-                                                        <div><img src="/image/23.jpg"></div>
-                                                        <div class="mt-2 to-sistem ">
-                                                             <a> کیبورد</a>
-                                                            <div class="price">400.000 تومان</div>
+                                                        <div class="img-lahz-slide"> <img src="/image/48.jpg"> </div>
+                                                        <div class=" to-sistem mttt">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20CG دو</a>
+                                                            <div class="price price2">400.000 تومان</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
-                                                <div class="col-lg-2">
+                                                <div class="col-lg-2 nj">
                                                     <div class="item-lahzei">
-                                                        <div><img src="/image/23.jpg">   </div>
-                                                        <div class="mt-2 to-sistem ">
-                                                            <a> کیبورد</a>
-                                                            <div class="price">420.000 تومان</div>
+                                                        <div class="img-lahz-slide"> <img src="/image/47.jpg"> </div>
+                                                        <div class=" to-sistem mttt">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20CG دو </a>
+                                                            <div class="price price2">400.000 تومان</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
-                                                <div class="col-lg-2">
+                                                <div class="col-lg-2 nj">
                                                     <div class="item-lahzei">
-                                                        <div> <img src="/image/23.jpg"> </div>
-                                                        <div class="mt-2 to-sistem ">
-                                                            <a> کیبورد </a>
-                                                            <div class="price">800.000 تومان</div>
+                                                        <div class="img-lahz-slide"> <img src="/image/48.jpg"> </div>
+                                                        <div class=" to-sistem mttt ">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20CG دو </a>
+                                                            <div class="price price2">400.000 تومان</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
-                                                <div class="col-lg-2">
+                                                <div class="col-lg-2 nj">
                                                     <div class="item-lahzei">
-                                                        <div><img src="/image/23.jpg"></div>
-                                                        <div class="mt-2 to-sistem ">
-                                                            <a>کیبورد </a>
-                                                            <div class="price">440.000 تومان</div>
+                                                        <div class="img-lahz-slide"> <img src="/image/47.jpg"> </div>
+                                                        <div class=" to-sistem mttt ">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20CG دو </a>
+                                                            <div class="price price2">400.000 تومان</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="owl-item active" style="width: 228px;">
-                                                <div class="col-lg-2">
+                                                <div class="col-lg-2 nj">
                                                     <div class="item-lahzei">
-                                                        <div><img src="/image/23.jpg"> </div>
-                                                        <div class="mt-2 to-sistem ">
-                                                            <a>  کیبورد </a>
-                                                            <div class="price">2.400.000 تومان</div>
+                                                        <div class="img-lahz-slide"> <img src="/image/46.jpg"> </div>
+                                                        <div class=" to-sistem mttt">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20CG دو</a>
+                                                            <div class="price price2">400.000 تومان</div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="owl-item" style="width: 228px;">
-                                                <div class="col-lg-2">
+                                                <div class="col-lg-2 nj">
                                                     <div class="item-lahzei">
-                                                        <div><img src="/image/23.jpg"></div>
-                                                        <div class="mt-2 to-sistem ">
-                                                            <a>   کیبورد </a>
-                                                            <div class="price">140.000 تومان</div>
+                                                        <div class="img-lahz-slide"> <img src="/image/45.jpg"> </div>
+                                                        <div class=" to-sistem mttt">
+                                                            <a> گوشی موبایل شیائومی مدل <br>POCO X3 M2007J20CG دو </a>
+                                                            <div class="price price2">400.000 تومان</div>
                                                         </div>
+                                                   
+                                                      
                                                     </div>
                                                 </div>
                                             </div>

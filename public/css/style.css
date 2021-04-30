@@ -753,11 +753,24 @@ ul {
 
 .nj .item-lahzei:hover {
     border: 1px solid #f0f0f0;
-    width: 210px;
-    height: 290px;
+    width: 205px;
+    height: 335px;
+    left: 24px;
+    margin-right: 16px;
+    /* right: 30px; */
+    position: relative;
     border-radius: 10px;
     box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
     z-index: 11;
+}
+
+.img-lahz-slide {
+    margin-top: 22px;
+    margin-right: 20px;
+}
+
+.mttt {
+    margin-top: 30px;
 }
 
 @media(max-width:1100px) {
@@ -1295,9 +1308,14 @@ ul {
     position: absolute;
 }
 
+.price2 {
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
 .to-sistem {
     text-align: center;
-    margin-top: 14px;
+    /* margin-top: 14px; */
     min-height: 50px;
     width: 210px;
     text-align: justify;
