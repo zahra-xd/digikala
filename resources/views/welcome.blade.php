@@ -611,16 +611,16 @@
                                     <div class="timeline"></div>
                                 </div>
                                <div class="c-promo-single__headline js-promo-single-bar is-active">پیشنهادهای لحظه‌ای برای شما</div>
-                                   <div>
+                                   <div class="imagee-laz">
                                        <img src="/image/18.jpg"> 
                                     </div>
                                      <div class="text-box-lahzeei"> 
                                             <span> سرویس قابلمه 6 پارچه مدل S67001 </span> 
                                         </div>
-                              <div class="c-new-price__value">
+                              <div class="c-new-price__valuew">
                                       <div class="box-of">
                                         <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                        <div class="c-new-price__value">    
+                                        <div class="c-new-price__valuew">    
                                             <span  class="price-value ml-2">    ۳۸,۶۴۰  تومان</span></div>
                                         <div>
                                      </div>
@@ -633,16 +633,16 @@
                                     <div class="timeline"></div>
                                 </div>
                                <div class="c-promo-single__headline js-promo-single-bar is-active">پیشنهادهای لحظه‌ای برای شما</div>
-                                   <div>
+                                   <div class="imagee-laz">
                                        <img src="/image/111.jpg"> 
                                     </div>
                                      <div class="text-box-lahzeei"> 
                                             <span> کوله کوهنوردی</span> 
                                         </div>
-                              <div class="c-new-price__value">
+                              <div class="c-new-price__valuew">
                                       <div class="box-of">
                                         <div class="c-new-price__old-value "><del>۴۲,۰۰۰ </del><span class="c-new-price__discount">٪۸</span></div>
-                                        <div class="c-new-price__value">    
+                                        <div class="c-new-price__valuew">    
                                             <span  class="price-value ml-2">    ۳۸,۶۴۰  تومان</span></div>
                                         <div>
                                      </div>
@@ -667,42 +667,42 @@
                         <div class="c-promotion__categories-title">بیش از ۲،۰۰۰،۰۰۰ کالا در دسته‌بندی‌های مختلف</div>
                         <div class="c-promotion__categories">
                             <a href="" class="c-promotion__category c-promotion__category--electronics">
-                                <i style="font-size:34px" class="fa">&#xf109;</i>
+                           <i><img src="/image/icons8-laptop-computer-64.png" style="width:40px"></i>
                                 <div class="c-promotion__category-name">کالای دیجیتال</div>
                                 <div class="c-promotion__category-quantity">+۵۳۱۰۰۰ کالا</div>
                              </a>
                             <a href="" class="c-promotion__category c-promotion__category--tools">
-                                <i style="font-size:34px" class="fa">&#xf0ad;</i>
+                                <i><img src="/image/icons8-support-24.png" style="width:40px"></i>
                                 <div class="c-promotion__category-name">خودرو، ابزار و تجهیزات </div>
                                 <div class="c-promotion__category-quantity">+۱۱۵۰۰۰ کالا </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--fashion">
-                                <i style='font-size:34px' class='fas'>&#xf553;</i>
+                                <i><img src="/image/t-shirt (2).svg" style="width:40px"></i>
                                 <div class="c-promotion__category-name">مد و پوشاک</div>
                                 <div class="c-promotion__category-quantity">+۵۱۳۰۰۰ کالا </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--mother-and-child">
-                              <i><img src="/public/image/baby-boy (2).svg" style="width:40px"></i>
+                              <i><img src="/image/baby-boy (2).svg" style="width:40px"></i>
                                 <div class="c-promotion__category-name">اسباب بازی، کودک</div>
                                 <div class="c-promotion__category-quantity">+۵۵۰۰۰ کالا  </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--food-and-beverage">
-                                <i style='font-size:34px' class='fas'>&#xf291;</i>
+                               <i><img src="/image/beverage (1).svg" style="width:40px"></i>
                                 <div class="c-promotion__category-name">کالاهای سوپرمارکتی</div>
                                 <div class="c-promotion__category-quantity">+۴۷۰۰۰ کالا </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--personal-appliance">
-                            <i style='font-size:34px' class='far'>&#xf004;</i>
+                                  <i><img src="/image/icons8-heart-health-32.png" style="width: 40px"></i>
                                 <div class="c-promotion__category-name">زیبایی و سلامت</div>
                                 <div class="c-promotion__category-quantity">+۸۲۰۰۰ کالا</div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--home-and-kitchen">
-                                 <i style='font-size:34px' class='fas'>&#xf6c0;</i>
+                                <i><img src="/image/armchair (2).svg" style="width: 40px"></i>
                                 <div class="c-promotion__category-name">خانه و آشپزخانه</div>
                                 <div class="c-promotion__category-quantity">+۳۵۹۰۰۰ کالا  </div>
                             </a>
                             <a href="" class="c-promotion__category c-promotion__category--book-and-media">
-                            <i style='font-size:34px' class='fas'>&#xf5ae;</i>
+                                <i><img src="/image/design-tools (1).svg" style="width:40px"></i>
                                 <div class="c-promotion__category-name">کتاب، لوازم تحریر و هنر</div>
                                 <div class="c-promotion__category-quantity">+۲۰۹۰۰۰ کالا  </div>
                             </a>

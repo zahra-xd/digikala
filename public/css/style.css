@@ -21,9 +21,10 @@ body {
 
 .pishnahad-lahzaei .progress {
     position: absolute;
-    top: 0;
-    height: 5px;
-    width: 100%;
+    top: 55px;
+    height: 1px;
+    width: 90%;
+    margin-right: 10px;
     direction: ltr;
 }
 
@@ -873,6 +874,26 @@ ul {
     position: relative;
     -ms-flex-pack: end;
     justify-content: flex-end;
+}
+
+.c-new-price__valuew {
+    font-size: 16px;
+    font-size: 1.143rem;
+    line-height: 30px;
+    color: #232933;
+    font-weight: 700;
+    /* left: -79px; */
+    width: 100%;
+    margin-top: 0!important;
+    -webkit-box-pack: end;
+    position: relative;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+}
+
+.imagee-laz {
+    margin-top: 12px;
+    position: relative;
 }
 
 .text-box-lahzeei span {
