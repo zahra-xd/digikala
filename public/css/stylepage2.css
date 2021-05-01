@@ -1138,7 +1138,7 @@ body {
 .c-product-titel {
     position: relative;
     bottom: 24px;
-    right: -50%;
+    right: -56%;
     padding-left: 8px;
     margin-left: auto;
     margin-bottom: -20px;
@@ -1147,6 +1147,12 @@ body {
     font-size: 12px;
     font-size: .857rem;
     line-height: 1.833;
+}
+
+@media(max-width:1300px) {
+    .c-product-titel {
+        right: -1%;
+    }
 }
 
 .c-product__engagement {
@@ -1620,6 +1626,12 @@ body {
     padding: 12px 18px;
     background-color: #ef394e;
     border: none;
+}
+
+@media(max-width:1300px) {
+    .product-cofing {
+        border-top: 0px;
+    }
 }
 
 .btn-add-to-cart__txt {

@@ -669,9 +669,9 @@
                     </div>
                               <div class="buy-box-mini">
                                   <ul>
-                                      <li> <i style='font-size:14px' class='far ml-2'>&#xf058;</i>کالاپلاس</li>
-                                      <li><i class="ml-2"> <img src="/image/verified.png" style="width: 20px"></i>گارانی 18 ماهه</li>
-                                      <li> <i style='font-size:14px' class='far ml-2'>&#xf058;</i>موجود در انبار</li>
+                                      <li > <i class="ml-2" style="    right: -20px;  position: relative;"><img src="/image/guarantee (1).png" style="width: 20px"></i>کالاپلاس</li>
+                                      <li style="margin-right: -20px;"><i class="ml-2"> <img src="/image/verified.png" style="width: 20px"></i>گارانی 18 ماهه</li>
+                                      <li style="margin-right: -20px;"> <i class="ml-2"><img src="/image/now-in-stock.png" style="width: 20px"></i>موجود در انبار</li>
                                   </ul>
                               </div>
                               <div class="c-product__seller-pricer">4,500,000<span>تومان </span> </div>
