@@ -25,7 +25,7 @@
                                     <div class="section-header"><a href="">همه کالای های دیجیتال<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></div>
 
                                     <ul class="sub-menu-categoreis-ul">
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main"><a href="category.html">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="category.html">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">باتری</a>
                                         </li>
@@ -38,7 +38,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">ساعت</a>
                                         </li>
 
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast"><a href="#">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">1</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">2</a></li>
@@ -46,7 +46,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">4</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">5</a></li>
 
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main"><a href="#">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">باتری</a>
                                         </li>
@@ -59,7 +59,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">ساعت</a>
                                         </li>
 
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast"><a href="#">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">1</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">2</a></li>
@@ -67,7 +67,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">4</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">5</a></li>
 
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast"><a href="#">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">باتری</a>
                                         </li>
@@ -80,7 +80,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">ساعت</a>
                                         </li>
 
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast"><a href="#">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">1</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">2</a></li>
@@ -88,7 +88,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">4</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">5</a></li>
 
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast"><a href="#">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item "><a href="#">باتری</a>
                                         </li>
@@ -101,7 +101,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">ساعت</a>
                                         </li>
 
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast"><a href="#">لوازم
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">لوازم
                   گوشی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">1</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">2</a></li>
@@ -109,7 +109,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">4</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">5</a></li>
                          
-                                   <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"> <img src="/image/2663e785f54221746ff1fb34e7311690116e7544_1619257989.jpg" class="img-digi-nav"></li>
+                                   <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item mtyr"> <img src="/image/2663e785f54221746ff1fb34e7311690116e7544_1619257989.jpg" class="img-digi-nav"></li>
 
                                   
                                     </ul>
