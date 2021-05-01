@@ -7,6 +7,20 @@
               <div class="t-header-search-box">
                   {{-- <input type="text" class="input-t-header-search" placeholder="جستجو کنید"> --}}
                   <input type="search" class="search-box input-t-header-search" placeholder="جستجو در دیجی‌کالا …"> 
+              
+                  <div class="t-header-search-lately" style="display: block;">
+                     بیشترین جستجوهای اخیر:
+                     <br>
+                     <a href="#">باتری</a>
+                     <a href="#">قاب و محافظ</a>
+                     <a href="#">خودکار</a>
+                     <a href="#">لپ تاپ</a>
+                     <a href="#">ساعت مچی</a>
+                     <div>
+                            <img src="/image/39a94e5583674241cf0fa644990fedf0822a9bc9_1618992343.jpg">
+                     </div>
+                 </div>
+              
               </div>
           </div>
    

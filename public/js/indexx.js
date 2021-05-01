@@ -104,3 +104,22 @@
           progressbar(width);
       }
   });
+
+  $(document).on('click touchstart', function(e) {
+      var headerSearchBox = $('.t-header-search-box');
+      var input = $('.input-t-header-search');
+      if ($(e.target).parent().is(headerSearchBox) || $(e.target).parent().parent().is(headerSearchBox)) {
+          // if ($(e.target).is(csearch) || csearch.has(e.target).length == 1) {
+
+          input.addClass('bg-white')
+          $('.overlay').addClass('is-active');
+          $('.t-header-search-lately').show();
+
+
+      } else {
+          input.removeClass('bg-white');
+          $('.overlay').removeClass('is-active');
+          $('.t-header-search-lately').hide();
+
+      }
+  })
