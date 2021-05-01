@@ -1,9 +1,18 @@
 <header class="headerr " id="meno-navbar" >
     <div class="header-right">
            <a class="logo"></a>
-           <i style="font-size:24px" class="fa icon-box-search">&#xf002;</i>
-           <input type="search" class="search-box" placeholder="جستجو در دیجی‌کالا …">
-    </div>
+           {{-- <i style="font-size:24px" class="fa icon-box-search">&#xf002;</i>
+           <input type="search" class="search-box" placeholder="جستجو در دیجی‌کالا …"> --}}
+           <div class="t-header-search">
+              <div class="t-header-search-box">
+                  {{-- <input type="text" class="input-t-header-search" placeholder="جستجو کنید"> --}}
+                  <input type="search" class="search-box input-t-header-search" placeholder="جستجو در دیجی‌کالا …"> 
+              </div>
+          </div>
+   
+   
+   
+       </div>
          <div class="header-left">
                 <div class="box-user">
                       <a class="box-left-user text-muted"> <i style="font-size:24px" class="fa">&#xf2c0;</i>ورود به حساب کاربری</a>
