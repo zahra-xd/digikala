@@ -789,6 +789,11 @@ ul {
     margin-right: 12px;
 }
 
+.nj .item-lahzei:hover .to-sistem {
+    position: relative;
+    right: 10px;
+}
+
 .nj .item-lahzei:hover {
     border: 1px solid #f0f0f0;
     width: 205px;
@@ -1378,6 +1383,11 @@ ul {
     border-radius: 10px;
     box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
     z-index: 11;
+}
+
+.nj .item:hover .to-sistem {
+    position: relative;
+    right: 20px;
 }
 
 .o-headline:after {
