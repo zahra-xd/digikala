@@ -2112,7 +2112,7 @@ body {
     letter-spacing: -.3px;
     position: relative;
     width: 250px;
-    margin-right: -12%;
+    margin-right: -11%;
     color: #232933;
     font-weight: 700;
     font-size: 17px;
@@ -2124,7 +2124,7 @@ body {
     padding: 0;
     list-style: none;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
 .c-params__list li {
@@ -2711,6 +2711,20 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     padding-left: 15px;
     width: 100%;
     padding: 0 24px;
+}
+
+.c-footer__product-id {
+    font-size: 13px;
+    font-size: .929rem;
+    line-height: 1.692;
+    color: #858585;
+    text-align: center;
+    width: 100%;
+    padding: 24px;
+}
+
+.c-footer__product-id span:first-child {
+    margin-left: 8px;
 }
 
 .o-box__tabs--sticky {

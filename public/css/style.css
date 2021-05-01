@@ -1357,7 +1357,7 @@ ul {
     min-height: 50px;
     width: 210px;
     text-align: justify;
-    margin-right: 20px;
+    /* margin-right: 20px; */
     font-size: 12px;
     font-size: .857rem;
     line-height: 25px;
@@ -1429,7 +1429,30 @@ ul {
     z-index: 1;
 }
 
+.o-headlinew>span:before {
+    content: "";
+    position: absolute;
+    right: 20px;
+    left: -40px;
+    bottom: 0;
+    background-color: #ef5661;
+    height: 2px;
+    width: 120px;
+    z-index: 1;
+}
+
 .o-headlinee {
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    min-height: 49px;
+    justify-content: space-between;
+    margin: 0 0 6px 33px;
+    position: relative;
+    padding-left: 5px;
+    display: flex;
+}
+
+.o-headlinew {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     min-height: 49px;

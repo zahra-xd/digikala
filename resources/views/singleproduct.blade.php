@@ -416,7 +416,7 @@
                                          <div>
                                              <section class="c-content-expert__summary">
                                                  <div class="c-mask">
-                                                     <div class="c-mask__text c-mask__text--product-summary"><p>گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت از جمله اولین سری محصولات برند شیائومی است. این محصول دارای ساختاری متوازن و خوش‌ساخت بدون پشتیبانی از تکنولوژی 5G در تاریخ نوامبر 2020 روانه بازار شده است. این محصول از فریم پلاستیکی ساخته شده است که قاب جلو شیشه‌ای جلوه ویژه‌ای به این مدل بخشیده است. صفحه‌نمایش گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت در اندازه 6.53 منتشر شده است. این صفحه‌نمایش کاملاً<span id="dotts">...</span><span id="more">است. شارژ معکوس یا همون (reverse charging) ویژگی است که به شما این امکان را می‌دهد که از تلفن خود برای شارژ دستگاه‌های دیگر مانند تلفن‌های هوشمند، ساعت‌های هوشمند و باندهای هوشمندی که از شارژ بی‌سیم پشتیبانی می‌کنند، استفاده کنید. برای اینکه بتوانید آنها را به‌صورت بی‌سیم شارژ کنید، دستگاه شما باید از پروتکل شارژ بی‌سیم Qi پشتیبانی کند.</span></p></div>
+                                                     <div class="c-mask__text c-mask__text--product-summary"><p style="text-align: justify">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت از جمله اولین سری محصولات برند شیائومی است. این محصول دارای ساختاری متوازن و خوش‌ساخت بدون پشتیبانی از تکنولوژی 5G در تاریخ نوامبر 2020 روانه بازار شده است. این محصول از فریم پلاستیکی ساخته شده است که قاب جلو شیشه‌ای جلوه ویژه‌ای به این مدل بخشیده است. صفحه‌نمایش گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت در اندازه 6.53 منتشر شده است. این صفحه‌نمایش کاملاً<span id="dotts">...</span><span id="more">است. شارژ معکوس یا همون (reverse charging) ویژگی است که به شما این امکان را می‌دهد که از تلفن خود برای شارژ دستگاه‌های دیگر مانند تلفن‌های هوشمند، ساعت‌های هوشمند و باندهای هوشمندی که از شارژ بی‌سیم پشتیبانی می‌کنند، استفاده کنید. برای اینکه بتوانید آنها را به‌صورت بی‌سیم شارژ کنید، دستگاه شما باید از پروتکل شارژ بی‌سیم Qi پشتیبانی کند.</span></p></div>
                                                      <h6 class="c-mask-link" id="mostread" onclick="readmore()">ادامه مطلب</h6>
                                                     </div>
                                            
@@ -430,12 +430,13 @@
                             <div class="o-box__header">
                                 <span class="o-box__title">نقد و بررسی تخصصی</span><br>
                                 <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
-                               
+                             
                             </div>
+
                               <article>
                                   <div class="c-content-expert__articles">
                                       <section>
-                                          <h3 class="c-content-expert__title">جنجالی دیگر</h3>
+                                          {{-- <h3 class="c-content-expert__title">جنجالی دیگر</h3> --}}
                                           <div>
                                               <img src="/image/86.jpg">
                                           </div>
@@ -449,7 +450,7 @@
                           <div class="c-params js-product-tab-content" id="params" data-method="params">
                               <article class="c-params__border-bottom">
                                   <div class="o-box__header">
-                                      <span class="o-box__title">مشخصات کالا</span>
+                                      <span class="o-box__title" style="    position: relative;  right: -75%;">مشخصات کالا</span>
                                       <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                                     </div>
                                     <section>
@@ -516,10 +517,12 @@
                             (جهانی) Xiaomi POCO M3 M2010J19CG - Global 
                     </span></div></li><li><div class="c-params__list-key"><span class="block">شناسه کالا</span></div><div class="c-params__list-value"><span class="block">
                             2800000492908 
-                    </span></div></li></ul>
+                    </span></div></li>
+                    <a href="#" class="c-params__collapse--link js-open-product-params">نمایش همه مشخصات کالا</a>
+                </ul>
 
                    
-                    <a href="#" class="c-params__collapse--link js-open-product-params">نمایش همه مشخصات کالا</a></article></div>
+                  </article></div>
                       </div>
 
                       {{-- //دیدگاه کاربران --}}
@@ -659,11 +662,12 @@
                     <div class="c-mini-buy-box js-mini-buy-box">
                   <div class="c-mini-buy-box__product-info">
                       <img class="c-mini-buy-box__product-info--img" src="/image/89.jpg">  
+                      <div><div style="text-align: justify">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت</div></div>
                     </div>
                               <div class="buy-box-mini">
                                   <ul>
                                       <li> <i style='font-size:14px' class='far ml-2'>&#xf058;</i>کالاپلاس</li>
-                                      <li><i style='font-size:14px' class='far ml-2'>&#xf058;</i>گارانی 18 ماهه</li>
+                                      <li><i class="ml-2"> <img src="/image/verified.png" style="width: 20px"></i>گارانی 18 ماهه</li>
                                       <li> <i style='font-size:14px' class='far ml-2'>&#xf058;</i>موجود در انبار</li>
                                   </ul>
                               </div>
@@ -694,10 +698,12 @@
     @endcomponent
           {{-- ***footer --}}
         </div>
-          @component('components.footer')
+        <div class="c-footer__product-id"><span>شناسه کالا :</span><span>DKP - ۴۱۴۹۰۳۷</span></div>
+    </div>
+        @component('components.footer')
           
           @endcomponent
-          </div>
+          
 <script>
     $(document).ready(function() {
                 $('.owl-product').owlCarousel({

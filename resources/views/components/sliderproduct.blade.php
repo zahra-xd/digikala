@@ -1,10 +1,11 @@
  {{-- //محصولات مرتبط --}}
               <div>
-                <div class="containert">
+                <div class="">
                     <div class="row">
                         <div class="cadr-slaider-productt">
                             <div class="text-prodouct"> 
-                                 <p> {{$titel}}</p>
+                                <div class="o-headlinew"><span> <p class="pt-2 pr-4" style="font-size: 16px;"> {{$titel}}</p></span></div>
+                             
                                 </div>
                             <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
                                 <div class="owl-stage-outer">
