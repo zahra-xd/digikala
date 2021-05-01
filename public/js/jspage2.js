@@ -1,6 +1,6 @@
 // Get the modal
 var modal = document.getElementById("myModal");
-
+var bodyy = document.getElementsByTagName('body');
 // Get the button that opens the modal
 var btn = document.getElementById("myBtnn");
 
@@ -10,6 +10,9 @@ var span = document.getElementsByClassName("close")[0];
 // When the user clicks the button, open the modal 
 function oopemodel() {
     modal.style.display = "block";
+    bodyy.addClass('.rm');
+
+
 }
 
 // When the user clicks on <span> (x), close the modal

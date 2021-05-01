@@ -57,7 +57,7 @@ body {
     background-position: 0px 0px;
     float: right;
     overflow: hidden;
-    z-index: 24999;
+    /* z-index: 24999; */
     transform: translateZ(0px);
     opacity: 0;
     zoom: 1;
@@ -882,6 +882,7 @@ body {
 .c-remodal-gallery__tab {
     padding: 0 8px;
     margin-left: 8px;
+    margin-right: 30px;
     position: relative;
     font-size: 14px;
     font-size: 1rem;
@@ -2806,4 +2807,9 @@ body.navi-is-visible .c-mini-buy-box-fixed {
 .c-mask-links:hover {
     text-decoration: none;
     color: #0fabc6;
+}
+
+.rm {
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
