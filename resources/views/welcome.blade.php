@@ -75,10 +75,13 @@
             <div class="row">
                 <div class=" d-lg-block shegeft-img">
                     <a class="c-swiper-specials__title"><img src="/image/15.png" alt="  پیشنهاد شگفت انگیز سوپرمارکتی"> </a>
-                        <div class="shegeft-btn">
+                        {{-- <div class="shegeft-btn">
                              <a class="mr-4"> مشاهده </a>
                                <i style="font-size:24px" class="fa ml-4"></i>
-                         </div>
+                         </div> --}}
+                         @component('components.btn-shegeft')
+                             
+                         @endcomponent
                     </div>
                 <div class="box-sh">
                     <div class="owl-carousel  owl-uy owl-theme owl-rtl owl-loaded owl-drag">
