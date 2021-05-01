@@ -17,8 +17,8 @@ body {
     width: 2px;
     height: 15px;
     background-color: #e0e0e2;
-    bottom: 19px;
-    right: 25px;
+    bottom: -4px;
+    right: 29px;
 }
 
 .c-pr-linee::before {
@@ -31,8 +31,8 @@ body {
     /* top: 50%; */
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
-    right: 22px;
-    bottom: 0px;
+    right: 26px;
+    bottom: -20px;
 }
 
 .c-product-name {
@@ -1421,6 +1421,7 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    width: 320px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
@@ -1613,7 +1614,7 @@ body {
     overflow: hidden;
     text-align: center;
     min-height: 48px;
-    width: 320px;
+    width: 300px;
     margin-top: 12px;
     margin-bottom: 20px;
     padding: 12px 18px;

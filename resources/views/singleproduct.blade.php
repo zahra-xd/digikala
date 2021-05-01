@@ -132,22 +132,23 @@
                                             <div class="text-muted  c-pr-line c-product__seller-first-line mr-5 ">عملکرد <span class="ml-2">5از 5</span>
                                            <span> | </span>     <span  class="mr-2">80 درصد رضایت کالا</span></div>
                                            <div class="c-proc-row">
+                                        
                                             <i><img src="/image/verified.png" style="width: 30px"></i>
                                             <div class="c-product__seller-first-line mr-2">
                                                 <span class="c-product-name">گارانتي 18 ماهه</span>
-                                              
                                             </div>
+                                          
                                 </div>
                                 <div class="c-proc-row">
                                     <i class="ml-2"><img src="/image/now-in-stock.png" style="width: 30px"></i>
                                     {{-- <i style='font-size:24px' class='fas cproct-icon'>&#xf559;</i> --}}
-                                    <div class="c-product__seller-first-line mr-2">
+                                    <div class="c-product__seller-first-line mr-2 c-pr-linee">
                                         
                                         <span class="c-product-name">موجود در انبار</span>
                                         <i style='font-size:20px' class='fas text-muted mrr-5'>&#xf104;</i>
                                     </div>
                                  </div>
-                        <div class="text-muted  c-pr-linee c-product__seller-first-line mr-5 ">   <i class="ml-2"><img src="/image/truck.png" style="width: 20px"></i>ارسال ديجي کالا</div>
+                        <div class="text-muted  c-pr-line c-product__seller-first-line mr-5 ">   <i class="ml-2"><img src="/image/truck.png" style="width: 20px"></i>ارسال ديجي کالا</div>
                                             </div>
                                             <div class="c-product__seller-price-real">
                                                 <div class="c-product__seller-price">4,800,000<span class="text-se-price">تومان</span> </div>
@@ -212,8 +213,8 @@
                            <ul class="networksocial">
 
                                <li class="tooltipp"><i style='font-size:22px' class='far'>&#xf004;</i>  <span class="tooltiptextt">افزودن به علاقه مندی</span></li>
-                               <li class="tooltipp"><i><img src="/image/share (1).svg" style="width: 24px ;"></i> <span class="tooltiptextt">اشتراک گذاری</span> </li>
-                               <li class="tooltipp"><i><img src="/image/bell (5).png" ></i> <span class="tooltiptextt">اطلاع رسانی شگفت انگیز</span></li>
+                               <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf1e0;</i> <span class="tooltiptextt">اشتراک گذاری</span> </li>
+                               <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf0f3;</i><span class="tooltiptextt">اطلاع رسانی شگفت انگیز</span></li>
                                <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">نمودار قیمت </span></li>
                                <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">مقایسه</span></li>
                             </ul >
