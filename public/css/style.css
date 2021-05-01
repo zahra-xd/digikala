@@ -836,8 +836,8 @@ ul {
 @media(max-width:1100px) {
     .nj .item-lahzei:hover {
         border: 1px solid #f0f0f0;
-        width: 170px;
-        height: 290px;
+        width: 190px;
+        height: 335px;
         border-radius: 10px;
         box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
         z-index: 11;

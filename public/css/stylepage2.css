@@ -1,3 +1,54 @@
+body {
+    font-family: 'Shabnam';
+    src: url('/font/shabnam-font-v1.1.0/Shabnam.ttf') format('ttf');
+    margin: 0;
+    font-family: shabnam;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: irs;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+}
+
+.c-pr-linee::after {
+    position: absolute;
+    content: "";
+    width: 2px;
+    height: 15px;
+    background-color: #e0e0e2;
+    bottom: 19px;
+    right: 25px;
+}
+
+.c-pr-linee::before {
+    position: absolute;
+    content: "";
+    width: 6px;
+    height: 6px;
+    background-color: #0fabc6;
+    border-radius: 3px;
+    /* top: 50%; */
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    right: 22px;
+    bottom: 0px;
+}
+
+.c-product-name {
+    right: 10px;
+    position: relative
+}
+
+.antialiased {
+    font-family: 'Shabnam';
+}
+
+@font-face {
+    font-family: 'Shabnam';
+    src: url('/font/shabnam-font-v1.1.0/Shabnam.ttf') format('ttf'), url('/font/shabnam-font-v1.1.0/Shabnam.woff') format('woff'), url('/font/shabnam-font-v1.1.0/Shabnam.eot') format('eot');
+}
+
 .img-zoom-container {
     position: absolute;
 }

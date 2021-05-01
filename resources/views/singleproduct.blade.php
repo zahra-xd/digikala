@@ -20,7 +20,7 @@
              <script src="{{ asset('owll-crousel/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js')}}"></script>
              <script src="{{ asset('/public/owll-crousel/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js')}}"></script>
             </head>
-    <body>
+        <body class="antialiased">
              @component('components.header')
              @endcomponent
    {{-- //menu --}}
@@ -120,12 +120,12 @@
                                             <div class=" c-product__seller-box">
                                                     <div class="c-product-header">
                                                         <div>فروشنده</div>
-                                                        <a style="color: #0fabc6;">4 فروشنده دیگر</a>
+                                                        <a style="color: #0fabc6;  font-weight: 700;">4 فروشنده دیگر</a>
                                                     </div>
                                                     <div class="c-proc-row">
-                                                        <i style='font-size:24px' class='fas cproct-icon'>&#xf559;</i>
+              
                                                         <div class="c-product__seller-first-line mr-2">
-                                                            <span class="c-product-name">داده پرداز مهر </span>
+                                                            <span class="c-product-name"> <i class="ml-2" style="    right: -20px;  position: relative;"><img src="/image/guarantee (1).png" style="width: 30px"></i>داده پرداز مهر </span>
                                                             <i style='font-size:20px' class='fas text-muted mrr-5'>&#xf104;</i>
                                                         </div>
                                             </div>
@@ -139,13 +139,15 @@
                                             </div>
                                 </div>
                                 <div class="c-proc-row">
+                                    <i class="ml-2"><img src="/image/now-in-stock.png" style="width: 30px"></i>
                                     {{-- <i style='font-size:24px' class='fas cproct-icon'>&#xf559;</i> --}}
                                     <div class="c-product__seller-first-line mr-2">
+                                        
                                         <span class="c-product-name">موجود در انبار</span>
                                         <i style='font-size:20px' class='fas text-muted mrr-5'>&#xf104;</i>
                                     </div>
                                  </div>
-                        <div class="text-muted  c-pr-line c-product__seller-first-line mr-5 ">   <i class="ml-2"><img src="/image/truck.png" style="width: 30px"></i>ارسال ديجي کالا</div>
+                        <div class="text-muted  c-pr-linee c-product__seller-first-line mr-5 ">   <i class="ml-2"><img src="/image/truck.png" style="width: 20px"></i>ارسال ديجي کالا</div>
                                             </div>
                                             <div class="c-product__seller-price-real">
                                                 <div class="c-product__seller-price">4,800,000<span class="text-se-price">تومان</span> </div>
