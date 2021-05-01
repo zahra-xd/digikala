@@ -863,7 +863,7 @@
     @endslot
         @endcomponent
 {{-- **********************   <!-- // تجهیزات کوهنوردی و سفر-->--}}
-{{-- 
+
         @component('components.slideprudect-kibord')
         @slot('titel')
         تجهیزات کوهنوردی و سفر
@@ -971,7 +971,7 @@
                     <div class="image-box2"><img src="/image/35.jpg" alt=""></div>
                 </div>
             </div>
-        </div> --}}
+        </div> 
 
          <!-- // زیر انداز-->
          
