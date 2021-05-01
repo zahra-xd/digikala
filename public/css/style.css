@@ -5,6 +5,7 @@ body {
     font-family: shabnam;
     font-size: 1rem;
     font-weight: 400;
+    font-family: irs;
     line-height: 1.5;
     color: #212529;
     text-align: left;
@@ -329,12 +330,26 @@ ul {
     margin-left: 3px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #fff;
+    /* background-color: #fff; */
     background-clip: padding-box;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
-    opacity: .5;
+    /* opacity: .5; */
     transition: opacity .6s ease;
+}
+
+.carousel-indicators.circleslide li .active {
+    opacity: 1;
+    background-color: rgb(14, 231, 213)(0, 255, 157);
+}
+
+.carousel-indicators li {
+    background-color: #f0f0f0;
+}
+
+.carousel-indicators .active {
+    opacity: 1;
+    background-color: rgb(14, 231, 213)(0, 255, 157);
 }
 
 .line-user::before {
@@ -2763,4 +2778,18 @@ header .t-header-search-lately img {
     max-height: 100%;
     border-radius: 8px;
     margin-top: 20px;
+}
+
+.sub-menu-right-list-a::before {
+    font-size: 18px;
+    line-height: 1;
+    margin-left: 4px;
+    font-weight: 400;
+}
+
+.img-digi-nav {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 75%;
 }

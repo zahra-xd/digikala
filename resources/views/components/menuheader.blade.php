@@ -8,19 +8,21 @@
                         <div class="categoreis"><i style="font-size:20px" class="fa text-muted ml-2">&#xf0c9;</i>دسته بندی کالاها</div>
                         <div class="sub-menu-categoreis">
                             <div class="sub-menu-right-list">
-                                <a href="electronic-devices.html" class="sub-menu-right-list-a sub-menu-right-list-a-1 active">کالای دیجیتال</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-2" href=""><i style='font-size:24px' class='far'>&#xf004;</i>زیبایی وسلامت</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-3" href=""><i style="font-size:24px" class="fa">&#xf0ad;</i>خودرو</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-4" href=""><i style='font-size:24px' class='fas'>&#xf553;</i>مد و پوشاک</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-5" href="">    <i style='font-size:24px' class='fas'>&#xf969;</i>اسباب بازی</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-6" href=""> <i style='font-size:24px' class='fas'>&#xf291;</i>کالای سوپرمارکت</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-7" href=""><i style='font-size:24px' class='far'>&#xf004;</i>زیبایی سلامت</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-8" href=""> <i style='font-size:24px' class='fas'>&#xf6c0;</i>خانه و اشپزخانه</a>
-                                <a class="sub-menu-right-list-a sub-menu-right-list-a-9" href=""><i style='font-size:24px' class='fas'>&#xf6bb;</i>ورزش وسفر</a>
+                                <a href="electronic-devices.html"
+                                class="sub-menu-right-list-a sub-menu-right-list-a-1 active"><i style='font-size:20px' class='fas ml-2'>&#xf109;</i>کالای دیجیتال</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-2" href=""><i style='font-size:20px' class='far ml-2'>&#xf004;</i>آرایشی ، بهداشتی ،
+                                 سلامتی</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-3" href=""><i style='font-size:20px' class='fas ml-2'>&#xf0ad;</i>خودرو</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-4" href=""><i style='font-size:20px' class='fas ml-2'>&#xf553;</i>مد و پوشاک</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-5" href=""><i style='font-size:20px' class='fas ml-2'>&#xf553;</i>مد و پوشاک</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-6" href=""><i style='font-size:20px' class='fas ml-2'>&#xf553;</i>مد و پوشاک</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-7" href=""><i style='font-size:20px' class='fas ml-2'>&#xf553;</i>مد و پوشاک</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-8" href=""><i style='font-size:20px' class='fas ml-2'>&#xf553;</i>مد و پوشاک</a>
+                             <a class="sub-menu-right-list-a sub-menu-right-list-a-9" href=""><i style='font-size:20px' class='fas ml-2'>&#xf553;</i>مد و پوشاک</a>
                             </div>
                             <div class="sub-menu-left-section">
                                 <div class="section" style="display: block">
-                                    <div class="section-header"><a href="">همه کالای های دیجیتال</a></div>
+                                    <div class="section-header"><a href="">همه کالای های دیجیتال<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></div>
 
                                     <ul class="sub-menu-categoreis-ul">
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main"><a href="category.html">لوازم
@@ -106,6 +108,10 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">3</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">4</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">5</a></li>
+                         
+                                   <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"> <img src="/image/2663e785f54221746ff1fb34e7311690116e7544_1619257989.jpg" class="img-digi-nav"></li>
+
+                                  
                                     </ul>
 
                                 </div>
