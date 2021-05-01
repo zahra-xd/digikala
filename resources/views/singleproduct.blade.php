@@ -15,9 +15,6 @@
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script> 
          <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-         {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.2/assets/owl.carousel.min.css" /> --}}
-         {{-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> --}}
-         {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.2/owl.carousel.min.js"></script> --}}
          <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
              <link href="{{ asset('owll-crousel/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css') }}" rel="stylesheet">
              <script src="{{ asset('owll-crousel/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js')}}"></script>
@@ -91,9 +88,9 @@
 
                                          </div>
                                          <ul class="product-variants">
-                                             <li class="circle-item" style="background:yellow"> </li>
-                                             <li class="circle-item" style="background: black"> </li>
-                                             <li class="circle-item" style="background: blue"> </li>
+                                             <span><li class="circle-item" style="background:yellow"></li></span>
+                                             <span><li class="circle-item" style="background: black"> </li></span>
+                                             <span> <li class="circle-item" style="background: blue"> </li></span>
                                          </ul>
                                      </div>
                                      <div class="c-product__params js-is-expandable">
@@ -108,7 +105,7 @@
                                             </ul>
                                            <div class="text-product-param">
                                                 <div class="c-product__additional-item ">
-                                                  
+                                                  <i class="ml-2"><img src="/image/exclamation.svg" style="width: 20px"></i>
                                             شدار سامانه همتا: حتما در زمان تحویل دستگاه، به کمک کد فعال‌سازی چاپ شده روی جعبه یا کارت گارانتی، دستگاه را از طریق #7777*، برای سیم‌کارت خود فعال‌سازی کنید. آموزش تصویری دری 
                                                 </div>
                                             </div> 
@@ -212,9 +209,9 @@
                             <div class="item-galery">
                            <ul class="networksocial">
 
-                               <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf004;</i>  <span class="tooltiptextt">افزودن به علاقه مندی</span></li>
-                               <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf1e0;</i> <span class="tooltiptextt">اشتراک گذاری</span> </li>
-                               <li class="tooltipp"><i style='font-size:24px' class='far'>&#xf0f3;</i> <span class="tooltiptextt">اطلاع رسانی شگفت انگیز</span></li>
+                               <li class="tooltipp"><i style='font-size:22px' class='far'>&#xf004;</i>  <span class="tooltiptextt">افزودن به علاقه مندی</span></li>
+                               <li class="tooltipp"><i><img src="/image/share (1).svg" style="width: 24px ;"></i> <span class="tooltiptextt">اشتراک گذاری</span> </li>
+                               <li class="tooltipp"><i><img src="/image/bell (5).png" ></i> <span class="tooltiptextt">اطلاع رسانی شگفت انگیز</span></li>
                                <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">نمودار قیمت </span></li>
                                <li class="tooltipp"><i style='font-size:24px' class='fas'>&#xf201;</i><span class="tooltiptextt">مقایسه</span></li>
                             </ul >
@@ -276,7 +273,7 @@
                                 </li> 
                              
                             </ul>
-                            <div class="bazkhord-product "><a>بازخرد درباره یاین کالا</a></div>
+                            <div class="bazkhord-product "><a><i class="ml-2"><img src="/image/chat.svg" style="width:16px"></i>بازخرد درباره یاین کالا</a></div>
                            <div id="myModal" class="modall">
                                 <div class="modal-contentt">
                                     <div class="">
