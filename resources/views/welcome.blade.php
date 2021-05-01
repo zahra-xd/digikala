@@ -975,7 +975,7 @@
 
          <!-- // زیر انداز-->
          
-        {{-- @component('components.slideprudect-kibord')
+        @component('components.slideprudect-kibord')
         @slot('titel')
         زیرانداز
        @endslot
@@ -1070,7 +1070,7 @@
      220,000
    @endslot
        @endcomponent
-       --}}
+       
           <!-- // محصولات پربازدید اخیر-> -->
           <div>
             <div class="containert">
