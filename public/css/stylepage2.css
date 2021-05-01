@@ -1297,6 +1297,15 @@ body {
     line-height: 1.5rem;
 }
 
+.product-variants span {
+    margin-left: 10px;
+}
+
+.btn-add-to-cart:hover {
+    text-decoration: none;
+    color: white;
+}
+
 .c-product__additional-item {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1593,7 +1602,7 @@ body {
 }
 
 .c-product-shipping-limitationn {
-    padding: 12px 52px 12px 12px;
+    /* padding: 12px 52px 12px 12px; */
     z-index: 2000;
     border-radius: 8px;
     margin-top: 8px;
@@ -1707,9 +1716,10 @@ body {
     font-size: .7rem;
 }
 
-.c-product__feature-item--1:before {
+
+/* .c-product__feature-item--1:before {
     content: "\E19C\00FE0E";
-}
+} */
 
 .cfeature-item:before {
     margin-left: 5px;
@@ -1717,21 +1727,24 @@ body {
     color: inherit;
 }
 
-.c-product__feature-item--3:before {
+
+/* .c-product__feature-item--3:before {
     content: "\E1F8\00FE0E";
-}
+} */
 
-.c-product__feature-item--4:before {
-    content: "\E161\00FE0E";
-}
 
-.c-product__feature-item--5:before {
+/* .c-product__feature-item--4:before {
+    content: "\00FE0E";
+} */
+
+
+/* .c-product__feature-item--5:before {
     content: "\E19B\00FE0E";
 }
 
 .c-product__feature-item--6:before {
     content: "\E193\00FE0E";
-}
+} */
 
 
 /* ///فروشندگان  */

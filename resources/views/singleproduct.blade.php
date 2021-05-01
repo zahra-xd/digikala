@@ -77,7 +77,7 @@
                                     </div>
                                 </div>
                                     <div class="icon-titel-product">
-                                        <i  class='far'>&#xf0eb;</i>
+                                       <i class="ml-1"><img src="/image/high-quality (1).png" style="width: 20px; margin-right:6px"></i>
                                         <span>پیشنهاد شده توسط بیش از ۲۲۰ نفر از خریداران</span>
                                     </div>
                                  <div class="c-product__config-wrapper">
@@ -132,20 +132,20 @@
                                             <div class="text-muted  c-pr-line c-product__seller-first-line mr-5 ">عملکرد <span class="ml-2">5از 5</span>
                                            <span> | </span>     <span  class="mr-2">80 درصد رضایت کالا</span></div>
                                            <div class="c-proc-row">
-                                            <i style='font-size:20px' class='fas'>&#xf666;</i>
+                                            <i><img src="/image/verified.png" style="width: 30px"></i>
                                             <div class="c-product__seller-first-line mr-2">
                                                 <span class="c-product-name">گارانتي 18 ماهه</span>
                                               
                                             </div>
                                 </div>
                                 <div class="c-proc-row">
-                                    <i style='font-size:24px' class='fas cproct-icon'>&#xf559;</i>
+                                    {{-- <i style='font-size:24px' class='fas cproct-icon'>&#xf559;</i> --}}
                                     <div class="c-product__seller-first-line mr-2">
                                         <span class="c-product-name">موجود در انبار</span>
                                         <i style='font-size:20px' class='fas text-muted mrr-5'>&#xf104;</i>
                                     </div>
                                  </div>
-                        <div class="text-muted  c-pr-line c-product__seller-first-line mr-5 ">ارسال ديجي کالا</div>
+                        <div class="text-muted  c-pr-line c-product__seller-first-line mr-5 ">   <i class="ml-2"><img src="/image/truck.png" style="width: 30px"></i>ارسال ديجي کالا</div>
                                             </div>
                                             <div class="c-product__seller-price-real">
                                                 <div class="c-product__seller-price">4,800,000<span class="text-se-price">تومان</span> </div>
@@ -163,9 +163,9 @@
                                         </div>
                                       
                                         <div class="c-product-shipping-limitationn">
-                                            <div class="c-product-shipping-limitation__title">
-                                                <i style='font-size:14px ;margin-right:-30px' class='far'>&#xf017;</i>
-                                                <span class="mr-2">فرایند قیمت گذاری </span>
+                                            <div class="c-product-shipping-limitation__title" style="margin-top: 10px">
+                                                <i style="margin-right: 8px"><img src="/image/exclamation.svg" style="width: 20px"></i>
+                                                <span class="mr-2"> فرایند قیمت گذاری ونظارت بر قیمت ها</span>
                                             </div>
                                         </div>
                                         <div class="ml-5 mb-2 text-muted price-monaseb">ايا قيمت مناسبي سراغ داريد؟</div>
@@ -183,19 +183,19 @@
                                <div class="o-grid">
                                    <div class="row">
                                        <div class="c-product__feature-col">
-                                           <a class="cfeature-item c-product__feature-item--1">امکان تحویل<br>اکسپرس</a>
+                                           <a class="cfeature-item c-product__feature-item--1"><i class="ml-2"><img src="/image/box.png" style="width: 35px"></i>امکان تحویل<br>اکسپرس</a>
                                        </div>
                                        <div class="c-product__feature-col">
-                                        <a class="cfeature-item c-product__feature-item--3">هفت روز هفته<br>24 ساعته </a>
+                                        <a class="cfeature-item c-product__feature-item--3"><i class="ml-2"><img src="/image/24-hours-support.png" style="width: 35px"></i>هفت روز هفته<br>24 ساعته </a>
                                     </div>
                                     <div class="c-product__feature-col">
-                                        <a class="cfeature-item c-product__feature-item--4">تحویل<br>پرداخت در محل </a>
+                                        <a class="cfeature-item c-product__feature-item--4"><i class="ml-2"><img src="/image/product_icon_E.png" style="width: 55px"></i>تحویل<br>پرداخت در محل </a>
                                     </div>
                                     <div class="c-product__feature-col">
-                                        <a class="cfeature-item c-product__feature-item--5">هفت  روز ضمانت بازگشت کالا</a>
+                                        <a class="cfeature-item c-product__feature-item--5"><i class="ml-2"><img src="/image/images.png" style="width: 35px"></i>هفت  روز ضمانت بازگشت کالا</a>
                                     </div>
                                     <div class="c-product__feature-col">
-                                        <a class="cfeature-item c-product__feature-item--6">ضمانت<br>اصل بودن کالا</a>
+                                        <a class="cfeature-item c-product__feature-item--6"><i class="ml-2"><img src="/image/high-quality.png" style="width: 35px"></i>ضمانت<br>اصل بودن کالا</a>
                                     </div>
                                    </div>
                                </div>
