@@ -20,6 +20,11 @@ body {
     src: url('/font/shabnam-font-v1.1.0/Shabnam.ttf') format('ttf'), url('/font/shabnam-font-v1.1.0/Shabnam.woff') format('woff'), url('/font/shabnam-font-v1.1.0/Shabnam.eot') format('eot');
 }
 
+@font-face {
+    font-family: 'Asem';
+    src: url('/public/font/fontasem');
+}
+
 .pishnahad-lahzaei .progress {
     position: absolute;
     top: 55px;
@@ -2693,18 +2698,18 @@ header .t-header-search .t-header-search-box {
 }
 
 .t-header-search-box::before {
-    content: "\f002";
-    font-family: FontAwesome;
-    right: 40px;
-    top: 50%;
+    /* content: "\f002"; */
+    /* font-family: fontasem; */
+    content: url('/image/loupe.png');
+    width: 10px;
+    right: 60px;
+    top: 64%;
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
     position: absolute;
     z-index: 52;
     color: #7b7b7b;
     font-size: 24px;
-    width: 36px;
-    height: 36px;
     /* display: -webkit-box; */
     display: flex;
     -webkit-box-align: center;
