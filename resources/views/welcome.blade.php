@@ -5,18 +5,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>فروشگاه اینترنتی دیجی کالا</title>
        <link href="/public/font/shabnam-font-v1.1.0">
-         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+         {{-- <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet"> --}}
          <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+         {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> --}}
          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> 
          <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
          <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>  
-         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-         <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+         {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> --}}
+         {{-- <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script> --}}
          <link href="{{ asset('owll-crousel/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css') }}" rel="stylesheet">
          <script src="{{ asset('owll-crousel/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js')}}"></script>
          <script src="{{ asset('/public/owll-crousel/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js')}}"></script>
-
+         <link href="/font/fontasem/font-awesome.min.css">
+         <script src="/font/fontasem/a076d05399.js"crossorigin='anonymous'></script>
         </head>
  <body class="antialiased">
  
@@ -30,38 +31,8 @@
              <!-- //slider -->
            <div class="gt">
               <div class="bg-slider containert">
-                  <div class="cont">
-                     <div class="row">
-                         <div class="col-12 col-lg-8 col-sm-8 col-md-8">
-                               <div id="carouselExampleIndicators" class="carousel slide carousel-image" data-ride="carousel">
-                                <ol class="carousel-indicators circleslide">
-                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                                     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                                     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                                     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                                     <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                                     <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-                                     <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-                                </ol>
-                                     <div class="carousel-inner">
-                                        <div class="carousel-item active"><img src="/image/6.jpg" class="d-block w-100" alt="..."></div>
-                                        <div class="carousel-item"><img src="/image/7.jpg" class="d-block w-100" alt="..."> </div>
-                                        <div class="carousel-item"><img src="/image/8.gif" class="d-block w-100" alt="..."> </div>
-                                        <div class="carousel-item"><img src="/image/9.jpg" class="d-block w-100" alt="..."> </div>
-                                        <div class="carousel-item"><img src="/image/10.jpg" class="d-block w-100" alt="..."></div>
-                                        <div class="carousel-item"> <img src="/image/11.jpg" class="d-block w-100" alt="...">  </div>
-                                        <div class="carousel-item"> <img src="/image/13.jpg" class="d-block w-100" alt="..."> </div>
-                                     </div>
-                             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                                   <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                    <span class="sr-only">Previous</span>
-                             </a>
-                          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                              <span class="sr-only">Next</span>
-                          </a>
-                    </div>
-                </div>
+                @component('components.sliderboot')
+                @endcomponent
                 <div class="col-12 col-lg-4 col-md-4 col-sm-4 image-banner">
                     <img src="/image/12.jpg" alt="">
                     <img src="/image/14.jpg" alt="">
