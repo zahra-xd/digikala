@@ -4,18 +4,14 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>صفحه  محصولات </title>
-     
-         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
-         <link href="/public/font/shabnam-font-v1.1.0">
-         <link href="{{ asset('css/style.css') }}" rel="stylesheet">
-         
-         <link href="{{ asset('css/stylepage2.css') }}" rel="stylesheet">
-         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script> 
-         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
-         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-         <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+          <link href="/public/font/shabnam-font-v1.1.0">
+          <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+          <link href="{{ asset('css/stylepage2.css') }}" rel="stylesheet">
+          <link rel="stylesheet" href="/font/fontasem/font-awesome.min.css"> 
+           <script src="/font/fontasem/a076d05399.js" crossorigin='anonymous'></script>
+           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+           <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script> 
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
              <link href="{{ asset('owll-crousel/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css') }}" rel="stylesheet">
              <script src="{{ asset('owll-crousel/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js')}}"></script>
              <script src="{{ asset('/public/owll-crousel/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js')}}"></script>
@@ -348,34 +344,16 @@
                 
                 </div>
                 {{-- //لیست فروشندگان کامل نشده --}}
-                {{-- <div class="c-box-suppliers">
-                    <div class="c-box-suppliers-heder">
-                        <div class="o-box__header">
-                            <span class="o-box__title">لیست فروشندگان کالا</span>
-                        </div>
-                        <div class="c-box">
-                            <div class="c-table-suppliers js-c-table-suppliers--summary">
-                                <div class="table-sup__body">
-                                    <div class="c-table-suppliers__row js-supplier in-filter in-list c-table-suppliers__row--active">
-                                        <div class="c-table-suppliers__cell c-table-suppliers__cell--title">
-                                            <span class="c-table-suppliers__seller-icon   "></span>
-                                            <div class="c-table-suppliers__seller-wrapper">
-                                                <p class="c-table-suppliers__seller-name"><a>داده پرداز جاوید</a></p>
-                                                  <div class="c-table-suppliers__rating">
-                                                      <span>عملکرد 5 از 5 
-                                                          | 80 درصد رضایت 
-                                                      </span>
-                                                  </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> --}}
-
+               
+               <div>
+                {{-- @component('components.froshandgan')
+                @endcomponent --}}
+               </div>
+               
+               
+                {{-- *************** --}}
               </div>
+              
               {{-- //محصولات مرتبط --}}
              @component('components.sliderproduct')
       @slot('titel')
