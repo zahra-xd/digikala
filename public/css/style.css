@@ -696,18 +696,52 @@ ul {
     width: 170px;
 }
 
+.item2 .moshahed-kol {
+    width: 78px;
+    height: 78px;
+    position: relative;
+    top: 40%;
+    left: 20%;
+    border-radius: 50%;
+    border: 1px solid #0fabc6;
+    padding: 12px 12px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.item2 .moshahed-kol i {
+    color: #0fabc6;
+    position: relative;
+    top: 4px;
+}
+
+.moshahed-kol2 {
+    position: relative;
+    top: 50%;
+    left: 40%;
+}
+
+
+/* .item2 .moshahed-kol::before {
+    font-size: 32px;
+    content: '\f061';
+    font-size: 2.286rem;
+    line-height: 32px;
+    color: #0fabc6;
+} */
+
 .text-supermark {
     text-align: right;
     font-size: 12px;
     color: #4a5f73;
     margin-top: 78px;
-    margin-right: 10px;
+    margin-right: 20px;
     margin-left: 10px;
 }
 
 .textsupermark {
     text-align: justify;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 .nki {
@@ -1328,7 +1362,7 @@ ul {
     padding-bottom: 19px;
     font-size: 3rem;
     text-align: center;
-    top: 0px;
+    top: 40px;
     position: relative;
     padding-right: 22px;
 }
@@ -1343,10 +1377,24 @@ ul {
     padding-bottom: 19px;
     font-size: 3rem;
     text-align: center;
-    top: 0px;
+    top: 40px;
     position: relative;
     padding-right: 22px;
 }
+
+.img-naghdi-shgef {
+    right: -9px;
+    position: relative;
+    top: 19px;
+}
+
+
+/* 
+.item2.textsupermark::before {
+    background: url('/image/7yc53fd0f.svg') no-repeat 50% 50%;
+    background-size: cover;
+    margin-left: 8px;
+} */
 
 .cadr-slaider-product {
     width: 100%;
