@@ -292,7 +292,7 @@
                                           </div>
                                      </div>
                               <div class="owl-nav">
-                                  <button type="button" role="presentation" class="owl-prev">
+                                  <button type="button" role="presentation" class="owl-prev ">
                                             <span aria-label="Previous">‹</span>
                                         </button> 
                                       
@@ -1236,52 +1236,52 @@
                                 <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2 ">
-                                            <div class="item"> <div><img src="/image/51.jpg"> </div> </div>
+                                            <div class="item"> <div class="box-brand-img"><img src="/image/51.jpg"> </div> </div>
                                         </div>
                                     </div>
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2 ">
-                                            <div class="item">  <div> <img src="/image/52.png"> </div></div>
+                                            <div class="item">  <div class="box-brand-img"> <img src="/image/52.png"> </div></div>
                                         </div>
                                     </div>
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2">
-                                            <div class="item"> <div> <img src="/image/53.png"> </div> </div>
+                                            <div class="item"> <div class="box-brand-img"> <img src="/image/53.png"> </div> </div>
                                         </div>
                                     </div>
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2">
-                                            <div class="item"> <div> <img src="/image/54.png"></div> </div> </div>
+                                            <div class="item"> <div class="box-brand-img"> <img src="/image/54.png"></div> </div> </div>
                                     </div>
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2">
-                                            <div class="item"><div> <img src="/image/55.jpg"></div> </div>
+                                            <div class="item"><div class="box-brand-img"> <img src="/image/55.jpg"></div> </div>
                                         </div>
                                     </div>
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2">
                                             <div class="item">
-                                                <div>   <img src="/image/52.png">  </div>  </div> </div>
+                                                <div class="box-brand-img">   <img src="/image/52.png">  </div>  </div> </div>
                                     </div>
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2">
                                             <div class="item">
-                                                <div> <img src="/image/52.png"> </div></div>
+                                                <div class="box-brand-img"> <img src="/image/52.png"> </div></div>
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2">
-                                            <div class="item"><div> <img src="/image/53.png"></div></div>
+                                            <div class="item"><div class="box-brand-img"> <img src="/image/53.png"></div></div>
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2">
-                                            <div class="item">  <div> <img src="/image/52.png"> </div>  </div>
+                                            <div class="item">  <div class="box-brand-img"> <img src="/image/52.png"> </div>  </div>
                                         </div>
                                     </div>
                                     <div class="owl-item" style="width: 190px;">
                                         <div class="col-lg-2">
-                                            <div class="item"> <div><img src="/image/52.png">  </div> </div>
+                                            <div class="item"> <div class="box-brand-img"><img src="/image/52.png">  </div> </div>
                                         </div>
                                     </div>
                                 </div>
@@ -1321,9 +1321,17 @@
 
                                                             <div class="c-product__add-container js-add-to-cart-container 
                                                         js-fast-shopping-confirm">
-                                                                <a class="btn-add-to-cart-mini js-add-to-cart js-product-add-to-card js-fast-shopping-confirm" href="/cart/add/4085721/1/" >+</a>
-
+                                                                <a id="myopen1" class="btn-add-to-cart-mini js-add-to-cart js-product-add-to-card js-fast-shopping-confirm"  href="#" >+</a>
+                                                                    {{-- *** --}}
+                                                                   
+                                                                    {{-- *** --}}
                                                             </div>
+                                                            <div id="myModal2" class="modal2">
+                                                                <div class="modal-content2">
+                                                                  <span class="close">&times;</span>
+                                                                  <p>Some text in the Modal..</p>
+                                                                </div>
+                                                              </div>
                                                         </div>
                                                         <div class="c-product-box__price-item">
                                                             <a class="js-product-url js-carousel-ga-product-box" href="/product/dkp-1481793/سس-ایتالیایی-بدون-چربی-بیژن-وزن-505-گرم">
@@ -1337,9 +1345,11 @@
                                                         </div>
                                                     </div>
                                                 </div>
+                                               
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
