@@ -31,8 +31,40 @@
              <!-- //slider -->
            <div class="gt">
               <div class="bg-slider containert">
-                @component('components.sliderboot')
-                @endcomponent
+         
+                <div class="cont">
+                    <div class="row">
+                        <div class="col-12 col-lg-8 col-sm-8 col-md-8">
+                              <div id="carouselExampleIndicators" class="carousel slide carousel-image" data-ride="carousel">
+                               <ol class="carousel-indicators circleslide">
+                                   <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+                               </ol>
+                                    <div class="carousel-inner">
+                                       <div class="carousel-item active"><?=$urlboot?></div>
+                                       <div class="carousel-item"><?=$urlboot1?></div>
+                                       <div class="carousel-item"><?=$urlboot2?> </div>
+                                       <div class="carousel-item"><?=$urlboot3?> </div>
+                                       <div class="carousel-item"><?=$urlboot4?></div>
+                                       <div class="carousel-item"><?=$urlboot5?>  </div>
+                                       <div class="carousel-item"><?=$urlboot6?>  </div>
+                                    </div>
+                            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                   <span class="sr-only">Previous</span>
+                            </a>
+                         <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                             <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                             <span class="sr-only">Next</span>
+                         </a>
+                   </div>
+                </div>
+                {{-- *** --}}
                 <div class="col-12 col-lg-4 col-md-4 col-sm-4 image-banner">
                     <img src="/image/12.jpg" alt="">
                     <img src="/image/14.jpg" alt="">
