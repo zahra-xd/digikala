@@ -125,21 +125,24 @@
   })
 
   var modal = document.getElementById("myModal2");
+  var bodyy1 = document.getElementsByTagName('body');
 
   // Get the button that opens the modal
   var btn2 = document.getElementById("myopen1");
 
   // Get the <span> element that closes the modal
-  var span2 = document.getElementsByClassName("close")[0];
+  var span2 = document.getElementsByClassName("closee")[0];
 
   // When the user clicks the button, open the modal 
   btn2.onclick = function() {
       modal.style.display = "block";
+      document.getElementById("mybody").classList.add("sdr");
   }
 
   // When the user clicks on <span> (x), close the modal
   span2.onclick = function() {
       modal.style.display = "none";
+      document.getElementById("mybody").classList.remove("sdr");
   }
 
   // When the user clicks anywhere outside of the modal, close it

@@ -19,7 +19,7 @@
          <script src="/bootstrap-5.0.0-beta3-dist/bootstrap-5.0.0-beta3-dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script> --}}
        
         </head>
- <body class="antialiased">
+ <body class="antialiased" id="mybody">
  
       <div class="bg-kol">
 <!-- //start header -->
@@ -1326,12 +1326,6 @@
                                                                    
                                                                     {{-- *** --}}
                                                             </div>
-                                                            <div id="myModal2" class="modal2">
-                                                                <div class="modal-content2">
-                                                                  <span class="close">&times;</span>
-                                                                  <p>Some text in the Modal..</p>
-                                                                </div>
-                                                              </div>
                                                         </div>
                                                         <div class="c-product-box__price-item">
                                                             <a class="js-product-url js-carousel-ga-product-box" href="/product/dkp-1481793/سس-ایتالیایی-بدون-چربی-بیژن-وزن-505-گرم">
@@ -1347,9 +1341,10 @@
                                                 </div>
                                                
                                             </div>
+                                           
                                         </div>
                                     </div>
-
+                                  
                                     <div class="owl-item active" style="width: 190px;">
                                         <div class="col-lg-2 nj">
                                             <div class="item">
@@ -1476,10 +1471,27 @@
                 </div>
             </div>
         </div>
+        <div class="remodal-wrapper">
+        <div id="myModal2" class="modal2">
+            <div class="modal-content2">
+              <span class="closee">&times;</span>
+              <div class="c-remodal-fmcg__container">
+                  <img src="/image/cbaed462.png" class="c-remodal-fmcg__logo">
+                  <div class="c-remodal-fmcg__content">
+                      <p class="c-remodal-fmcg__head-text">ارسال سریع کالای <span> سوپر مارکتی </span> فقط در تهران و کرج امکان پذیر است.</p>
+                      <p class="c-remodal-fmcg__question">با توجه به محدودیت ارسال، آیا مایل هستید این کالا به سبد خرید شما افزوده شود؟</p><div class="c-remodal-fmcg__actions">
+                          <a class="c-remodal-fmcg__button c-remodal-fmcg__button--reject js-fmcg-modal-reject">خیر</a>
+                          <a class="c-remodal-fmcg__button c-remodal-fmcg__button--approve js-fmcg-modal-approve">بله</a>
+                        </div>
+                    </div>
+                </div>
+            </div> </div>
+          </div>
              <!-- //footer -->
            @component('components.footer')
           @endcomponent
 </div>
+
 
         <script>
         @component('components.owl-crousel')
