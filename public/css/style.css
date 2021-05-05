@@ -829,6 +829,19 @@ ul {
     z-index: 11;
 }
 
+.nj2 .item-lahzei:hover {
+    border: 1px solid #f0f0f0;
+    width: 205px;
+    height: 335px;
+    right: 4px;
+    margin-right: 16px;
+    /* right: 30px; */
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
+    z-index: 11;
+}
+
 .img-lahz-slide {
     margin-top: 22px;
     margin-right: 20px;
@@ -2718,7 +2731,7 @@ header .t-header-search .t-header-search-box {
 .t-header-search-box::before {
     /* content: "\f002"; */
     /* font-family: fontasem; */
-    content: url('/image/loupe.png');
+    content: url('/image/loupe\ \(1\).png');
     width: 10px;
     right: 60px;
     top: 64%;
