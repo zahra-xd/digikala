@@ -1090,7 +1090,7 @@
                             <div class="owl-stage-outer">
                                 <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
                                     <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
+                                        <div class="col-lg-2 nj2">
                                             <div class="item">
                                                 <div> <img src="/image/45.jpg"> </div>
                                                 <div class="mt-2 to-sistem ">
@@ -1306,7 +1306,7 @@
                             <div class="owl-stage-outer">
                                 <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">
                                     <div class="owl-item active" style="width: 190px;">
-                                        <div class="col-lg-2 nj">
+                                        <div class="col-lg-2 nj2">
                                             <div class="item">
                                                 <div> <img src="/image/66.jpg"> </div>
                                                 <div class="mt-2 to-sistem ">

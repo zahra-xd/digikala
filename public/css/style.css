@@ -1401,13 +1401,31 @@ ul {
     width: 253px;
     height: 290px;
     position: relative;
+    left: 10px;
+    border-radius: 10px;
+    /* box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%); */
+    box-shadow: 0 0 10px 0 rgb(0 0 0 / 10%);
+    z-index: 11;
+}
+
+.nj2 .item:hover {
+    border: 1px solid #f0f0f0;
+    width: 253px;
+    height: 290px;
+    position: relative;
     left: 7px;
+    right: 10px;
     border-radius: 10px;
     box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
     z-index: 11;
 }
 
 .nj .item:hover .to-sistem {
+    position: relative;
+    right: 20px;
+}
+
+.nj2 .item:hover .to-sistem {
     position: relative;
     right: 20px;
 }
