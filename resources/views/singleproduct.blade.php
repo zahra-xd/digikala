@@ -97,7 +97,18 @@
                                              <li>دوربین‌های پشت گوشی: 3 ماژول دوربین</li>
                                              <li>سیستم عامل: Android</li>
                                              <li>توضیحات سیم کارت:سایز نانو (8.8 × 12.3 میلی‌متر)</li>
-                                             <li class="moust-carbord">+موارد بیشتر</li>
+                                             {{-- <li class="moust-carbord" onclick="myFunction2()" id="myBtnu">+موارد بیشتر  </li> --}}
+                                             <li ><span id="dots2"></span>
+                                                <ul id="more2">
+                                                <li>مقدار رم</li>
+                                                <li>رزولیشن عکس</li>
+                                                <li>نسخه سیستم عامل</li>
+                                                <li>فناوری صفحه نمایش</li>
+                                                
+                                                </ul>
+                                                </li>
+                                                <li class="moust-carbord" onclick="myFunction12()" id="myBtnu">+موارد بیشتر  </li>
+                                               
                                             </ul>
                                            <div class="text-product-param">
                                                 <div class="c-product__additional-item ">
@@ -371,7 +382,7 @@
                   <div id="tab" class="o-box o-box--no-border o-box--grow c-product__tabs-container">
                       <ul class="tab-box o-box__tabs--sticky nav-level-1-ul">
                         <div class="nav-hoverr"></div>
-                          <li class=" o-box__tab   nav-level-1-li">
+                          <li class=" o-box__tab   nav-level-1-li ">
                               <a href="#bakhsh-1">نقد بررسی</a>
                           </li>
                           <li class=" o-box__tab nav-level-1-li ">

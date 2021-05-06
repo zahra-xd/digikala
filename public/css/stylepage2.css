@@ -1098,14 +1098,15 @@ body {
     display: flex;
 }
 
-#zoom-box {
+
+/* #zoom-box {
     left: 0;
     bottom: 0;
     top: 12px;
     width: 100%;
     height: 100%;
     position: absolute;
-}
+} */
 
 .product-cofing {
     -webkit-box-flex: 1;
@@ -2996,4 +2997,8 @@ html {
     bottom: 0;
     right: 48px;
     left: 0;
+}
+
+#more2 {
+    display: none;
 }

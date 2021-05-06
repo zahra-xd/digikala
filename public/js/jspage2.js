@@ -238,3 +238,20 @@ hover();
 window.onresize = function() {
     hover()
 }
+
+function myFunction12() {
+    var dots2 = document.getElementById("dots2");
+    var moreText12 = document.getElementById("more2");
+    var btnText12 = document.getElementById("myBtnu");
+
+    if (dots2.style.display === "none") {
+        dots2.style.display = "inline";
+        btnText12.innerHTML = "+ موارد بیشتر";
+
+        moreText12.style.display = "none";
+    } else {
+        dots2.style.display = "none";
+        btnText12.innerHTML = "  - بستن ";
+        moreText12.style.display = "inline";
+    }
+}
