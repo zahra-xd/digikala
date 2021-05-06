@@ -16,7 +16,7 @@
                                                     <div> {{$urlimage}} </div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">{{$price}} تومان</div>
+                                                        <div class="price-2">{{$price}} <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -27,7 +27,9 @@
                                                     <div> <img src="/image/46.jpg"></div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">4.000.000 تومان</div>
+                                                        <div class="price-2">4.000.000 
+                                                            <span>تومان</span>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -38,7 +40,7 @@
                                                     <div> <img src="/image/46.jpg"> </div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">4.000.000 تومان</div>
+                                                        <div class="price-2">4.000.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -49,7 +51,7 @@
                                                     <div> <img src="/image/47.jpg"></div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">420.000 تومان</div>
+                                                        <div class="price-2">420.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -60,7 +62,7 @@
                                                     <div> <img src="/image/47.jpg"></div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">800.000 تومان</div>
+                                                        <div class="price-2">800.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -72,7 +74,7 @@
                                                         <img src="/image/48.jpg">  </div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">440.000 تومان</div>
+                                                        <div class="price-2">440.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -83,7 +85,7 @@
                                                     <div> <img src="/image/45.jpg"> </div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">2.400.000 تومان</div>
+                                                        <div class="price-2">2.400.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -94,7 +96,7 @@
                                                     <div>  <img src="/image/45.jpg"></div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">140.000 تومان</div>
+                                                        <div class="price-2">140.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -105,7 +107,7 @@
                                                     <div> <img src="/image/46.jpg"></div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">200.000 تومان</div>
+                                                        <div class="price-2">200.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -116,7 +118,7 @@
                                                     <div><img src="/image/48.jpg"></div>
                                                     <div class="mt-2 to-sistem ">
                                                         <a> گوشی موبایل شیائومی مدل POCO X3 M2007J20CG دو سیم‌...</a>
-                                                        <div class="price-2">600.000 تومان</div>
+                                                        <div class="price-2">600.000 <span>تومان</span></div>
                                                     </div>
                                                 </div>
                                             </div>

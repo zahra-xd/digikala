@@ -1782,7 +1782,12 @@ body {
     -ms-flex-align: center;
     align-items: center;
     color: #9b9b9b;
+    margin-top: 20px;
     font-size: .7rem;
+}
+
+.price-2 span {
+    font-weight: 300;
 }
 
 
@@ -1987,7 +1992,7 @@ body {
 .price-2 {
     text-align: left;
     /* margin-left: 50px; */
-    font-weight: bold;
+    font-weight: 700;
     margin-top: 30px;
 }
 
