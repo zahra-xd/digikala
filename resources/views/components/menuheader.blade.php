@@ -260,7 +260,7 @@
                         </div>
                         <!--                            </div>-->
                     </li>
-                    <li class="nav-level-1-li hidemenuu2"><a >سوپر مارکت</a></li>
+                    <li class="nav-level-1-li hidemenuu1"><a >سوپر مارکت</a></li>
                     <li class="nav-level-1-li has-sub"><a ><i class="ml-2"><img src="/image/discount.svg" style="width: 16px" ></i>تخفیف ها و پیشنهادها</a>
 
                         <div class="sub-menu-categoreis kala-menu sub2">
@@ -313,7 +313,7 @@
                 
                 </li>
 
-                <li class="nav-level-1-li hidemenuu2"> <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a>
+                <li class="nav-level-1-li hidemenuu1"> <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a>
                     <div class="sub-menu-categoreis kala-menu sub4">
                        <ul class="sub-menu-categoreis-ull"> 
                           <div class="c-dp-header-submenu__head-titlew " > <img src="/image/1c93eb76.svg" alt="Digiklop"> </div>
@@ -334,7 +334,7 @@
                     </div>
                 
                 </li>
-                     {{-- <li class="nav-level-1-li hidemenuu2">  <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a></li>  --}}
+                    <li class="nav-level-1-li hidemenuu hidemenuu1"><a>دیجی پی</a></li>
                     <li class="nav-level-1-li hidemenuu"><a> سوالی دارد <i class="ml-2"><img src="/image/question-mark (1).svg" style="width: 13px"></i></a></li>
                     <li class="nav-level-1-li hidemenuu"><a>فروشنده شوید</a></li>
                 </ul>
