@@ -2556,7 +2556,7 @@ ul {
     padding: 0;
     display: none;
     top: 74%;
-    max-height: 460px;
+    height: 480px;
 }
 
 .sub-menu-right-list {
@@ -2673,7 +2673,7 @@ ul {
 
 .sub-menu-categoreis-li-main a {
     color: #000;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .sub-menu-right-list-a:hover {
