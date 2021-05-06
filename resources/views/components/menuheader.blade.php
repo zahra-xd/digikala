@@ -319,9 +319,9 @@
                           <div class="c-dp-header-submenu__head-titlew " > <img src="/image/1c93eb76.svg" alt="Digiklop"> </div>
                           <ul class="mr-not">
                           <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a>  صفحه اصلی دیجی کلاب <i style="font-size:14px;" class="fa  mr-2">&#xf104;</i></a></li> </div>
-                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a> <i class="ml-3"><img src="/image/gift-card.png" style="width: 16px"></i> جوایز دیجی کلاب</a></li> </div>
-                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a> <i style=" font-size:16px;color: #737373;" class="far ml-3" aria-hidden="true"></i>تاریخچه امتیازات دیجی کلاب </a></li> </div>
-                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a> <i class="ml-3"><img src="/image/flag.png" style="width: 16px"></i>ماموریت های دیجی کلابی </a></li> </div>
+                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a > <i class="ml-3"><img src="/image/gift-card.png" style="width: 16px"></i> جوایز دیجی کلاب</a></li> </div>
+                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a > <i style=" font-size:16px;color: #737373;" class="far ml-3" aria-hidden="true"></i>تاریخچه امتیازات دیجی کلاب </a></li> </div>
+                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a class="text-muted"> <i class="ml-3"><img src="/image/flag.png" style="width: 16px"></i>ماموریت های دیجی کلابی </a></li> </div>
                         </ul>
                              <div class="c-dp-header-submenu__head-title bord-ghore " style="margin-right: -40px">  <li class="mt-1" > <a> <i style="font-size:20px" class="fa text-muted ml-3" aria-hidden="true"></i>قرعه کشی </a></li>
                             <span class="mt-1">45:12:20:40</span>

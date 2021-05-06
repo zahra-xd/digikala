@@ -369,27 +369,28 @@
             {{-- //کامنت --}}
             <div class="c-product__bottom-section u-mt-12 has-mini-buybox">
                   <div id="tab" class="o-box o-box--no-border o-box--grow c-product__tabs-container">
-                      <ul class="tab-box o-box__tabs--sticky">
-                          <li class=" o-box__tab  is-active">
-                              <a href="">نقد بررسی</a>
+                      <ul class="tab-box o-box__tabs--sticky nav-level-1-ul">
+                        <div class="nav-hoverr"></div>
+                          <li class=" o-box__tab   nav-level-1-li">
+                              <a href="#bakhsh-1">نقد بررسی</a>
                           </li>
-                          <li class=" o-box__tab  ">
-                            <a href="">بررسی تخصصی</a>
+                          <li class=" o-box__tab nav-level-1-li ">
+                            <a href="#bakhsh-2">بررسی تخصصی</a>
                         </li>
-                        <li class=" o-box__tab  ">
-                            <a href=""> مشخصات</a>
+                        <li class=" o-box__tab nav-level-1-li ">
+                            <a  href="#bakhsh-3"> مشخصات</a>
                         </li>
-                        <li class=" o-box__tab ">
-                            <a href="">دیدگاه کاربران </a>
+                        <li class=" o-box__tab nav-level-1-li">
+                            <a  href="#bakhsh-4">دیدگاه کاربران </a>
                         </li>
-                        <li class=" o-box__tab  ">
-                            <a href="">پرسش و پاسخ</a>
+                        <li class=" o-box__tab nav-level-1-li">
+                            <a  href="#bakhsh-5">پرسش و پاسخ</a>
                         </li>
                       </ul>
                       <div>
                           <div>
-                            <div class="o-box__header">
-                                <span class="o-box__title">نقد و بررسی اجمالی</span><br>
+                            <div class="o-box__header" id="bakhsh-1">
+                                <span class="o-box__title ">نقد و بررسی اجمالی</span><br>
                                 <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                               </div>
                               <article>
@@ -408,8 +409,8 @@
                               </article>
                           </div>
                           <div>
-                            <div class="o-box__header">
-                                <span class="o-box__title">نقد و بررسی تخصصی</span><br>
+                            <div class="o-box__header" id="bakhsh-2">
+                                <span class="o-box__title ">نقد و بررسی تخصصی</span><br>
                                 <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                              
                             </div>
@@ -426,12 +427,11 @@
                                   </div>
                               </article>
                           </div>
-
                           {{-- ** --}}
                           <div class="c-params js-product-tab-content" id="params" data-method="params">
                               <article class="c-params__border-bottom">
-                                  <div class="o-box__header">
-                                      <span class="o-box__title" style="    position: relative;  right: -75%;">مشخصات کالا</span>
+                                  <div class="o-box__header" id="bakhsh-3">
+                                      <span class="o-box__title " style="    position: relative;  right: -75%;">مشخصات کالا</span>
                                       <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                                     </div>
                                     <section>
@@ -508,8 +508,8 @@
 
                       {{-- //دیدگاه کاربران --}}
                       <div class="ff-box">
-                        <div class="o-box__header">
-                            <span class="o-box__title">امتیاز و دیدگاه کاربران</span><br>
+                        <div class="o-box__header" id="bakhsh-4">
+                            <span class="o-box__title  ">امتیاز و دیدگاه کاربران</span><br>
                             <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                             
                         </div>
@@ -605,8 +605,8 @@
                         </div>
                         {{-- //پرسش و پاسخ --}}
                         <div class="ff-box">
-                            <div class="o-box__header">
-                                <span class="o-box__title">پرسش و پاسخ</span><br>
+                            <div class="o-box__header" id="bakhsh-5">
+                                <span class="o-box__title ">پرسش و پاسخ</span><br>
                                 <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>    
                             </div>
                           </div> 

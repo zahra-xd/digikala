@@ -2059,7 +2059,8 @@ body {
     color: #ef394e;
 }
 
-.o-box__tab.is-active:after {
+
+/* .o-box__tab.is-active:after {
     content: "";
     position: absolute;
     width: calc(100% - 16px);
@@ -2068,7 +2069,7 @@ body {
     height: 4px;
     border-radius: 2px 2px 0 0;
     background-color: #ef394e;
-}
+} */
 
 .o-box__header {
     padding-bottom: 16px;
@@ -2965,4 +2966,34 @@ body.navi-is-visible .c-mini-buy-box-fixed {
 
 .u-text-bold {
     font-weight: 700;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.o-box__tab a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-hoverr {
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    transform: scalex(0);
+    transition: .16s all 0.025s;
+}
+
+.nav-hoverr::before {
+    content: '';
+    background: #ff4374;
+    height: 2px;
+    transition: .16s all 0.025s;
+    position: absolute;
+    bottom: 0;
+    right: 48px;
+    left: 0;
 }
