@@ -345,6 +345,12 @@ ul {
     }
 }
 
+@media(max-width:769px) {
+    .line-user::before {
+        left: -190px;
+    }
+}
+
 @media(max-width:1100px) {
     .carousel-item img {
         /* width: 331px; */

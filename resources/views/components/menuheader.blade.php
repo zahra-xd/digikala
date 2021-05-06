@@ -61,7 +61,7 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">ماوس</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu1"><a href="#">لپتاپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu1"><a href="#">لوازم جانبی لپتاپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">کیف کوله و کاور</a>  </li>
+                                        {{-- <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">کیف کوله و کاور</a>  </li> --}}
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">تبلت<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">شارژر تبلت و موبایل<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">لوازم  جانبی تبلت<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
