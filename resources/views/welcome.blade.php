@@ -34,7 +34,7 @@
          
                 <div class="cont">
                     <div class="row">
-                        <div class="col-12 col-lg-8 col-sm-8 col-md-8">
+                        <div class=" col-lg-8 coll-sm-4 col-md-8">
                               <div id="carouselExampleIndicators" class="carousel slide carousel-image" data-ride="carousel">
                                <ol class="carousel-indicators circleslide">
                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -65,7 +65,7 @@
                    </div>
                 </div>
                 {{-- *** --}}
-                <div class="col-12 col-lg-4 col-md-4 col-sm-4 image-banner">
+                <div class=" col-lg-4 col-md-4 colll-sm-4 image-banner">
                     <img src="/image/12.jpg" alt="">
                     <img src="/image/14.jpg" alt="">
                 </div>
