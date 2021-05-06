@@ -1512,7 +1512,7 @@ body {
 .c-pr-line {
     position: relative;
     padding-bottom: 12px;
-    border-bottom: 1px solid;
+    border-bottom: 1px solid #dfdfdf;
     margin-left: 20px;
     bottom: 12px;
 }
@@ -1573,6 +1573,9 @@ body {
 .text-se-price {
     font-size: 15px;
     margin-left: 12px;
+    margin-right: 7px;
+    /* color: gray; */
+    color: #424750;
 }
 
 .c-cart-view-count {
@@ -3001,4 +3004,11 @@ html {
 
 #more2 {
     display: none;
+}
+
+.line-zemant {
+    width: 80%;
+    margin-right: 49px;
+    /* color: #dfdfdf; */
+    border-top: 1px solid #dfdfdf;
 }

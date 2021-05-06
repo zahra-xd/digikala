@@ -132,7 +132,7 @@
                                                     <div class="c-proc-row">
               
                                                         <div class="c-product__seller-first-line mr-2">
-                                                            <span class="c-product-name"> <i class="ml-2" style="    right: -20px;  position: relative;"><img src="/image/guarantee (1).png" style="width: 30px"></i>داده پرداز مهر </span>
+                                                            <span class="c-product-name"> <i class="ml-2" style="    right: -20px;  position: relative;"><img src="/image/icon.png" style="width: 30px; border-radius: 0px 12px 12px 0px;"></i>دیجی کالا </span>
                                                             <i style='font-size:20px' class='fas text-muted mrr-5'>&#xf104;</i>
                                                         </div>
                                             </div>
@@ -144,8 +144,9 @@
                                             <div class="c-product__seller-first-line mr-2">
                                                 <span class="c-product-name">گارانتي 18 ماهه</span>
                                             </div>
-                                          
+                                        
                                 </div>
+                                  <hr  class="line-zemant">
                                 <div class="c-proc-row">
                                     <i class="ml-2"><img src="/image/now-in-stock.png" style="width: 30px"></i>
                                     {{-- <i style='font-size:24px' class='fas cproct-icon'>&#xf559;</i> --}}
@@ -161,7 +162,7 @@
                                                 <div class="c-product__seller-price">4,800,000<span class="text-se-price">تومان</span> </div>
                                             </div>
                                             <div class="c-cart-view-count">
-                                                <i style='font-size:20px' class='far ml-2'>&#xf06e;</i>
+                                                <i style='font-size:17px' class='far ml-2'>&#xf06e;</i>
                                                 50نفر در حال بازديد اين کالا هستند 
                                             </div>
                                             <div class="c-product__seller-row c-product__seller-row--add-to-cart">
