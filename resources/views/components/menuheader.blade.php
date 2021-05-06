@@ -22,32 +22,21 @@
                             </div>
                             <div class="sub-menu-left-section">
                                 <div class="section" style="display: block">
-                                    <div class="section-header"><a href="">همه کالای های دیجیتال<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></div>
+                                    <div class="section-header"><a href="">همه دسته بندی  کالای های دیجیتال<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></div>
 
                                     <ul class="sub-menu-categoreis-ul">
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="category.html">لوازم
-                  گوشی</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">باتری</a>
-                                        </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">سیم
-                  کارت</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">قاب</a>
-                                        </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">رو
-                  کش</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">ساعت</a>
-                                        </li>
-
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">لوازم
-                  گوشی</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">1</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">2</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">3</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">4</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">5</a></li>
-
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">لوازم
-                  گوشی</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="category.html">لوازم جانبی گوشی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">کیف و کاور گوشی</a> </li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">پاور بانک </a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">پایه نگه دارنده گوشی</a> </li>                
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main sectin-munu-dast bbtt"><a href="#">گوشی موبایل<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">سامسونگ</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">اپل</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">هوآوی</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">شیائومی</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">آنر</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">نوکیا</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">واقعیت مجازی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">باتری</a>
                                         </li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">سیم
@@ -295,7 +284,7 @@
                     <li class="nav-level-1-li hidemenuu2"><a >سوپر مارکت</a></li>
                     <li class="nav-level-1-li has-sub"><a ><i class="ml-2"><img src="/image/discount.svg" style="width: 16px" ></i>تخفیف ها و پیشنهادها</a>
 
-                        <div class="sub-menu-categoreis sub2">
+                        <div class="sub-menu-categoreis kala-menu sub2">
                             <ul class="sub-menu-categoreis-ul">
                                 <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main"> <a>مشاهده همه تخفیف ها<i style="font-size:14px" class="fa text-muted mr-2">&#xf104;</i></a></li>
                                 <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main"> <a>کالاهای شگفت انگیز<i style="font-size:14px" class="fa text-muted mr-2">&#xf104;</i></a></li>
@@ -327,7 +316,7 @@
                 <li class="nav-level-1-li hidemenuu1"> <a><i class="ml-2"><img src="/image/7yc53fd0f.svg"></i>دیجی پلاس</a>
                 
                 
-                    <div class="sub-menu-categoreis sub3">
+                    <div class="sub-menu-categoreis kala-menu sub3">
                        <ul class="sub-menu-categoreis-ul"> 
                            
                           <div class="c-dp-header-submenu__head-title " style="margin-right: -40px"> خدمات ویژه کاربران <img src="/image/2.svg" alt="Digiplus"> </div>

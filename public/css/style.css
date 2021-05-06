@@ -2537,19 +2537,22 @@ ul {
     left: 0;
 }
 
+.kala-menu {
+    background: #fff;
+}
+
 .sub-menu-categoreis {
     position: absolute;
     width: 100%;
-    background: #fff;
+    /* background: #fff; */
     z-index: 12;
-    width: 100%;
-    background-color: #fff;
+    /* background-color: #fff; */
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
     border-radius: 0 0 5px 5px;
     overflow: hidden;
-    max-width: 1430px;
+    /* max-width: 1430px; */
     padding: 0;
     display: none;
     top: 74%;
@@ -2589,8 +2592,10 @@ ul {
 
 .sub-menu-left-section {
     flex-grow: 1;
-    /*background: #96a1ff;*/
     padding: 12px;
+    background: #fff;
+    margin-left: 60px;
+    width: 80%;
 }
 
 .section {
