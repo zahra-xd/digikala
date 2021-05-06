@@ -36,44 +36,45 @@
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">شیائومی</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">آنر</a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">نوکیا</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">واقعیت مجازی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">هدفون ،هدست ، هندزفری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">اسپیکر بلوتوث با سیم<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">هارد ،فلش ،SSD<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">دوربین<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">دوربین عکاسی دیجیتال</a>  </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">دوربین ورزشی و فیلم برداری</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">دوربین چاپ سریع</a> </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">لوازم جانبی دوربین<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">لنز</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">کیف</a> </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">کارت حافظه</a> </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">کاغذ چاپ عکس</a> </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">دوربین دو چشمی وشکاری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">تلسکپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">پلی استیشن<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">کامپیوتر و تجهیزات جانبی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">تجهیزات مخصوص بازی</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">مانیتور</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">کیس های اسمبل شده</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">قطعات داخلی کامپیوتر</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">ماوس</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">لپتاپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">لوازم جانبی لپتاپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">کیف کوله و کاور</a>  </li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">تبلت<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">شارژر تبلت و موبایل<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">لوازم  جانبی تبلت<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">باتری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">دوربین های تحت شبکه<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">مودم و تجهیزات شبکه<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">ماشین های اداری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main "><a href="#">واقعیت مجازی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main  "><a href="#">هدفون ،هدست ، هندزفری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1"><a href="#">اسپیکر بلوتوث با سیم<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1"><a href="#">اسپیکر بلوتوث با سیم<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1 bbtt"><a href="#">هارد ،فلش ،SSD<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1 bbtt"><a href="#">دوربین<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">دوربین عکاسی دیجیتال</a>  </li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">دوربین ورزشی و فیلم برداری</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">دوربین چاپ سریع</a> </li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1 bbtt"><a href="#">لوازم جانبی دوربین<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">لنز</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">کیف</a> </li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">کارت حافظه</a> </li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">کاغذ چاپ عکس</a> </li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1 bbtt"><a href="#">دوربین دو چشمی وشکاری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1 bbtt"><a href="#">تلسکپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1 bbtt"><a href="#">پلی استیشن<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu1 bbtt"><a href="#">کامپیوتر و تجهیزات جانبی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">تجهیزات مخصوص بازی</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">مانیتور</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">کیس های اسمبل شده</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">قطعات داخلی کامپیوتر</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">ماوس</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu1"><a href="#">لپتاپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu1"><a href="#">لوازم جانبی لپتاپ<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu1"><a href="#">کیف کوله و کاور</a>  </li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">تبلت<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">شارژر تبلت و موبایل<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">لوازم  جانبی تبلت<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">باتری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">دوربین های تحت شبکه<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">مودم و تجهیزات شبکه<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt hidemenuu"><a href="#">ماشین های اداری<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
                                        
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">فکس</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">پرینتر</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">رو  کش</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">لوازم اداری</a></li>
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="#">کارت هدیه خرید از دیجی کالا<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu"><a href="#">فکس</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu"><a href="#">پرینتر</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu"><a href="#">رو  کش</a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item hidemenuu"><a href="#">لوازم اداری</a></li>
+                                        {{-- <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main hidemenuu bbtt"><a href="#">کارت هدیه خرید از دیجی کالا<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li> --}}
                                        
                          
                                    {{-- <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item mtyr"> <img src="/image/2663e785f54221746ff1fb34e7311690116e7544_1619257989.jpg" class="img-digi-nav"></li> --}}
@@ -312,9 +313,28 @@
                 
                 </li>
 
-
-
-                    <li class="nav-level-1-li hidemenuu2">  <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a></li>
+                <li class="nav-level-1-li hidemenuu2"> <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a>
+                    <div class="sub-menu-categoreis kala-menu sub4">
+                       <ul class="sub-menu-categoreis-ull"> 
+                          <div class="c-dp-header-submenu__head-titlew " > <img src="/image/1c93eb76.svg" alt="Digiklop"> </div>
+                          <ul class="mr-not">
+                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a>  صفحه اصلی دیجی کلاب <i style="font-size:14px;" class="fa  mr-2">&#xf104;</i></a></li> </div>
+                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a> <i class="ml-3"><img src="/image/gift-card.png" style="width: 16px"></i> جوایز دیجی کلاب</a></li> </div>
+                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a> <i style=" font-size:16px;color: #737373;" class="far ml-3" aria-hidden="true"></i>تاریخچه امتیازات دیجی کلاب </a></li> </div>
+                          <div class="c-dp-header-submenu__head-titlee " style="margin-right: -40px">  <li > <a> <i class="ml-3"><img src="/image/flag.png" style="width: 16px"></i>ماموریت های دیجی کلابی </a></li> </div>
+                        </ul>
+                             <div class="c-dp-header-submenu__head-title bord-ghore " style="margin-right: -40px">  <li class="mt-1" > <a> <i style="font-size:20px" class="fa text-muted ml-3" aria-hidden="true"></i>قرعه کشی </a></li>
+                            <span class="mt-1">45:12:20:40</span>
+                            </div>
+                        {{-- <div class="c-dp-header-submenu__head-title " style="margin-right: -40px">    <li>کالاهای دیجی پلاس</li> </div>     --}}
+                   </ul> 
+                        <div class="sub-list-img">
+                            <div class="img-digiplas"><a><img src="/image/5.jpg"></a></div>
+                        </div>
+                    </div>
+                
+                </li>
+                     {{-- <li class="nav-level-1-li hidemenuu2">  <a> <i style='font-size:15px' class='fab ml-2 text-muted'>&#xf4f0;</i>دیجی کلاب</a></li>  --}}
                     <li class="nav-level-1-li hidemenuu"><a> سوالی دارد <i class="ml-2"><img src="/image/question-mark (1).svg" style="width: 13px"></i></a></li>
                     <li class="nav-level-1-li hidemenuu"><a>فروشنده شوید</a></li>
                 </ul>
