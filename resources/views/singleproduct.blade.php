@@ -16,7 +16,7 @@
              <script src="{{ asset('owll-crousel/OwlCarousel2-2.3.4/docs/assets/owlcarousel/owl.carousel.min.js')}}"></script>
              <script src="{{ asset('/public/owll-crousel/OwlCarousel2-2.3.4/docs/assets/vendors/jquery.min.js')}}"></script>
             </head>
-        <body class="antialiased">
+        <body class="antialiased" id="mybody">
              @component('components.header')
              @endcomponent
    {{-- //menu --}}
@@ -46,9 +46,9 @@
                             <div>
                                 <div class="item-center">
                                     <div class="brand-titel" style="color: #0fabc6">
-                                        <a>شیائومی</a>
+                                        <a class="ml-1">شیائومی</a>
                                         <span>/</span>
-                                        <a>گوشی موبایل شیائومی</a>
+                                        <a class="mr-1">گوشی موبایل شیائومی</a>
                                     </div>
                                 </div>
                                 <h1 class="one-titel">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت</h1>

@@ -1657,7 +1657,7 @@ body {
 
 .c-product-shipping-limitation {
     padding: 12px 52px 12px 12px;
-    /* z-index: 2000; */
+    z-index: 2000;
     width: 350px;
     border-radius: 8px;
     margin-top: 78px;
@@ -1672,7 +1672,7 @@ body {
 
 .c-product-shipping-limitationn {
     /* padding: 12px 52px 12px 12px; */
-    z-index: 2000;
+    /* z-index: 2000; */
     border-radius: 8px;
     margin-top: 8px;
     border: 1px solid #e0e0e2;
