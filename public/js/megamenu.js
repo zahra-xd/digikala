@@ -33,7 +33,7 @@ function hover() {
 
         navHover.css('transform', 'scalex(1)');
         $('.t-header-search-lately').hide();
-        $('.input-t-header-search').removeClass('bg-white')
+        $('.t-header-search-lately').removeClass('bg-white')
         if (self.hasClass('has-sub')) {
             $('.overlay').addClass('is-active');
         }

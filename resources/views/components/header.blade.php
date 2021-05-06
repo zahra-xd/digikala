@@ -8,7 +8,7 @@
                   {{-- <input type="text" class="input-t-header-search" placeholder="جستجو کنید"> --}}
                   <input type="search" class="search-box input-t-header-search" placeholder="جستجو در دیجی‌کالا …"> 
               
-                  <div class="t-header-search-lately" style="display: block;">
+                  <div class="t-header-search-lately" >
                      بیشترین جستجوهای اخیر:
                      <br>
                      <a href="#">باتری</a>

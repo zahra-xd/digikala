@@ -114,13 +114,10 @@
           input.addClass('bg-white')
           $('.overlay').addClass('is-active');
           $('.t-header-search-lately').show();
-
-
       } else {
           input.removeClass('bg-white');
           $('.overlay').removeClass('is-active');
           $('.t-header-search-lately').hide();
-
       }
   })
 
