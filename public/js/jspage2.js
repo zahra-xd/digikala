@@ -325,71 +325,19 @@ function zoom() {
         }
     });
 }
-//// 
-// $(document).ready(function() {
-//     var main = $('.content__main'),
-//         mainImg = main.find('#img_cover'),
-//         bool = false,
-//         win = $(window),
-//         widthImg = mainImg.width(),
 
-//         heightImg = mainImg.height(),
+document.getElementById("de-cl1").addEventListener("click", myFunctionc);
 
-//         positionFunc = function(e) {
+function myFunctionc() {
+    document.getElementById("cl-value").innerHTML = "زرد";
+}
+document.getElementById("de-cl2").addEventListener("click", myFunctionc2);
 
+function myFunctionc2() {
+    document.getElementById("cl-value").innerHTML = "مشکی";
+}
+document.getElementById("de-cl3").addEventListener("click", myFunctionc3);
 
-//             return x = e.pageX - main.offset().left, y = e.pageY - main.offset().top;
-//         };
-//     var zoomIn = function(e) {
-//         positionFunc(e);
-//         mainImg.animate({
-//             left: -x,
-//             top: -y,
-//             width: widthImg * 2.01,
-//             height: heightImg * 2.01
-//         }, 200, function() {
-//             main.bind('mousemove', function(e) {
-//                 positionFunc(e);
-//                 mainImg.css({
-//                     left: -x,
-//                     top: -y
-//                 });
-//             });
-//         }).css({
-//             cursor: 'zoom-out',
-//         });
-//         bool = true;
-//     }
-//     var zoomOut = function() {
-//         mainImg.animate({
-//             left: 0,
-//             top: 0,
-//             width: widthImg,
-//             height: heightImg
-//         }, 100).css({
-//             cursor: ''
-//         });
-//         main.unbind('mousemove');
-//         bool = false;
-//     }
-
-//     main.bind('mousedown', function(e) {
-//         if (bool !== true) {
-//             zoomIn(e);
-//             main.css({
-//                 height: heightImg
-//             });
-//         } else {
-//             zoomOut();
-//             main.css({
-//                 height: $(this).height()
-//             });
-//         }
-//     })
-
-//     window.scroll(function() {
-//         if (bool) {
-//             zoomOut();
-//         }
-//     });
-// })
+function myFunctionc3() {
+    document.getElementById("cl-value").innerHTML = "آبی";
+}
