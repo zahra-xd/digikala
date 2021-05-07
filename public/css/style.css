@@ -1889,10 +1889,11 @@ ul {
 }
 
 .c-footer__jumpup-angle:before {
-    content: "\f106";
+    /* content: "\f106"; */
     font-family: FontAwesome;
     color: #fff;
     text-align: center;
+    content: url('/image/up-arrow.png');
     padding-right: 5px;
 }
 
