@@ -3051,12 +3051,13 @@ html {
 .o-box__headerf:after {
     content: "";
     background-color: #ef394e;
-    margin-top: 38px;
+    margin-top: 48px;
     height: 2px;
     right: -170px;
     position: relative;
     width: 70px;
     border-radius: 1px;
+    bottom: 10px;
 }
 
 .c-boxf {
@@ -3093,6 +3094,7 @@ html {
     flex-wrap: wrap;
     min-height: 83px;
     padding: 0 16px;
+    border-top: 1px solid #dfdfdf;
 }
 
 .list.in-filterf {
@@ -3489,6 +3491,13 @@ html {
     color: #ef394e;
 }
 
-.c-table-suppliers__rowf.in-list.in-filterf:not(:first-child) {
-    border-top: 1px solid #dfdfdf;
+.o-btn--outlined-red-md:hover {
+    text-decoration: none;
+    color: #ef394e;
+}
+
+.f-frosh {
+    color: #0fabc6;
+    float: right;
+    margin-top: 30px;
 }

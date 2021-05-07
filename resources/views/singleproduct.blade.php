@@ -378,8 +378,8 @@
                                      <div class="c-table-suppliers__seller-wrapperf">
                                          <p class="c-table-suppliers__seller-name"><a>دیجی کالا</a></p>
                                     <div class="c-table-suppliers__ratingf">
-                                        عملکرد
-                                 <span class="u-text-bold">5</span> 
+                                       عملکرد 
+                                 <span class="u-text-bold mr-2">5</span> 
                                  از 5
                                  <span class="u-divider"></span>
                                  <span class="u-text-bold">85%</span> 
@@ -397,8 +397,8 @@
                                             </div>
                                         </div>
                                             <div class="c-seller-rating__textf">
-                                                <div class="c-seller-rating__thin-textf">:عملکرد</div>
-                                                <div class="c-seller-rating__bold-textf js-finalScore">5</div>
+                                                <div class="c-seller-rating__thin-textf">عملکرد:</div>
+                                                <div class="c-seller-rating__bold-textf js-finalScore mr-2">5</div>
                                             </div>
                                             <div class="c-seller-rating__ratings ">
                                                 <div class="c-round-progress__container">
@@ -477,6 +477,114 @@
                                            <a class="o-btn--outlined-red-md ">افزودن به سبد</a>
                                        </div>
                                     </div>
+                                    {{-- **** --}}
+                                    <div class="list.in-filterf c-table-suppliers__rowf">
+                                    <div class="c-table-suppliers__cellf c-table-suppliers__cell--titlef">
+                                        <span><i class="ml-2" style="    right: -20px;  position: relative;"><img src="/image/icon.png" style="width: 30px; border-radius: 0px 12px 12px 0px;"></i></span>
+                                        <div class="c-table-suppliers__seller-wrapperf">
+                                            <p class="c-table-suppliers__seller-name"><a>دیجی کالا</a></p>
+                                       <div class="c-table-suppliers__ratingf">
+                                           عملکرد
+                                    <span class="u-text-bold">5</span> 
+                                    از 5
+                                    <span class="u-divider"></span>
+                                    <span class="u-text-bold">85%</span> 
+                                    رضایت از کالا
+                                       </div>
+                                       <div class="c-table-suppliers__seller-infof summary-overlayf">
+                                           <div class="c-seller-ratingf ">
+                                               <div class="">
+                                               <div class="c-seller-rating__titlef ">دیجی کالا</div>
+                                               <div class="c-seller-rating__subtitlef js-seller-register-timef ">
+                                                   عضویت از
+                                                   <label class="u-text-bold">4سال 9 ماه</label>
+                                                   پیش
+                                            
+                                               </div>
+                                           </div>
+                                               <div class="c-seller-rating__textf">
+                                                   <div class="c-seller-rating__thin-textf">عملکرد:</div>
+                                                   <div class="c-seller-rating__bold-textf js-finalScore mr-2">5</div>
+                                               </div>
+                                               <div class="c-seller-rating__ratings ">
+                                                   <div class="c-round-progress__container">
+                                                       <div class="c-round-progress js-round-progress green">
+                                                           100%
+                                                       </div>
+                                                       <div class="c-round-progress__label">تامین به موقع</div>
+                                                   </div>
+                                                   <div class="c-round-progress__container">
+                                                       <div class="c-round-progress js-round-progress green">
+                                                           100%
+                                                       </div>
+                                                       <div class="c-round-progress__label">تعهد ارسال</div>
+                                                   </div>
+                                                   <div class="c-round-progress__container">
+                                                       <div class="c-round-progress js-round-progress green">
+                                                           100%
+                                                       </div>
+                                                       <div class="c-round-progress__label">بدون ثبت مرجوعی</div>
+                                                   </div>
+                                               </div>
+                                             <div class="c-seller-rating__bottom">
+                                                 <div class="c-seller-rating__textf">
+                                                     <div class="c-seller-rating__bold-textf">
+                                                         <label>85</label>
+                                                         %
+                                                     </div>
+                                                     <div class="c-seller-rating__thin-textf">رضایت از کالا</div></div>
+                                                     <div class="c-seller-rating__subtitlef c-seller-rating__subtitle--center ">
+                                                         از مجموع 
+                                                         <label class="u-mx-4 ">55</label>
+                                                         نفر
+                                                     </div>
+                                                 
+                                                     <div class="c-seller-rating__row-rating">
+                                                         <div class="c-line-graph__container">
+                                                             <div class="c-line-graph ">
+                                                                 <div class="c-line-graph__item c-line-graph__item--5" style="width:55%"></div>
+                                                                 <div class="c-line-graph__item c-line-graph__item--4" style="width: 31%"></div>
+                                                                 <div class="c-line-graph__item c-line-graph__item--3" style="width: 5%"></div>
+                                                                 <div class="c-line-graph__item c-line-graph__item--2" style="4%"></div>
+                                                                 <div class="c-line-graph__item c-line-graph__item--1" style="width: 5%"></div>
+                                                               </div>
+                                                               <div class="c-line-graph__labels">
+                                                                   <div class="c-line-graph__label ">کاملا راضی</div>
+                                                                   <div class="c-line-graph__label ">کاملا ناراضی</div>
+                                                               </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                             </div>
+                                           </div>
+                                       </div>
+                                       
+                                           </div>
+                                           <div class="c-table-suppliers__cellf c-table-suppliers__cell--conditions">
+                                            <div class="c-table-suppliers__sender c-table-suppliers__sender--digikala no-lead-time">
+                                                <i class="ml-2"><img src="/image/truck.png" style="width: 20px"></i>
+                                             <span class="mr-2">ارسال دیجی کالا</span>
+                                    
+                                            </div>
+                                        </div>
+                                        <div class="c-table-suppliers__cellf c-table-suppliers__cell--guarantee">
+                                            <i><img src="/image/verified.png" style="width: 30px"></i>
+                                            <span class="mr-2">گارانتی 18 ماهه دیجی کالا</span>
+                                        </div>
+                                        <div class="c-table-suppliers__cellf c-table-suppliers__cell--price ">
+                                            <div class="c-pricef">
+                                                <div class="c-price__value">
+                                                   4,567,876 تومان
+                                                </div>
+                                            </div>
+                                        
+                                        </div>
+                                        <div class="c-table-suppliers__cellf c-table-suppliers__cell--action">
+                                            <a class="o-btn--outlined-red-md ">افزودن به سبد</a>
+                                        </div>
+                                    
+                                    </div>
+                                   <p class="f-frosh">نمایش دو فروشنده دیگر از این کالا</p>
                                  </div>
                                  
                             </div> 
