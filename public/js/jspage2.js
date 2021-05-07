@@ -104,7 +104,7 @@ function imageZoom(imgID, resultID) {
 
     cx = 730 / lens.offsetWidth;
     console.log(cx)
-    cy = 750 / lens.offsetHeight;
+    cy = 550 / lens.offsetHeight;
     console.log(cy)
 
     result.style.backgroundImage = "url('" + img.srcset + "')";
