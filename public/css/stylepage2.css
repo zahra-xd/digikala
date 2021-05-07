@@ -2642,7 +2642,7 @@ body.navi-is-visible .c-mini-buy-box-fixed {
 }
 
 .c-mini-buy-box-fixed {
-    margin-right: 24px;
+    margin-right: 9px;
     top: 120px;
     float: left;
     z-index: 124;
@@ -2773,7 +2773,23 @@ body.navi-is-visible .c-mini-buy-box-fixed {
 
 @media screen and (max-width: 1365px) {
     .c-product__bottom-section.has-mini-buybox .c-product__tabs-container {
-        max-width: 100%
+        max-width: 976px;
+    }
+}
+
+@media(max-width:1360px) {
+    .cadr-slaider-productt {
+        width: 976px;
+        height: 500px;
+        margin-right: 30px;
+    }
+}
+
+@media(min-width:1365px) {
+    .cadr-slaider-productt {
+        width: 1392px;
+        height: 500px;
+        margin-right: 50px;
     }
 }
 
