@@ -325,19 +325,23 @@ function zoom() {
         }
     });
 }
-
+var cval = document.getElementsByClassName('circle-item');
 document.getElementById("de-cl1").addEventListener("click", myFunctionc);
 
 function myFunctionc() {
     document.getElementById("cl-value").innerHTML = "زرد";
+    document.getElementById('de-cl1').style.border = ' 1px solid #00bfd6'
 }
 document.getElementById("de-cl2").addEventListener("click", myFunctionc2);
 
 function myFunctionc2() {
     document.getElementById("cl-value").innerHTML = "مشکی";
+    document.getElementById('de-cl2').style.border = ' 1px solid #00bfd6';
 }
 document.getElementById("de-cl3").addEventListener("click", myFunctionc3);
 
 function myFunctionc3() {
     document.getElementById("cl-value").innerHTML = "آبی";
+    document.getElementById('de-cl3').style.border = ' 1px solid #00bfd6';
+
 }

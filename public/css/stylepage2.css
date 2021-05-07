@@ -3532,3 +3532,8 @@ html {
 .c-remodal-gallery__content_1:hover {
     cursor: zoom-in;
 }
+
+.swq {
+    border: 3px solid green;
+    font-size: 40px;
+}
