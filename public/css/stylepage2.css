@@ -3528,3 +3528,7 @@ html {
         width: 967px;
     }
 }
+
+.c-remodal-gallery__content_1:hover {
+    cursor: zoom-in;
+}

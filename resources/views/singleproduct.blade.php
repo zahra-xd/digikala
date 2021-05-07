@@ -931,6 +931,8 @@
           
           @endcomponent
           
+
+          
 <script>
     $(document).ready(function() {
                 $('.owl-product').owlCarousel({
@@ -964,5 +966,6 @@
   <script src="/js/jspage2.js"></script>
   <script src="/js/indexx.js"></script>
   <script src="/js/megamenu.js"></script>
+  <script src="/jquery/jquery-3.4.1.min.js"></script>
     </body>
 </html>

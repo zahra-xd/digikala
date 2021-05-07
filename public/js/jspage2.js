@@ -10,6 +10,7 @@ var span = document.getElementsByClassName("close")[0];
 // When the user clicks the button, open the modal 
 function oopemodel() {
     modalcd.style.display = "block";
+    zoom();
     document.getElementById("mybody").classList.add("sdr");
     bodyy.addClass('.rm');
 
@@ -257,3 +258,138 @@ function myFunction12() {
         moreText12.style.display = "inline";
     }
 }
+
+// **********************zoom click************************
+
+function zoom() {
+    var main = $('.c-remodal-gallery__content_1'),
+        mainImg = main.find('.imggg'),
+        bool = false,
+        win = $(window),
+        widthImg = mainImg.width(),
+        // console.log('width Img =  ' + widthImg)
+        heightImg = mainImg.height(),
+        // console.log('height Img =  ' + heightImg)
+        positionFunc = function(e) {
+            return x = e.pageX - main.offset().left, y = e.pageY - main.offset().top;
+        };
+    console.log('width Img =  ' + widthImg)
+    var zoomIn = function(e) {
+        positionFunc(e);
+        mainImg.animate({
+            left: -x,
+            top: -y,
+            width: widthImg * 2.01,
+            height: heightImg * 2.01
+        }, 200, function() {
+            main.bind('mousemove', function(e) {
+                positionFunc(e);
+                mainImg.css({
+                    left: -x,
+                    top: -y
+                });
+            });
+        }).css({
+            cursor: 'zoom-out',
+        });
+        bool = true;
+    }
+    var zoomOut = function() {
+        mainImg.animate({
+            left: 0,
+            top: 0,
+            width: widthImg,
+            height: heightImg
+        }, 100).css({
+            cursor: ''
+        });
+        main.unbind('mousemove');
+        bool = false;
+    }
+    main.bind('mousedown', function(e) {
+        if (bool !== true) {
+            zoomIn(e);
+            main.css({
+                height: heightImg
+            });
+        } else {
+            zoomOut();
+            main.css({
+                height: $(this).height()
+            });
+        }
+    })
+    window.scroll(function() {
+        if (bool) {
+            zoomOut();
+        }
+    });
+}
+//// 
+// $(document).ready(function() {
+//     var main = $('.content__main'),
+//         mainImg = main.find('#img_cover'),
+//         bool = false,
+//         win = $(window),
+//         widthImg = mainImg.width(),
+
+//         heightImg = mainImg.height(),
+
+//         positionFunc = function(e) {
+
+
+//             return x = e.pageX - main.offset().left, y = e.pageY - main.offset().top;
+//         };
+//     var zoomIn = function(e) {
+//         positionFunc(e);
+//         mainImg.animate({
+//             left: -x,
+//             top: -y,
+//             width: widthImg * 2.01,
+//             height: heightImg * 2.01
+//         }, 200, function() {
+//             main.bind('mousemove', function(e) {
+//                 positionFunc(e);
+//                 mainImg.css({
+//                     left: -x,
+//                     top: -y
+//                 });
+//             });
+//         }).css({
+//             cursor: 'zoom-out',
+//         });
+//         bool = true;
+//     }
+//     var zoomOut = function() {
+//         mainImg.animate({
+//             left: 0,
+//             top: 0,
+//             width: widthImg,
+//             height: heightImg
+//         }, 100).css({
+//             cursor: ''
+//         });
+//         main.unbind('mousemove');
+//         bool = false;
+//     }
+
+//     main.bind('mousedown', function(e) {
+//         if (bool !== true) {
+//             zoomIn(e);
+//             main.css({
+//                 height: heightImg
+//             });
+//         } else {
+//             zoomOut();
+//             main.css({
+//                 height: $(this).height()
+//             });
+//         }
+//     })
+
+//     window.scroll(function() {
+//         if (bool) {
+//             zoomOut();
+//         }
+//     });
+// })
