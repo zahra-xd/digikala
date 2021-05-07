@@ -2645,7 +2645,7 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     margin-right: 9px;
     top: 120px;
     float: left;
-    z-index: 124;
+    /* z-index: 124; */
     position: -webkit-sticky;
     position: sticky;
     width: 300px;
@@ -2656,6 +2656,11 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     margin-bottom: 40px;
     -webkit-transition: top .3s ease;
     transition: top .3s ease;
+}
+
+.o-link:hover {
+    text-decoration: none;
+    color: #007bff;
 }
 
 .c-mini-buy-box {
@@ -3110,7 +3115,7 @@ html {
     flex-wrap: wrap;
     min-height: 83px;
     padding: 0 16px;
-    border-top: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
 }
 
 .list.in-filterf {
@@ -3516,4 +3521,10 @@ html {
     color: #0fabc6;
     float: right;
     margin-top: 30px;
+}
+
+@media(max-width:769px) {
+    .vav {
+        width: 967px;
+    }
 }
