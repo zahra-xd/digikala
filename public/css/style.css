@@ -3116,6 +3116,18 @@ header .t-header-search-lately img {
     /* Black w/ opacity */
 }
 
+@media (max-width: 769px) {
+    .vav {
+        width: 967px;
+    }
+}
+
+@media(max-width:769px) {
+    .line-user::before {
+        display: none;
+    }
+}
+
 
 /* .remodal-wrapper {
     position: fixed;
