@@ -85,7 +85,9 @@
 
                                          </div>
                                          <ul class="product-variants">
-                                             <span id="de-cl1"><li class="circle-item" style="background:yellow"></li></span>
+                                             <span id="de-cl1" data-toggle="tooltip"  title="زرد" data-placement="bottom" ><li class="circle-item" style="background:yellow"></li>
+                                               
+                                            </span>
                                              <span id="de-cl2"><li class="circle-item" style="background: black"> </li></span>
                                              <span id="de-cl3"> <li class="circle-item" style="background: blue"> </li></span>
                                          </ul>

@@ -345,3 +345,5 @@ function myFunctionc3() {
     document.getElementById('de-cl3').style.border = ' 1px solid #00bfd6';
 
 }
+
+$('#de-cl1').tooltip('toggle')
