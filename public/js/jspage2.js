@@ -346,4 +346,6 @@ function myFunctionc3() {
 
 }
 
-$('#de-cl1').tooltip('toggle')
+$('#de-cl1').tooltip('enable')
+$('#de-cl2').tooltip('enable')
+$('#de-cl3').tooltip('enable')

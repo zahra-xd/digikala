@@ -88,8 +88,8 @@
                                              <span id="de-cl1" data-toggle="tooltip"  title="زرد" data-placement="bottom" ><li class="circle-item" style="background:yellow"></li>
                                                
                                             </span>
-                                             <span id="de-cl2"><li class="circle-item" style="background: black"> </li></span>
-                                             <span id="de-cl3"> <li class="circle-item" style="background: blue"> </li></span>
+                                             <span id="de-cl2" data-toggle="tooltip"  title="مشکی" data-placement="bottom"><li class="circle-item" style="background: black"> </li></span>
+                                             <span id="de-cl3" data-toggle="tooltip"  title="آبی" data-placement="bottom"> <li class="circle-item" style="background: blue"> </li></span>
                                          </ul>
                                      </div>
                                      <div class="c-product__params js-is-expandable">
