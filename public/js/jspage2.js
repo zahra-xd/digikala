@@ -208,7 +208,8 @@ function zoom() {
         bool = false,
         win = $(window),
         widthImg = mainImg.width(),
-        // console.log('width Img =  ' + widthImg)
+        // console.log('width Img = ' + widthImg)
+
         heightImg = mainImg.height(),
         // console.log('height Img =  ' + heightImg)
         positionFunc = function(e) {
@@ -266,6 +267,8 @@ function zoom() {
         }
     });
 }
+
+
 var cval = document.getElementsByClassName('circle-item');
 document.getElementById("de-cl1").addEventListener("click", myFunctionc);
 
