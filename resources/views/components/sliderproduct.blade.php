@@ -5,8 +5,7 @@
                         <div class="cadr-slaider-productt">
                             <div class="text-prodouct"> 
                                 <div class="o-headlinew"><span> <p class="pt-2 pr-4" style="font-size: 16px;"> {{$titel}}</p></span></div>
-                             
-                                </div>
+                           </div>
                             <div class="owl-carousel owl-product owl-theme owl-rtl owl-loaded owl-drag">
                                 <div class="owl-stage-outer">
                                     <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1900px;">

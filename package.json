@@ -19,5 +19,9 @@
     },
     "dependencies": {
         "bootstrap": "^5.0.0"
+    },
+    "scripts": {
+        "build": "webpack -p",
+        "watch": "webpack --watch"
     }
 }
