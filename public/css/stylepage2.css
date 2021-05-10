@@ -2099,10 +2099,15 @@ body {
     position: relative;
     display: inline-block;
     font-size: 16px;
+    width: 460px;
     right: -65%;
     font-size: 1.143rem;
     line-height: 40px;
     font-weight: 500;
+}
+
+.c-params__collapse--link .js-open-product-params {
+    width: 150px;
 }
 
 .o-box__header-desc {

@@ -34,8 +34,8 @@ use Illuminate\Support\Facades\Route;
       });
   
 
-     Route::get('/', function () {
-        return view('singleproduct');
-     });
+    Route::get('/', function () {
+       return view('singleproduct');
+    });
 
 
