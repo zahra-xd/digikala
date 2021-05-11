@@ -3616,14 +3616,17 @@ html {
 @media (max-width:1100px) {
     .product-cofing {
         width: 318px;
+        right: -30px;
+        position: relative;
     }
 }
 
-@media (min-width:1106px) {
+
+/* @media (min-width:1106px) {
     .product-cofing {
         width: 544px;
     }
-}
+} */
 
 .c-product__engagement {
     width: 340px;
