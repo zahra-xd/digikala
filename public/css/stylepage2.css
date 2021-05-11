@@ -863,7 +863,7 @@ body {
 
 @media(max-width:1100px) {
     .c-product__seller-info {
-        width: 316px;
+        width: 309px;
         position: relative;
         /* left:-30%; */
     }
@@ -1695,7 +1695,7 @@ body {
 
 @media(max-width:1100px) {
     .card-galery-img img {
-        width: 290px;
+        width: 247px;
     }
 }
 
@@ -3603,4 +3603,28 @@ html {
     .o-box-titi {
         margin-top: -30px;
     }
+}
+
+.c-pr-titel {
+    margin-right: -128px;
+}
+
+.o-box-question {
+    margin-right: -10%;
+}
+
+@media (max-width:1100px) {
+    .product-cofing {
+        width: 318px;
+    }
+}
+
+@media (min-width:1106px) {
+    .product-cofing {
+        width: 544px;
+    }
+}
+
+.c-product__engagement {
+    width: 340px;
 }

@@ -682,7 +682,7 @@
                                       <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                                     </div>
                                     <section>
-                                        <h3 class="c-params__title">مشخصات کلی</h3>
+                                        <h3 class="c-params__title c-pr-titel">مشخصات کلی</h3>
                                         <ul class="c-params__list">
                                             <li>
                                                 <div class="c-params__list-key">
@@ -756,7 +756,7 @@
                       {{-- //دیدگاه کاربران --}}
                       <div class="ff-box">
                         <div class="o-box__header" id="bakhsh-4">
-                            <span class="o-box__title  ">امتیاز و دیدگاه کاربران</span><br>
+                            <span class="o-box__title  mr-1">امتیاز و دیدگاه کاربران</span><br>
                             <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                             
                         </div>
@@ -853,7 +853,7 @@
                         {{-- //پرسش و پاسخ --}}
                         <div class="ff-box">
                             <div class="o-box__header" id="bakhsh-5">
-                                <span class="o-box__title ">پرسش و پاسخ</span><br>
+                                <span class="o-box__title  o-box-question">پرسش و پاسخ</span><br>
                                 <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>    
                             </div>
                           </div> 
