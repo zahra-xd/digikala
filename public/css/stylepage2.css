@@ -1974,7 +1974,7 @@ body {
 }
 
 .cadr-slaider-productt {
-    width: 100%;
+    width: 95%;
     background: #fff;
     height: 500px;
     position: relative;
@@ -2797,7 +2797,7 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     }
 } */
 
-@media(max-width:1360px) {
+@media(max-width:769px) {
     .cadr-slaider-productt {
         width: 976px;
         height: 500px;
@@ -2805,11 +2805,10 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     }
 }
 
-@media(min-width:1365px) {
+@media(min-width:1023px) {
     .cadr-slaider-productt {
-        width: 1392px;
         height: 500px;
-        margin-right: 50px;
+        right: 30px;
     }
 }
 
