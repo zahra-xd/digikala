@@ -2123,6 +2123,7 @@ body {
     margin-top: 8px;
     height: 2px;
     width: 70px;
+    margin-right: 12px;
     border-radius: 1px;
 }
 
@@ -2153,6 +2154,7 @@ body {
 .c-mask-link {
     color: #0fabc6;
     float: right;
+    margin-right: 10px;
 }
 
 .c-content-expert__articles {
@@ -2295,6 +2297,7 @@ body {
     color: #12b4cd;
     float: right;
     font-weight: 700;
+    width: 150px;
     padding-bottom: 20px;
     -webkit-box-pack: start;
     -ms-flex-pack: start;
@@ -3570,4 +3573,34 @@ html {
 
 .c-params__collapse--link .js-open-product-params {
     width: 150px;
+}
+
+.text--product-summary {
+    text-align: justify;
+    width: 860px;
+    margin-right: 12px;
+}
+
+@media(max-width:350px) {
+    .text--product-summary {
+        margin-top: 100px;
+    }
+}
+
+@media(max-width:360px) {
+    .o-box-titieaj {
+        margin-top: 250px;
+    }
+}
+
+@media (max-width:360px) {
+    .img-ajmali {
+        margin-top: 400px;
+    }
+}
+
+@media(max-width:360px) {
+    .o-box-titi {
+        margin-top: -30px;
+    }
 }

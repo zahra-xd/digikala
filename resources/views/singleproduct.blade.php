@@ -11,7 +11,7 @@
           <link rel="stylesheet" href="/font/fontasem/font-awesome.min.css"> 
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
           <link href="{{ asset('owll-crousel/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css') }}" rel="stylesheet">
-          <script src="/jquery/jquery-3.4.1.min.js"></script>
+         
 
             </head>
             
@@ -356,7 +356,7 @@
                     </section>
                 
                 </div>
-                {{-- //لیست فروشندگان کامل نشده --}}
+              
                
                <div>
            
@@ -637,7 +637,7 @@
                       <div>
                           <div>
                             <div class="o-box__header" id="bakhsh-1">
-                                <span class="o-box__title ">نقد و بررسی اجمالی</span><br>
+                                <span class="o-box__title o-box-titi ">نقد و بررسی اجمالی</span><br>
                                 <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                               </div>
                               <article>
@@ -645,7 +645,7 @@
                                          <div>
                                              <section class="c-content-expert__summary">
                                                  <div class="c-mask">
-                                                     <div class="c-mask__text c-mask__text--product-summary"><p style="text-align: justify ;width:860px">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت از جمله اولین سری محصولات برند شیائومی است. این محصول دارای ساختاری متوازن و خوش‌ساخت بدون پشتیبانی از تکنولوژی 5G در تاریخ نوامبر 2020 روانه بازار شده است. این محصول از فریم پلاستیکی ساخته شده است که قاب جلو شیشه‌ای جلوه ویژه‌ای به این مدل بخشیده است. صفحه‌نمایش گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت در اندازه 6.53 منتشر شده است. این صفحه‌نمایش کاملاً<span id="dotts">...</span><span id="more">است. شارژ معکوس یا همون (reverse charging) ویژگی است که به شما این امکان را می‌دهد که از تلفن خود برای شارژ دستگاه‌های دیگر مانند تلفن‌های هوشمند، ساعت‌های هوشمند و باندهای هوشمندی که از شارژ بی‌سیم پشتیبانی می‌کنند، استفاده کنید. برای اینکه بتوانید آنها را به‌صورت بی‌سیم شارژ کنید، دستگاه شما باید از پروتکل شارژ بی‌سیم Qi پشتیبانی کند.</span></p></div>
+                                                     <div class="c-mask__text c-mask__text--product-summary"><p  class="text--product-summary">گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت از جمله اولین سری محصولات برند شیائومی است. این محصول دارای ساختاری متوازن و خوش‌ساخت بدون پشتیبانی از تکنولوژی 5G در تاریخ نوامبر 2020 روانه بازار شده است. این محصول از فریم پلاستیکی ساخته شده است که قاب جلو شیشه‌ای جلوه ویژه‌ای به این مدل بخشیده است. صفحه‌نمایش گوشی موبایل شیائومی مدل POCO M3 M2010J19CG دو سیم‌ کارت ظرفیت 128 گیگابایت در اندازه 6.53 منتشر شده است. این صفحه‌نمایش کاملاً<span id="dotts">...</span><span id="more">است. شارژ معکوس یا همون (reverse charging) ویژگی است که به شما این امکان را می‌دهد که از تلفن خود برای شارژ دستگاه‌های دیگر مانند تلفن‌های هوشمند، ساعت‌های هوشمند و باندهای هوشمندی که از شارژ بی‌سیم پشتیبانی می‌کنند، استفاده کنید. برای اینکه بتوانید آنها را به‌صورت بی‌سیم شارژ کنید، دستگاه شما باید از پروتکل شارژ بی‌سیم Qi پشتیبانی کند.</span></p></div>
                                                      <h6 class="c-mask-link" id="mostread" onclick="readmore()">ادامه مطلب</h6>
                                                     </div>
                                            
@@ -657,7 +657,7 @@
                           </div>
                           <div>
                             <div class="o-box__header" id="bakhsh-2">
-                                <span class="o-box__title ">نقد و بررسی تخصصی</span><br>
+                                <span class="o-box__title  o-box-titieaj">نقد و بررسی تخصصی</span><br>
                                 <span class="o-box__header-desc">Xiaomi POCO M3 M2010J19CG Dual SIM 128GB Mobile Phone</span>
                              
                             </div>
@@ -667,7 +667,7 @@
                                       <section>
                                           {{-- <h3 class="c-content-expert__title">جنجالی دیگر</h3> --}}
                                           <div>
-                                              <img src="/image/86.jpg">
+                                              <img class="img-ajmali" src="/image/86.jpg">
                                           </div>
                                           <div class="c-content-expert__text"><p></p><p style="text-align:justify">شرکت «شیائومی» (xiaomi)، جزو شرکت‌هایی است که سال‌هاست برای ارائه گوشی‌هایی با کیفیت بالا تلاش می‌کند. با ارائه گوشی &nbsp;POCO M3 M2010J19CG، شاید ایندفعه در این هدف موفق شده باشد. این گوشی دارای ظاهری خاص و بدنه‌ای مقاوم بوده که در کنار باتری بزرگ خود توانسته است وزن مناسب گوشی را حفظ کند.</p><p></p></div>
                                       </section>
@@ -933,7 +933,7 @@
           @endcomponent
           
           
-          {{-- <script src="/jquery/jquery.min.js"></script>    --}}
+          <script src="/jquery/jquery-3.4.1.min.js"></script>
           {{-- <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>  --}}
           <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
           <script src="/font/fontasem/a076d05399.js" crossorigin='anonymous'></script>
