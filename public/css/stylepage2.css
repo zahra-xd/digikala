@@ -3631,3 +3631,24 @@ html {
 .c-product__engagement {
     width: 340px;
 }
+
+@media(max-width:769px) {
+    .headerr {
+        width: 100%;
+        left: 24%;
+    }
+}
+
+@media(max-width:436px) {
+    .headerr {
+        width: 100%;
+        left: 58%;
+    }
+}
+
+@media(max-width:330px) {
+    .headerr {
+        width: 100%;
+        left: 68%;
+    }
+}
