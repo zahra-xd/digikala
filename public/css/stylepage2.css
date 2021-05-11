@@ -1977,6 +1977,8 @@ body {
     width: 100%;
     background: #fff;
     height: 500px;
+    position: relative;
+    left: 20px;
     margin-top: 50px;
     border-radius: 6px;
     border: 1px solid gainsboro;
