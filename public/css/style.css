@@ -1581,11 +1581,11 @@ ul {
 
 .nj2 .item:hover {
     border: 1px solid #f0f0f0;
-    width: 245px;
+    width: 240px;
     height: 290px;
     position: relative;
     left: 7px;
-    right: 10px;
+    right: 4px;
     border-radius: 10px;
     box-shadow: 0 2px 17px 0 rgb(0 0 0 / 10%);
     z-index: 11;
@@ -3308,4 +3308,19 @@ header .t-header-search-lately img {
     .modal-content2 {
         right: 15%;
     }
+}
+
+.section-header a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.sub-menu-categoreis-li-item a:hover {
+    text-decoration: none;
+    color: rgb(239, 86, 97);
+}
+
+.sub-menu-categoreis-li-main a:hover {
+    text-decoration: none;
+    color: #000;
 }
