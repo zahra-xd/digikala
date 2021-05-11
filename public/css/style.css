@@ -3324,3 +3324,32 @@ header .t-header-search-lately img {
     text-decoration: none;
     color: #000;
 }
+
+@media(max-width:769px) {
+    .headerr {
+        width: 100%;
+        left: 24%;
+    }
+}
+
+@media(max-width:436px) {
+    .headerr {
+        width: 100%;
+        left: 58%;
+    }
+}
+
+@media(max-width:330px) {
+    .headerr {
+        width: 100%;
+        left: 68%;
+    }
+}
+
+@media (min-width: 268px) {
+    .coll-md-3 {
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+}

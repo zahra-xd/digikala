@@ -308,10 +308,10 @@
     <div class="four-box">
         <div class="containert">
            <div class="row banner2-item">
-              <div class="col-6 col-lg-3 col-xl-3 col-md-3   col-sm-3"><img src="/image/17.jpg" alt="" width="100%"> </div>
-                <div class="col-6 col-lg-3 col-xl-3 col-md-3 col-sm-3"><img src="/image/22.jpg" alt="" width="100%"> </div>
-                <div class="col-6 col-lg-3 col-xl-3 col-md-3 col-sm-3"><img src="/image/19.jpg" alt="" width="100%"> </div>
-                <div class="col-6 col-lg-3 col-xl-3 col-md-3 col-sm-3"> <img src="/image/20.jpg" alt="" width="100%"></div>
+              <div class=" col-lg-3 col-xl-3 coll-md-3   col-sm-3"><img src="/image/17.jpg" alt="" width="100%"> </div>
+                <div class=" col-lg-3 col-xl-3 coll-md-3 col-sm-3"><img src="/image/22.jpg" alt="" width="100%"> </div>
+                <div class=" col-lg-3 col-xl-3 coll-md-3 col-sm-3"><img src="/image/19.jpg" alt="" width="100%"> </div>
+                <div class=" col-lg-3 col-xl-3 coll-md-3 col-sm-3"> <img src="/image/20.jpg" alt="" width="100%"></div>
             </div>
         </div>
     </div>
@@ -769,10 +769,10 @@
                <div class="four-box">
                      <div class="containert">
                        <div class="row banner2-item">
-                <div class="col-6 col-lg-3 col-xl-3 col-md-3   col-sm-3"><img src="/image/24.jpg" alt="" width="100%"> </div>
-                <div class="col-6 col-lg-3 col-xl-3 col-md-3 col-sm-3"> <img src="/image/25.jpg" alt="" width="100%"> </div>
-                <div class="col-6 col-lg-3 col-xl-3 col-md-3 col-sm-3"> <img src="/image/26.jpg" alt="" width="100%">  </div>
-                <div class="col-6 col-lg-3 col-xl-3 col-md-3 col-sm-3"> <img src="/image/27.jpg" alt="" width="100%"> </div>
+                <div class=" col-lg-3 col-xl-3 coll-md-3   col-sm-3"><img src="/image/24.jpg" alt="" width="100%"> </div>
+                <div class=" col-lg-3 col-xl-3 coll-md-3 col-sm-3"> <img src="/image/25.jpg" alt="" width="100%"> </div>
+                <div class=" col-lg-3 col-xl-3 coll-md-3 col-sm-3"> <img src="/image/26.jpg" alt="" width="100%">  </div>
+                <div class=" col-lg-3 col-xl-3 coll-md-3 col-sm-3"> <img src="/image/27.jpg" alt="" width="100%"> </div>
             </div>
         </div>
     </div>
