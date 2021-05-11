@@ -2825,6 +2825,21 @@ body.navi-is-visible .c-mini-buy-box-fixed {
     }
 }
 
+.brand-titel a:hover {
+    text-decoration: none;
+    color: #1ca2bd;
+}
+
+.section-header a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.sub-menu-categoreis-li-item a:hover {
+    text-decoration: none;
+    color: rgb(239, 86, 97);
+}
+
 .conti {
     min-width: 1000px;
     max-width: 1676px;

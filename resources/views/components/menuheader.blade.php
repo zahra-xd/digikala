@@ -25,7 +25,7 @@
                                     <div class="section-header"><a href="">همه دسته بندی  کالای های دیجیتال<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></div>
 
                                     <ul class="sub-menu-categoreis-ul">
-                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="category.html">لوازم جانبی گوشی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
+                                        <li class="sub-menu-categoreis-li sub-menu-categoreis-li-main bbtt"><a href="" class="f-h">لوازم جانبی گوشی<i style='font-size:15px;color:gray' class='fas mr-2 mt-2'>&#xf104;</i></a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">کیف و کاور گوشی</a> </li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">پاور بانک </a></li>
                                         <li class="sub-menu-categoreis-li sub-menu-categoreis-li-item"><a href="#">پایه نگه دارنده گوشی</a> </li>                
