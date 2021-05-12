@@ -18,7 +18,9 @@
         @component('components.header')
         @endcomponent
         {{-- //menu --}}
+     
         @component('components.menuheader')
+        @endcomponent
             <!-- //slider -->
             <div class="gt">
                 <div class="bg-slider containert">
