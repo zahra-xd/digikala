@@ -18,28 +18,28 @@
         @component('components.header')
         @endcomponent
         {{-- //menu --}}
-     
+
         @component('components.menuheader')
         @endcomponent
-            <!-- //slider -->
-            <div class="gt">
-                <div class="bg-slider containert">
-                    <div class="cont">
-                        <div class="row">
-                            <div class=" col-lg-8 coll-sm-4 col-md-8">
-                                <div id="carouselExampleIndicators" class="carousel slide carousel-image"
-                                    data-ride="carousel">
-                                    <ol class="carousel-indicators circleslide">
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-                                        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-                                    </ol>
-                                    <div class="carousel-inner">
-                                        <div class="carousel-item active"><?= $urlboot ?></div>
+        <!-- //slider -->
+        <div class="gt">
+            <div class="bg-slider containert">
+                <div class="cont">
+                    <div class="row">
+                        <div class=" col-lg-8 coll-sm-4 col-md-8">
+                            <div id="carouselExampleIndicators" class="carousel slide carousel-image"
+                                data-ride="carousel">
+                                <ol class="carousel-indicators circleslide">
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                                    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+                                </ol>
+                                <div class="carousel-inner">
+                                    <div class="carousel-item active"><?= $urlboot ?></div>
                                             <div class="carousel-item"><?= $urlboot1 ?></div>
                                             <div class="carousel-item"><?= $urlboot2 ?> </div>
                                             <div class="carousel-item"><?= $urlboot3 ?> </div>
@@ -292,7 +292,7 @@
                                     <a class="c-swiper-specials__title"><img src="/image/21.png" alt="  پیشنهاد شگفت انگیز سوپرمارکتی"> </a>
                                       
                                          @component('components.btn-shegeft')
-                                                             
+                                                                 
                                          @endcomponent
                                     </div>
                                 <div class="box-sh">
@@ -716,195 +716,195 @@
                     </div>
                      <!-- // محصولات صفحه کلید -->
                         @component('components.slideprudect-kibord')
-                                        @slot('titel')
-                                                         کیبورد(صفحه کلید)
+                                            @slot('titel')
+                                                                 کیبورد(صفحه کلید)
+                                            @endslot
+                                            @slot('urllimage')
+                                                                    <img src="/image/28.jpg">
+                                            @endslot
+                                            @slot('text')
+                                                                کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                            @slot('pricee')
+                                                                    630,000
+                                            @endslot
+                                            @slot('urllimage1')
+                                                                <img src="/image/28.jpg">
                                         @endslot
-                                        @slot('urllimage')
+                                        @slot('text1')
+                                                            کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                        @endslot
+                                        @slot('pricee1')
+                                                                730,000
+                                        @endslot
+                                        @slot('urllimage2')
                                                             <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text2')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price2')
+                                                              400,000
                                         @endslot
-                                        @slot('text')
-                                                        کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                        @slot('urllimage3')
+                                                            <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text3')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price3')
+                                                              500,000
                                         @endslot
-                                        @slot('pricee')
-                                                            630,000
+                                        @slot('urllimage4')
+                                                            <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text4')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price4')
+                                                              420,000
                                         @endslot
-                                        @slot('urllimage1')
-                                                        <img src="/image/28.jpg">
-                                    @endslot
-                                    @slot('text1')
-                                                    کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
-                                    @endslot
-                                    @slot('pricee1')
-                                                        730,000
-                                    @endslot
-                                    @slot('urllimage2')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text2')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                        @slot('urllimage5')
+                                                            <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text5')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price5')
+                                                              520,000
                                         @endslot
-                                   @slot('price2')
-                                                      400,000
-                                    @endslot
-                                    @slot('urllimage3')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text3')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                        @slot('urllimage6')
+                                                            <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text6')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price6')
+                                                              120,000
                                         @endslot
-                                   @slot('price3')
-                                                      500,000
-                                    @endslot
-                                    @slot('urllimage4')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text4')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                        @slot('urllimage7')
+                                                            <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text7')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price7')
+                                                              1,420,000
                                         @endslot
-                                   @slot('price4')
-                                                      420,000
-                                    @endslot
-                                    @slot('urllimage5')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text5')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                        @slot('urllimage8')
+                                                            <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text8')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price8')
+                                                              720,000
                                         @endslot
-                                   @slot('price5')
-                                                      520,000
-                                    @endslot
-                                    @slot('urllimage6')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text6')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                        @slot('urllimage9')
+                                                            <img src="/image/28.jpg">
+                                       @endslot
+                                        @slot('text9')
+                                                                      کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
+                                            @endslot
+                                       @slot('price9')
+                                                              220,000
                                         @endslot
-                                   @slot('price6')
-                                                      120,000
-                                    @endslot
-                                    @slot('urllimage7')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text7')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
-                                        @endslot
-                                   @slot('price7')
-                                                      1,420,000
-                                    @endslot
-                                    @slot('urllimage8')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text8')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
-                                        @endslot
-                                   @slot('price8')
-                                                      720,000
-                                    @endslot
-                                    @slot('urllimage9')
-                                                    <img src="/image/28.jpg">
-                                   @endslot
-                                    @slot('text9')
-                                                              کیبورد و ماوس بی سیم تسکو مدل TKM 7020W 
-                                        @endslot
-                                   @slot('price9')
-                                                      220,000
-                                    @endslot
                         @endcomponent
                 {{-- **********************   <!-- // تجهیزات کوهنوردی و سفر--> --}}
                         @component('components.slideprudect-kibord')
-                                        @slot('titel')
-                                                        تجهیزات کوهنوردی و سفر
+                                            @slot('titel')
+                                                                تجهیزات کوهنوردی و سفر
+                                           @endslot
+                                           @slot('urllimage')
+                                                               <img src="/image/29.jpg">
+                                           @endslot
+                                           @slot('text')
+                                                                آتش زنه  مدل دائمی  
+                                           @endslot
+                                           @slot('pricee')
+                                                                   230,000
+                                           @endslot
+                                           @slot('urllimage1')
+                                                               <img src="/image/27 (1).jpg">
                                        @endslot
-                                       @slot('urllimage')
-                                                       <img src="/image/29.jpg">
+                                       @slot('text1')
+                                                             آفتابه مسافرتی کد 1001  
                                        @endslot
-                                       @slot('text')
-                                                        آتش زنه  مدل دائمی  
+                                       @slot('pricee1')
+                                                               730,000
                                        @endslot
-                                       @slot('pricee')
-                                                           230,000
+                                       @slot('urllimage2')
+                                                           <img src="/image/31.jpg"> 
+                                      @endslot
+                                       @slot('text2')
+                                                               منقل سفری حیران مدل A60 
+                                           @endslot
+                                      @slot('price2')
+                                                             400,000
                                        @endslot
-                                       @slot('urllimage1')
-                                                       <img src="/image/27 (1).jpg">
-                                   @endslot
-                                   @slot('text1')
-                                                     آفتابه مسافرتی کد 1001  
-                                   @endslot
-                                   @slot('pricee1')
-                                                       730,000
-                                   @endslot
-                                   @slot('urllimage2')
-                                                   <img src="/image/31.jpg"> 
-                                  @endslot
-                                   @slot('text2')
-                                                       منقل سفری حیران مدل A60 
+                                       @slot('urllimage3')
+                                                           <img src="/image/30 (1).jpg">
+                                      @endslot
+                                       @slot('text3')
+                                                            یخ خشک سفری کد HP270 بسته 2  
+                                           @endslot
+                                      @slot('price3')
+                                                             500,000
                                        @endslot
-                                  @slot('price2')
-                                                     400,000
-                                   @endslot
-                                   @slot('urllimage3')
-                                                   <img src="/image/30 (1).jpg">
-                                  @endslot
-                                   @slot('text3')
-                                                    یخ خشک سفری کد HP270 بسته 2  
+                                       @slot('urllimage4')
+                                                           <img src="/image/33.jpg">
+                                      @endslot
+                                       @slot('text4')
+                                                            منقل سفری
+                                           @endslot
+                                      @slot('price4')
+                                                             420,000
                                        @endslot
-                                  @slot('price3')
-                                                     500,000
-                                   @endslot
-                                   @slot('urllimage4')
-                                                   <img src="/image/33.jpg">
-                                  @endslot
-                                   @slot('text4')
-                                                    منقل سفری
+                                       @slot('urllimage5')
+                                                           <img src="/image/29.jpg">
+                                      @endslot
+                                       @slot('text5')
+                                                           آتش زنه  مدل دائمی  
+                                           @endslot
+                                      @slot('price5')
+                                                             520,000
                                        @endslot
-                                  @slot('price4')
-                                                     420,000
-                                   @endslot
-                                   @slot('urllimage5')
-                                                   <img src="/image/29.jpg">
-                                  @endslot
-                                   @slot('text5')
-                                                   آتش زنه  مدل دائمی  
+                                       @slot('urllimage6')
+                                                           <img src="/image/30.jpg">
+                                      @endslot
+                                       @slot('text6')
+                                                           یخ خشک سفری کد HP270 بسته 2  
+                                           @endslot
+                                      @slot('price6')
+                                                             120,000
                                        @endslot
-                                  @slot('price5')
-                                                     520,000
-                                   @endslot
-                                   @slot('urllimage6')
-                                                   <img src="/image/30.jpg">
-                                  @endslot
-                                   @slot('text6')
-                                                   یخ خشک سفری کد HP270 بسته 2  
+                                       @slot('urllimage7')
+                                                           <img src="/image/27 (1).jpg">
+                                      @endslot
+                                       @slot('text7')
+                                                           آفتابه مسافرتی کد 1001  
+                                           @endslot
+                                      @slot('price7')
+                                                             1,420,000
                                        @endslot
-                                  @slot('price6')
-                                                     120,000
-                                   @endslot
-                                   @slot('urllimage7')
-                                                   <img src="/image/27 (1).jpg">
-                                  @endslot
-                                   @slot('text7')
-                                                   آفتابه مسافرتی کد 1001  
+                                       @slot('urllimage8')
+                                                           <img src="/image/32.jpg">
+                                      @endslot
+                                       @slot('text8')
+                                                           منقل سفری
+                                           @endslot
+                                      @slot('price8')
+                                                             720,000
                                        @endslot
-                                  @slot('price7')
-                                                     1,420,000
-                                   @endslot
-                                   @slot('urllimage8')
-                                                   <img src="/image/32.jpg">
-                                  @endslot
-                                   @slot('text8')
-                                                   منقل سفری
+                                       @slot('urllimage9')
+                                                           <img src="/image/30.jpg">
+                                      @endslot
+                                       @slot('text9')
+                                                           یخ خشک سفری کد HP270 بسته 2  
+                                           @endslot
+                                      @slot('price9')
+                                                             220,000
                                        @endslot
-                                  @slot('price8')
-                                                     720,000
-                                   @endslot
-                                   @slot('urllimage9')
-                                                   <img src="/image/30.jpg">
-                                  @endslot
-                                   @slot('text9')
-                                                   یخ خشک سفری کد HP270 بسته 2  
-                                       @endslot
-                                  @slot('price9')
-                                                     220,000
-                                   @endslot
                        @endcomponent
                            <!-- //2 تا باکس تصویر دوم  -->
                            <div class="four-box">
@@ -917,99 +917,99 @@
                         </div> 
                          <!-- // زیر انداز-->
                         @component('components.slideprudect-kibord')
-                                        @slot('titel')
-                                                        زیرانداز
+                                            @slot('titel')
+                                                                زیرانداز
+                                           @endslot
+                                           @slot('urllimage')
+                                                               <img src="/image/40.jpg">
+                                           @endslot
+                                           @slot('text')
+                                                                زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                           @slot('pricee')
+                                                                   230,000
+                                           @endslot
+                                           @slot('urllimage1')
+                                                               <img src="/image/41.jpg">
                                        @endslot
-                                       @slot('urllimage')
-                                                       <img src="/image/40.jpg">
+                                       @slot('text1')
+                                                           زیرانداز سفری سومریا مدل 400068 
                                        @endslot
-                                       @slot('text')
-                                                        زیرانداز سفری سومریا مدل 400068 
+                                       @slot('pricee1')
+                                                               730,000
                                        @endslot
-                                       @slot('pricee')
-                                                           230,000
+                                       @slot('urllimage2')
+                                                           <img src="/image/42.jpg">
+                                      @endslot
+                                       @slot('text2')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price2')
+                                                             400,000
                                        @endslot
-                                       @slot('urllimage1')
-                                                       <img src="/image/41.jpg">
-                                   @endslot
-                                   @slot('text1')
-                                                   زیرانداز سفری سومریا مدل 400068 
-                                   @endslot
-                                   @slot('pricee1')
-                                                       730,000
-                                   @endslot
-                                   @slot('urllimage2')
-                                                   <img src="/image/42.jpg">
-                                  @endslot
-                                   @slot('text2')
-                                                   زیرانداز سفری سومریا مدل 400068 
+                                       @slot('urllimage3')
+                                                           <img src="/image/43.jpg">
+                                      @endslot
+                                       @slot('text3')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price3')
+                                                             500,000
                                        @endslot
-                                  @slot('price2')
-                                                     400,000
-                                   @endslot
-                                   @slot('urllimage3')
-                                                   <img src="/image/43.jpg">
-                                  @endslot
-                                   @slot('text3')
-                                                   زیرانداز سفری سومریا مدل 400068 
+                                       @slot('urllimage4')
+                                                           <img src="/image/44.jpg">
+                                      @endslot
+                                       @slot('text4')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price4')
+                                                             420,000
                                        @endslot
-                                  @slot('price3')
-                                                     500,000
-                                   @endslot
-                                   @slot('urllimage4')
-                                                   <img src="/image/44.jpg">
-                                  @endslot
-                                   @slot('text4')
-                                                   زیرانداز سفری سومریا مدل 400068 
+                                       @slot('urllimage5')
+                                                           <img src="/image/44.jpg">
+                                      @endslot
+                                       @slot('text5')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price5')
+                                                             520,000
                                        @endslot
-                                  @slot('price4')
-                                                     420,000
-                                   @endslot
-                                   @slot('urllimage5')
-                                                   <img src="/image/44.jpg">
-                                  @endslot
-                                   @slot('text5')
-                                                   زیرانداز سفری سومریا مدل 400068 
+                                       @slot('urllimage6')
+                                                           <img src="/image/41.jpg">
+                                      @endslot
+                                       @slot('text6')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price6')
+                                                             120,000
                                        @endslot
-                                  @slot('price5')
-                                                     520,000
-                                   @endslot
-                                   @slot('urllimage6')
-                                                   <img src="/image/41.jpg">
-                                  @endslot
-                                   @slot('text6')
-                                                   زیرانداز سفری سومریا مدل 400068 
+                                       @slot('urllimage7')
+                                                           <img src="/image/41.jpg">
+                                      @endslot
+                                       @slot('text7')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price7')
+                                                             1,420,000
                                        @endslot
-                                  @slot('price6')
-                                                     120,000
-                                   @endslot
-                                   @slot('urllimage7')
-                                                   <img src="/image/41.jpg">
-                                  @endslot
-                                   @slot('text7')
-                                                   زیرانداز سفری سومریا مدل 400068 
+                                       @slot('urllimage8')
+                                                           <img src="/image/42.jpg">
+                                      @endslot
+                                       @slot('text8')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price8')
+                                                             720,000
                                        @endslot
-                                  @slot('price7')
-                                                     1,420,000
-                                   @endslot
-                                   @slot('urllimage8')
-                                                   <img src="/image/42.jpg">
-                                  @endslot
-                                   @slot('text8')
-                                                   زیرانداز سفری سومریا مدل 400068 
+                                       @slot('urllimage9')
+                                                           <img src="/image/43.jpg">
+                                      @endslot
+                                       @slot('text9')
+                                                           زیرانداز سفری سومریا مدل 400068 
+                                           @endslot
+                                      @slot('price9')
+                                                             220,000
                                        @endslot
-                                  @slot('price8')
-                                                     720,000
-                                   @endslot
-                                   @slot('urllimage9')
-                                                   <img src="/image/43.jpg">
-                                  @endslot
-                                   @slot('text9')
-                                                   زیرانداز سفری سومریا مدل 400068 
-                                       @endslot
-                                  @slot('price9')
-                                                     220,000
-                                   @endslot
                        @endcomponent
                        
                           <!-- // محصولات پربازدید اخیر-> -->
